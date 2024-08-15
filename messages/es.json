@@ -1,0 +1,620 @@
+{
+  "navbar": {
+    "items": {
+      "labelone": "PDF a Imagen",
+
+      "labeltwo": "PDF a Word",
+
+      "labelthree": "Imagen a Texto",
+
+      "labelfour": "PDF a Excel",
+
+      "labelfive": "Imagen a PDF",
+
+      "labelsix": "Word a PDF",
+
+      "labelseven": "Gratis"
+    }
+  },
+
+  "footer": {
+    "links": {
+      "labelone": "Sobre Nosotros",
+      "labeltwo": "Preguntas Frecuentes",
+
+      "labelthree": "Términos y Condiciones",
+
+      "labelfour": "Política de Privacidad",
+
+      "labelfive": "Contáctenos"
+    },
+
+    "languageLabel": "Idioma"
+  },
+
+  "imgtotext": {
+    "componentTrans": {
+      "error": "¡Error al establecer el idioma!",
+      "error2": "Error al convertir a texto",
+      "error3": "¡Solo se pueden convertir 4 archivos a la vez, selecciona solo 4 imágenes!",
+      "error4": "Solo se permiten imágenes en JPG, PNG, GIF y JPEG",
+      "message": "Arrastra y suelta, carga o pega la imagen",
+      "support": "Formatos compatibles: JPG, PNG, GIF y JPEG",
+      "upload": "Subir Archivos",
+      "titleone": "Tus archivos se eliminarán automáticamente del servidor en 2 horas",
+      "titletwo": "Haz clic para Descargar",
+      "titlethree": "Haz clic para Copiar",
+      "secure": "Tus archivos están seguros",
+      "upload2": "Sube o pega la imagen",
+      "selectLang": "Selecciona el idioma",
+      "clear": "Limpiar Todo",
+      "convert": "Convertir a Texto",
+      "suggestion": "*Los archivos grandes tardan un poco, ten paciencia*",
+      "over": "Empezar de Nuevo"
+    },
+
+    "imageToTextConverter": {
+      "title": "Convertidor de Imagen a Texto",
+      "description": "Utiliza nuestro convertidor de imagen a texto para extraer texto de archivos JPG o imágenes. Extrae rápidamente archivos de texto pegando o subiendo fotos.",
+      "whatIs": {
+        "heading": "¿Qué es un Convertidor de Imagen a Texto?",
+        "contentone": "Esta herramienta ImagenOCR en línea es un convertidor de imagen a texto. Con ella puedes extraer texto y caracteres de imágenes y fotos. Si deseas extraer texto de una fotografía, prueba nuestro convertidor de imagen a texto.",
+        "contenttwo": "Si tienes un libro escaneado en formato PDF y deseas hacerlo buscable, nuestro servicio de conversión de PDF a Word o Excel es ideal para eso. Para la conversión de imagen a texto, simplemente sube el archivo y convierte la imagen a texto. Nuestro servicio extrae texto de tus fotografías utilizando algoritmos modernos de preprocesamiento de imágenes y tecnologías OCR, y lo guarda en cualquier formato editable."
+      },
+      "howItWorks": {
+        "heading": "¿Cómo Funciona Nuestro Convertidor de Imagen a Texto?",
+        "steps": {
+          "stepone": "Arrastra y suelta o sube y pega tu imagen usando el botón **Subir archivo**.",
+          "steptwo": "Luego presiona el botón **Convertir a Texto**.",
+          "stepthree": "Ahora, ten paciencia y deja que nuestro convertidor extraiga automáticamente el texto de tus imágenes.",
+          "stepfour": "En unos segundos, podrás descargar tu texto extraído en formato .txt o copiar el texto extraído de las imágenes."
+        }
+      },
+      "keyFeatures": {
+        "heading": "Características Clave del Convertidor de Imagen a Texto",
+        "features": {
+          "titleone": "Gratis para Usar",
+          "descriptionone": "Esta herramienta está disponible de forma gratuita para todos.",
+
+          "titletwo": "Soporta Múltiples Formatos de Archivo",
+          "descriptiontwo": "Este convertidor de imagen a texto admite varios formatos de archivo de imagen como JPG, PNG, JPEG, GIF y WEBP.",
+
+          "titlethree": "Imágenes de Baja Resolución",
+          "descriptionthree": "Si tienes imágenes de baja calidad, no te preocupes. El extractor de texto de imágenes puede extraer rápidamente texto de fotografías borrosas y de baja resolución. Las imágenes de libros, trabajos manuscritos y capturas de pantalla pueden ser borrosas y difíciles de leer. Sin embargo, nuestro programa puede extraer datos de tales fotos con alta precisión."
+        }
+      },
+      "benefits": {
+        "heading": "Beneficios del Convertidor de Imagen a Texto",
+        "benefits": {
+          "titledigi": "Digitalización de Documentos Impresos",
+          "descriptiondigione": "La digitalización de documentos impresos es una de las características más impactantes del convertidor de imagen a texto. Este proceso implica convertir documentos físicos, como libros, artículos y periódicos, en formatos digitales utilizando el convertidor de imagen a texto.",
+          "descriptiondigitwo": "El primer paso en la digitalización de documentos impresos es escanear el documento físico. Esto se puede hacer usando un escáner estándar, una impresora multifunción o incluso la cámara de un teléfono inteligente. El objetivo es crear una imagen de alta resolución del documento.",
+          "descriptiondigithree": "Una vez que el documento está escaneado, el archivo de imagen es procesado por un convertidor de imagen a texto. El convertidor de JPG a texto analiza el texto dentro de la imagen, reconociendo caracteres, palabras y oraciones. Este convertidor puede manejar varias fuentes, tamaños e incluso texto manuscrito. El convertidor de imagen a texto extrae el texto reconocido de la imagen y lo convierte en un formato digital, que puede ser un archivo de texto plano.",
+
+          "titlehealtwo": "Salud",
+          "descriptionheaone": "Convierte tus imágenes de registros médicos en texto utilizando el convertidor de imagen a texto para facilitar el acceso y la gestión.",
+          "descriptionheatwo": "Lee y procesa automáticamente las imágenes de recetas manuscritas con el convertidor de imagen a texto para reducir errores en la dispensación de medicamentos.",
+
+          "titleedthree": "Educación",
+          "descriptioned": "Este convertidor de imagen a texto convierte libros de texto escaneados o documentos históricos en archivos de texto editables para estudiantes. También acelera la calificación al convertir respuestas de exámenes manuscritos en texto digital.",
+
+          "titlelefour": "Legal y Cumplimiento",
+          "descriptionleone": "Convierte documentos legales, contratos y acuerdos en archivos digitales buscables.",
+          "descriptionletwo": "Asegura el cumplimiento de las regulaciones que requieren el mantenimiento de registros digitales y accesibilidad a través del convertidor de imagen a texto.",
+
+          "titletrfive": "Para Traducción",
+          "descriptiontr": "Cuando encuentres texto en un idioma desconocido, simplemente toma una foto, pégala en nuestro convertidor de imagen a texto y luego ingresa los datos extraídos en un traductor de idiomas."
+        }
+      }
+    },
+    "metadata": {
+      "title": "Convertidor de Imagen a Texto - Extraer texto de Imágenes",
+      "description": "El convertidor de imagen a texto es una herramienta gratuita que te permite convertir imágenes a texto."
+    }
+  },
+
+  "imageToPdfConverter": {
+    "title": "Convertidor de Imagen a PDF",
+    "description": "Puedes convertir archivos JPG a documentos PDF de forma gratuita utilizando el convertidor de Imagen a PDF. Con solo un clic puedes convertir una imagen a PDF.",
+    "onlineConvert": {
+      "heading": "Conversión en Línea de Imagen a PDF Gratis",
+      "content": "El Convertidor de Imagen a PDF en Línea es una herramienta versátil que convierte sin esfuerzo imágenes de cualquier tamaño en documentos PDF sin costo alguno. Ya sea que tengas fotografías, gráficos o documentos escaneados, esta herramienta los transforma eficientemente en formato PDF. Puedes convertir hasta cuatro imágenes en archivos PDF simultáneamente, facilitando tu flujo de trabajo. Disfruta de la facilidad de convertir múltiples imágenes en PDFs. Nuestro convertidor asegura precisión y preserva la calidad de tus imágenes en los archivos PDF resultantes, haciéndolo ideal para uso personal, académico o profesional con su interfaz sencilla y amigable."
+    },
+    "howToConvert": {
+      "heading": "¿Cómo Convertir una Imagen a PDF?",
+      "steps": {
+        "stepone": "Arrastra y suelta, pega o sube tu archivo de imagen usando el botón **Subir archivo**.",
+        "steptwo": "Luego presiona el botón **Convertir a PDF**.",
+        "stepthree": "Ahora, por favor ten paciencia mientras nuestra herramienta de conversión convierte las imágenes a archivos PDF.",
+        "stepfour": "En unos segundos, podrás obtener tus archivos PDF convertidos. Puedes obtener todos los archivos PDF haciendo clic en el botón **Descargar Todo**."
+      }
+    },
+    "mainBenefits": {
+      "heading": "Principales Beneficios del Convertidor de Imágenes",
+      "benefits": {
+        "titleM": "Soporte para Múltiples Formatos",
+        "descriptionM": "Nuestra herramienta admite una amplia gama de formatos de imagen, permitiendo a los usuarios convertir JPEG, PNG y GIF en un documento PDF. Esta flexibilidad satisface diversas necesidades, ya sea para documentos profesionales, proyectos personales o fines de archivo.",
+        "titleU": "Interfaz Amigable para el Usuario",
+        "descriptionU": "Nuestra herramienta cuenta con una interfaz intuitiva que hace que convertir imágenes a PDFs sea sencillo y amigable, incluso para aquellos con conocimientos técnicos mínimos."
+      }
+    },
+    "componentTrans": {
+      "error": "Error al convertir Imagen a PDF",
+      "error2": "¡Solo se pueden convertir 4 archivos a la vez, selecciona solo 4!",
+      "error3": "Solo se permiten imágenes en JPG, PNG, GIF y JPEG",
+      "message": "Arrastra y suelta, carga o pega la imagen",
+      "support": "Formatos compatibles: JPG, PNG, GIF y JPEG",
+      "upload": "Subir Archivos",
+      "titleone": "Tus archivos se eliminarán automáticamente del servidor en 2 horas",
+      "secure": "Tus archivos están seguros",
+      "clear": "Limpiar Todo",
+      "convert": "Convertir a PDF",
+      "suggestion": "*Los archivos grandes tardan un poco, ten paciencia*",
+      "over": "Empezar de Nuevo",
+      "fileTitle": "Descargar archivo",
+      "all": "Descargar Todo"
+    },
+    "metadata": {
+      "title": "Convertidor de Imágenes a PDF - Convierte Imágenes en PDFs",
+      "description": "Con este convertidor de JPG a PDF, puedes convertir hasta cuatro fotos a la vez en archivos PDF."
+    }
+  },
+
+  "pdfToExcelConverter": {
+    "title": "Convertidor de PDF a Excel",
+    "description": "Puedes convertir un PDF a un archivo de Excel de forma gratuita utilizando el convertidor de PDF a Excel. Solo haz clic para convertir un PDF a un archivo de Excel editable.",
+    "onlineConvert": {
+      "heading": "Conversión en Línea de PDF a Excel Gratis",
+      "content": "Este programa convertidor de PDF convierte PDF a Excel. Esta herramienta te permite convertir archivos PDF de hasta 5 MB a Excel de forma gratuita. Puedes convertir un archivo PDF a la vez; sin embargo, si el archivo tiene más de 10 páginas, puede tardar algún tiempo. Ten paciencia."
+    },
+    "howToConvert": {
+      "heading": "¿Cómo Convertir PDF a Excel?",
+      "steps": {
+        "stepone": "Arrastra y suelta o carga tu archivo PDF usando el botón **Subir archivo**.",
+        "steptwo": "Luego presiona el botón **Convertir a Excel**.",
+        "stepthree": "Por favor, ten paciencia mientras nuestra herramienta de conversión convierte los PDFs a Excel.",
+        "stepfour": "En unos segundos, podrás obtener tu archivo Excel convertido. Puedes obtener el archivo Excel haciendo clic en el botón **Descargar**."
+      }
+    },
+    "keyFeatures": {
+      "heading": "Características Clave del Convertidor de PDF",
+      "features": {
+        "titleF": "Acceso Gratuito",
+        "descriptionF": "Nuestro convertidor de PDF es completamente gratuito, asegurando accesibilidad para todos los usuarios sin costos ni suscripciones.",
+
+        "titleB": "Conversión por Lotes",
+        "descriptionB": "Convierte sin esfuerzo múltiples páginas de PDF a CSV, manejando documentos con más de 100 páginas y hasta 5 MB por archivo, aunque con tiempos de procesamiento variables.",
+
+        "titleE": "Funcionalidad Mejorada con OCR",
+        "descriptiononeE": "Convierte PDFs escaneados en archivos de Excel editables con soporte OCR, permitiéndote manipular y utilizar los datos de manera más efectiva.",
+        "descriptiontwoE": "Estas características destacan la versatilidad y seguridad de nuestro convertidor de PDF, haciéndolo una opción confiable para todas tus necesidades de conversión de documentos."
+      }
+    },
+    "componentTrans": {
+      "error": "Error al convertir PDF a Excel:",
+      "error2": "¡Solo se puede convertir 1 archivo a la vez, selecciona solo 1 archivo PDF!",
+      "error3": "El tamaño del archivo PDF no debe ser mayor de 5 MB",
+      "error4": "Solo se permiten archivos PDF",
+      "message": "Arrastra y suelta o carga PDF",
+      "support": "Formatos compatibles: solo PDF",
+      "upload": "Subir Archivos",
+      "titleone": "Tus archivos se eliminarán automáticamente del servidor en 2 horas",
+      "secure": "Tus archivos están seguros",
+      "clear": "Limpiar Todo",
+      "convert": "Convertir a Excel",
+      "suggestion": "*Los archivos grandes tardan un poco, ten paciencia*",
+      "fileTitle": "Descargar archivo",
+      "over": "Empezar de Nuevo"
+    },
+    "metadata": {
+      "title": "Convertidor de PDF a Excel - Convierte archivos PDF a Excel fácilmente",
+      "description": "Nuestro convertidor de PDF facilita y es gratuito para convertir archivos PDF a archivos Excel."
+    }
+  },
+
+  "pdfToImageConverter": {
+    "title": "Convertidor de PDF a Imagen",
+    "description": "Con el convertidor de PDF a Imagen, puedes convertir PDF a JPG de forma gratuita con solo un clic.",
+    "onlineConvert": {
+      "heading": "Conversión en Línea de PDF a Imagen Gratis",
+      "content": "Este Convertidor de PDF a Imagen en Línea es una aplicación gratuita que convierte rápidamente documentos PDF en fotos de cualquier tamaño. Puedes convertir dos archivos PDF al mismo tiempo; sin embargo, los archivos más grandes con más de diez páginas pueden tardar más en completarse. Nos enfocamos en la precisión y eficiencia, garantizando que tus fotografías convertidas mantengan su calidad y diseño original. Ya sea que estés convirtiendo informes, presentaciones u otros documentos, nuestra herramienta ofrece una experiencia fluida que no requiere descargas ni suscripciones. Convierte PDFs a imágenes de manera simple y segura desde tu navegador."
+    },
+    "howToConvert": {
+      "heading": "¿Cómo Convertir PDF a Imagen?",
+      "steps": {
+        "stepone": "Arrastra y suelta o carga tu archivo PDF usando el botón **Subir archivo**.",
+        "steptwo": "Luego presiona el botón **Convertir a Imagen**.",
+        "stepthree": "Ahora, por favor, ten paciencia mientras nuestra herramienta de conversión convierte PDFs a imágenes.",
+        "stepfour": "En unos segundos, podrás obtener tus archivos de imagen convertidos. Puedes obtener un archivo ZIP con ambos haciendo clic en el botón **Descargar**."
+      }
+    },
+    "keyFeatures": {
+      "heading": "Características Clave del Convertidor de PDF",
+      "features": {
+        "titleF": "Gratis para Usar",
+        "descriptionF": "Nuestro convertidor de PDF a JPG es completamente gratuito para todos los usuarios. No hay cargos ocultos ni suscripciones, garantizando accesibilidad para todos.",
+
+        "titleS1": "Soporte para Múltiples Archivos PDF",
+        "descriptionS1": "Este convertidor maneja eficientemente múltiples archivos PDF a la vez, lo que lo hace ideal para tareas de procesamiento por lotes como la conversión de informes, trabajos académicos o documentos comerciales.",
+
+        "titleS2": "Soporte para Múltiples Páginas de PDF",
+        "descriptionS2": "Nuestro convertidor de PDF a Imagen puede convertir PDFs de hasta 5 MB, garantizando flexibilidad para varios tipos de documentos. Aunque los archivos más grandes pueden tardar más, priorizamos conversiones precisas y de alta calidad.",
+
+        "titleS3": "Seguridad y Privacidad",
+        "descriptionS3": "Priorizamos la seguridad y confidencialidad de tus datos durante el proceso de conversión. Protocolos avanzados de cifrado aseguran que tu información sensible permanezca segura y privada."
+      }
+    },
+    "componentTrans": {
+      "error": "Error al convertir PDF a imagen:",
+      "error2": "¡Solo se pueden convertir 2 archivos a la vez, selecciona solo 2 PDFs!",
+      "error3": "El tamaño del archivo PDF no debe ser mayor de 5 MB",
+      "error4": "Solo se permiten archivos PDF",
+      "message": "Arrastra y suelta o carga PDF",
+      "support": "Formatos compatibles: solo PDF",
+      "upload": "Subir Archivos",
+      "titleone": "Tus archivos se eliminarán automáticamente del servidor en 2 horas",
+      "secure": "Tus archivos están seguros",
+      "upload2": "Subir PDF",
+      "clear": "Limpiar Todo",
+      "convert": "Convertir a Imagen",
+      "suggestion": "*Los archivos grandes tardan un poco, ten paciencia*",
+      "all": "Todas las Imágenes",
+      "allTile": "Descargar todas las Imágenes",
+      "over": "Empezar de Nuevo"
+    },
+    "metadata": {
+      "title": "Convertidor de PDF a Imagen - Convierte PDFs a archivos de imagen al instante",
+      "description": "Puedes convertir rápidamente archivos PDF a imágenes JPG con este convertidor de PDF a imagen."
+    }
+  },
+
+  "pdfToWordConverter": {
+    "title": "Convertidor de PDF a Word",
+    "description": "Con el convertidor de PDF a Word, puedes convertir archivos PDF a documentos Docx de forma gratuita. Para convertir un PDF en un documento Word editable, simplemente haz clic en el botón de convertir.",
+    "onlineConvert": {
+      "heading": "Conversión en Línea de PDF a Word Gratis",
+      "content": "Este programa convertidor de PDF convierte PDF a Word. Esta herramienta te permite convertir cualquier tamaño de PDF a Word de forma gratuita. Puedes convertir dos archivos PDF a la vez; sin embargo, si el archivo tiene más de 10 páginas, puede tomar algún tiempo. Ten paciencia."
+    },
+    "howToConvert": {
+      "heading": "¿Cómo Convertir PDF a Word?",
+      "steps": {
+        "stepone": "Arrastra y suelta o carga tu archivo PDF usando el botón **Subir archivo**.",
+        "steptwo": "Luego presiona el botón **Convertir a Word**.",
+        "stepthree": "Por favor, ten paciencia mientras nuestra herramienta de conversión convierte PDFs a Word.",
+        "stepfour": "En unos segundos, podrás obtener tu archivo Word convertido. Si has convertido dos archivos PDF, puedes obtener un archivo ZIP con ambos haciendo clic en el botón **Descargar Todo**."
+      }
+    },
+    "keyFeatures": {
+      "heading": "Características Clave del Convertidor de PDF",
+      "features": {
+        "titleF": "Gratis para Usar",
+        "descriptionF": "Nuestro convertidor de PDF a Word es completamente gratuito para todos. Ya seas estudiante, profesional o cualquier persona que necesite convertir documentos, puedes usar esta herramienta sin cargos ocultos ni tarifas de suscripción. Esto asegura que todos tengan acceso a servicios de conversión de alta calidad sin preocuparse por los costos.",
+
+        "titleS1": "Soporte para Múltiples Archivos PDF",
+        "descriptionS1": "Este potente convertidor de PDF a Word permite manejar 2 archivos PDF simultáneamente. Ya sea que tengas informes, trabajos académicos o documentos comerciales, nuestra herramienta puede procesarlos todos a la vez. Esta función te ahorra tiempo y esfuerzo, haciéndola ideal para usuarios con necesidades de conversión en gran volumen.",
+
+        "titleS2": "Soporte para Múltiples Páginas de PDF",
+        "descriptionS2": "Nuestro convertidor de PDF a Word está diseñado para manejar documentos de diferentes longitudes. Puede convertir PDFs de hasta 5 MB, proporcionando flexibilidad para diferentes tipos de documentos. Aunque los archivos más grandes pueden tardar un poco más en procesarse, nuestros algoritmos avanzados aseguran resultados de conversión precisos y de alta calidad para documentos con más de 10 páginas.",
+
+        "titleS3": "Seguridad y Privacidad",
+        "descriptionS3": "Priorizamos la seguridad y privacidad de tus datos. Nuestro convertidor de PDF a Word utiliza protocolos avanzados de cifrado para proteger tu información sensible durante el proceso de conversión. Aseguramos que tus documentos permanezcan confidenciales y no almacenamos ni compartimos tus archivos con terceros. Puedes usar nuestra herramienta con confianza, sabiendo que tus datos están seguros.",
+
+        "titleO": "Soporte OCR",
+        "descriptionO": "Nuestro convertidor está equipado con tecnología de Reconocimiento Óptico de Caracteres (OCR), lo que le permite convertir PDFs escaneados en documentos Word editables. Esta función es especialmente útil para digitalizar documentos impresos, haciéndolos editables y buscables."
+      }
+    },
+
+    "componentTrans": {
+      "error": "Error al convertir PDF a Word",
+      "error2": "¡Solo se pueden convertir 2 archivos a la vez, selecciona solo 2 PDFs!",
+      "error3": "El tamaño de los archivos PDF no debe ser mayor de 5 MB",
+      "error4": "Solo se permiten archivos PDF",
+      "message": "Arrastra y suelta o carga PDF",
+      "support": "Formatos compatibles: solo PDF",
+      "upload": "Subir Archivos",
+      "titleone": "Tus archivos se eliminarán automáticamente del servidor en 2 horas",
+      "secure": "Tus archivos están seguros",
+      "upload2": "Subir PDF",
+      "clear": "Limpiar Todo",
+      "convert": "Convertir a Word",
+      "suggestion": "*Los archivos grandes tardan un poco, ten paciencia*",
+      "fileTitle": "Descargar archivo",
+      "over": "Empezar de Nuevo",
+      "allDownload": "Descargar Todo"
+    },
+    "metadata": {
+      "title": "Conversor de PDF a Word - Convierte tus PDFs a archivos Word",
+      "description": "Con este conversor de PDF a Docx, puedes convertir rápida y fácilmente archivos PDF en archivos Docx editables."
+    }
+  },
+  "wordToPdfConverter": {
+    "title": "Convertidor de Word a PDF",
+    "description": "Puedes convertir documentos Doc|Docx a PDF de forma gratuita utilizando el convertidor de Word a PDF. Con solo un clic, convierte un documento Word editable en un PDF searchable.",
+    "onlineConvert": {
+      "heading": "Conversión en Línea de Word a PDF Gratis",
+      "content": "Este programa convertidor de Word convierte Word a PDF. Esta herramienta te permite convertir cualquier tamaño de Docx a PDF de forma gratuita. Puedes convertir dos archivos Docx a la vez; sin embargo, si el archivo tiene más de 10 páginas, puede tardar algún tiempo. Por favor, ten paciencia."
+    },
+    "howToConvert": {
+      "heading": "¿Cómo Convertir Word a PDF?",
+      "steps": {
+        "stepone": "Arrastra y suelta o carga tu archivo Word usando el botón **Subir archivo**.",
+        "steptwo": "Luego presiona el botón **Convertir a PDF**.",
+        "stepthree": "Por favor, ten paciencia mientras nuestra herramienta de conversión convierte Docx a PDF.",
+        "stepfour": "En unos segundos, recibirás tu archivo PDF convertido. Si has convertido dos archivos Docx, puedes obtener un archivo ZIP que contenga ambos haciendo clic en el botón **Descargar Todo**."
+      }
+    },
+    "keyFeatures": {
+      "heading": "Características del Convertidor de Docx",
+      "features": {
+        "titleU": "Interfaz Amigable",
+        "descriptionU": "Disfruta de una interfaz limpia e intuitiva que simplifica el proceso de conversión para usuarios de todos los niveles de habilidad.",
+
+        "titleS": "Soporte para Múltiples Archivos PDF",
+        "descriptionS": "Convierte documentos Word escaneados en PDFs searchables, mejorando la usabilidad y accesibilidad del contenido textual. Estas características hacen de nuestro convertidor de Docx una herramienta confiable para usuarios que necesitan convertir múltiples documentos de manera eficiente y segura.",
+
+        "titleM": "Soporte para Múltiples Idiomas",
+        "descriptionM": "Soporta múltiples idiomas tanto en documentos de entrada como de salida, asegurando compatibilidad y precisión para diversas necesidades lingüísticas."
+      }
+    },
+
+    "componentTrans": {
+      "error": "Error al convertir Word a PDF:",
+      "error2": "¡Solo se pueden convertir 2 archivos a la vez, selecciona solo 2 Docx!",
+      "error3": "El tamaño del archivo Docx no debe ser mayor de 5 MB",
+      "error4": "Solo se permiten archivos Docx",
+      "message": "Arrastra y suelta o carga Docx",
+      "support": "Formatos compatibles: solo Doc y Docx",
+      "upload": "Subir Archivos",
+      "titleone": "Tus archivos se eliminarán automáticamente del servidor en 2 horas",
+      "secure": "Tus archivos están seguros",
+      "upload2": "Subir Docx",
+      "clear": "Limpiar Todo",
+      "convert": "Convertir a PDF",
+      "suggestion": "*Los archivos grandes tardan un poco, ten paciencia*",
+      "over": "Empezar de Nuevo",
+      "fileTitle": "Descargar archivo",
+      "allDownload": "Descargar Todo"
+    },
+    "metadata": {
+      "title": "Convertidor de Word a PDF - Convierte tu archivo Docx a PDF",
+      "description": "Puedes convertir archivos Docx a archivos PDF con el convertidor de Word a PDF."
+    }
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "sections": {
+      "pdfToImage": {
+        "title": "PDF a Imagen",
+        "items": {
+          "questionone": "¿En qué tipos de imágenes puedo convertir archivos PDF?",
+          "answerone": "Puedes convertir archivos PDF en formatos de imagen como JPEG.",
+
+          "questiontwo": "¿Cuántas páginas de un PDF puedo convertir en imágenes a la vez?",
+          "answertwo": "Puedes convertir todas las páginas de un archivo PDF en imágenes simultáneamente. El proceso de conversión genera un archivo de imagen por cada página."
+        }
+      },
+      "pdfToWord": {
+        "title": "PDF a Word",
+        "items": {
+          "questionone": "¿En qué formato se convierte el documento de Word a partir de un archivo PDF?",
+          "answerone": "Los archivos PDF se convierten en documentos de Word editables (.docx).",
+
+          "questiontwo": "¿Se conservan las imágenes y el formato durante la conversión de PDF a Word?",
+          "answertwo": "Sí, las imágenes y la mayoría de los elementos de formato (fuentes, estilos, tablas, etc.) se conservan durante el proceso de conversión.",
+
+          "questionthree": "¿Se pueden convertir archivos PDF protegidos por contraseña a documentos de Word?",
+          "answerthree": "Si tienes la contraseña para desbloquear el archivo PDF, puedes convertir PDF protegidos por contraseña a documentos de Word. De lo contrario, la conversión puede no ser posible sin la contraseña."
+        }
+      },
+      "imageToText": {
+        "title": "Imagen a Texto",
+        "items": {
+          "questionone": "¿Qué tipos de imágenes puedo convertir a texto?",
+          "answerone": "Puedes convertir varios tipos de imágenes que contengan texto, como JPEG, PNG y GIF, en archivos de texto editables.",
+
+          "questiontwo": "¿Afecta la calidad y claridad de la imagen a la precisión del reconocimiento de texto?",
+          "answertwo": "Sí, las imágenes de mayor calidad y claridad generalmente resultan en una mejor precisión del reconocimiento de texto. Las imágenes con ruido o mala resolución pueden afectar la precisión.",
+
+          "questionthree": "¿Se puede convertir texto manuscrito en imágenes a texto editable?",
+          "answerthree": "El reconocimiento de texto manuscrito depende de la claridad y legibilidad de la escritura. El software avanzado de OCR (Reconocimiento Óptico de Caracteres) puede admitir el reconocimiento de texto manuscrito."
+        }
+      },
+      "pdfToExcel": {
+        "title": "PDF a Excel",
+        "items": {
+          "questionone": "¿En qué formato se convierte el archivo Excel a partir de un PDF?",
+          "answerone": "Los archivos PDF se convierten en hojas de cálculo de Excel (.xlsx). Esto te permite manipular y analizar datos dentro de Excel.",
+
+          "questiontwo": "¿Se conservan las tablas y el formato durante la conversión de PDF a Excel?",
+          "answertwo": "Sí, las tablas, el formato de datos y la mayoría de las estructuras de diseño se conservan durante el proceso de conversión. Los diseños complejos pueden requerir ajustes manuales.",
+
+          "questionthree": "¿Se pueden convertir archivos PDF protegidos por contraseña en hojas de cálculo de Excel?",
+          "answerthree": "Si tienes la contraseña para desbloquear el archivo PDF, puedes convertir PDFs protegidos por contraseña en hojas de cálculo de Excel. De lo contrario, la conversión puede no ser posible sin la contraseña."
+        }
+      },
+      "imageToPdf": {
+        "title": "Imagen a PDF",
+        "items": {
+          "questionone": "¿Qué tipos de imágenes puedo convertir a PDF?",
+          "answerone": "Puedes convertir varios tipos de imágenes (JPEG, PNG, GIF, etc.) en formato PDF.",
+
+          "questiontwo": "¿Puedo convertir múltiples imágenes?",
+          "answertwo": "Sí, puedes convertir varias fotos en múltiples documentos PDF. Hay un PDF para cada imagen."
+        }
+      },
+      "wordToPdf": {
+        "title": "Word a PDF",
+        "items": {
+          "questionone": "¿En qué formato se convierte el archivo PDF a partir de un documento Word?",
+          "answerone": "Los documentos de Word (.docx y .doc) se convierten en formato PDF. Esta conversión conserva el contenido y el formato del documento Word original.",
+
+          "questiontwo": "¿Se conservan las imágenes y el formato durante la conversión de Word a PDF?",
+          "answertwo": "Sí, las imágenes, fuentes, estilos, tablas y la mayoría de los elementos de formato se conservan durante el proceso de conversión. Los diseños complejos pueden requerir ajustes.",
+
+          "questionthree": "¿Se pueden convertir documentos Word protegidos por contraseña a PDF?",
+          "answerthree": "Si tienes la contraseña para desbloquear el documento Word, puedes convertir documentos protegidos por contraseña a PDF. De lo contrario, la conversión puede no ser posible sin la contraseña."
+        }
+      }
+    },
+    "metadata": {
+      "title": "Preguntas Frecuentes",
+      "description": "Página de preguntas frecuentes donde puedes encontrar respuestas a todas tus consultas sobre conversores"
+    }
+  },
+
+  "aboutUs": {
+    "title": "Sobre Nosotros",
+    "content": {
+      "intro": "OnlineOCR.net ofrece las mejores herramientas para convertir imágenes en texto, PDFs escaneados y archivos Docx en formas editables y buscables. Nuestro software OCR altamente desarrollado convierte documentos en una variedad de tipos de archivo, como Excel, PDF, Docx, imágenes y texto. Ofrecemos conversiones rápidas y precisas como parte de nuestro servicio para ahorrarte tiempo y eliminar la necesidad de procedimientos manuales.",
+      "sections": {
+        "titleone": "Conversión Eficiente de Documentos",
+        "textone": "Nuestro servicio OCR en línea gratuito elimina la necesidad de ingresar documentos manualmente, minimizando el esfuerzo y el tiempo. Ofrecemos conversiones rápidas y precisas para documentos de una sola página y multipágina, aumentando la productividad.",
+
+        "titletwo": "Soporte Multilingüe",
+        "texttwo": "Este servicio admite 36 idiomas, cubriendo tanto idiomas de APAC como de EMEA, como inglés, francés, alemán, italiano, portugués, ruso, español, japonés, chino, coreano y muchos más. También manejamos documentos escritos en múltiples idiomas, asegurando un soporte integral para tus necesidades.",
+
+        "titlethree": "Gratis y Rápidamente Accesible",
+        "textthree": "Aprovecha nuestro servicio gratuito para siempre. Descubre por qué muchas personas confían en OnlineOCR.net para sus necesidades de conversión de documentos utilizando nuestro servicio conveniente."
+      }
+    },
+    "metadata": {
+      "title": "Acerca de nosotros",
+      "description": "Este es un conversor en línea gratuito para imágenes, PDFs, archivos Docx y hojas de cálculo de Excel."
+    }
+  },
+  "contactus": {
+    "title": "Contáctanos",
+    "description": "Para cualquier pregunta o comentario, por favor contáctanos por correo electrónico a **supportimageocr@gmail.com**. Valoramos tus consultas y nos esforzamos por brindar asistencia rápida en relación con nuestros servicios, conversiones de documentos o cualquier soporte técnico que puedas necesitar. Ya sea que tengas sugerencias para mejoras o necesites aclaraciones sobre nuestras funciones, nuestro equipo de soporte dedicado está aquí para ayudarte. No dudes en contactarnos en cualquier momento.",
+    "metadata": {
+      "title": "Contáctanos",
+      "description": "Contáctanos con cualquier pregunta sobre este conversor."
+    }
+  },
+  "termsandcondition": {
+    "heading1": "Términos y Condiciones",
+    "termssection1": {
+      "paragraph": "Este documento describe los términos y condiciones para el uso del sitio web imageocr.info."
+    },
+    "termssection2": {
+      "heading2": "Aceptación de los Términos",
+      "paragraph1": "Al acceder a este sitio web, los usuarios aceptan estos términos y condiciones. Los términos \"Cliente\", \"Usted\" y \"Su\" se refieren al usuario que inicia sesión y cumple con los términos y condiciones de la empresa. \"La Empresa\", \"Nosotros\", \"Nuestro\" y \"Nos\" se refieren a la empresa, mientras que \"Parte\", \"Partes\" o \"Nosotros\" se refieren tanto al cliente como a nosotros.",
+      "paragraph2": "Los términos se consideran intercambiables y están regidos por los términos de uso. Al utilizar imageocr.info, los usuarios aceptan estos términos y están legalmente obligados a cumplirlos. La empresa puede modificar estos términos a su discreción, y los usuarios deben revisar periódicamente la página para actualizaciones. Si los usuarios no están de acuerdo con estos términos, no deben usar el sitio web."
+    },
+    "termssection3": {
+      "heading2": "Responsabilidad y Protección",
+      "paragraph1": "imageocr.info es un sitio web que ofrece servicios, pero no garantiza su precisión o fiabilidad. Se aconseja a los usuarios que informen sobre cualquier error. El sitio puede cambiar sin previo aviso, y los usuarios no son responsables de ninguna pérdida, cambio o corrupción del contenido enviado. El sitio no garantiza una operación sin problemas ni un servidor libre de virus. Si los usuarios necesitan reparar o reemplazar equipos o datos, son responsables de esos costos.",
+      "paragraph2": "imageocr.info puede mostrar contenido de terceros, incluidos enlaces a sitios web de terceros, cuya responsabilidad recae únicamente en el proveedor del contenido. El sitio puede revisar, eliminar o negar la visualización de dicho contenido, pero no tiene obligación de hacerlo. imageocr.info no respalda ni asume responsabilidad por el contenido en sitios web de terceros, por lo que los usuarios deben acceder a él bajo su propio riesgo. Es importante usar discreción y proceder bajo su propio riesgo."
+    },
+    "termssection4": {
+      "heading2": "Sobre los Términos del Servicio",
+      "paragraph1": "imageocr.info no afirma que sus servicios sean adecuados para ningún propósito o audiencia específica. El sitio no es responsable de ningún daño, reclamación o lesión que resulte de un acceso ilegal o inapropiado.",
+      "paragraph2": "Si alguna disposición de los Términos de Uso es inválida, el resto de las disposiciones seguirá siendo válida. La elección de imageocr.info de no hacer cumplir alguna disposición no renuncia a su derecho de hacerlo en el futuro. Es importante revisar los Términos de Uso periódicamente para actualizaciones o cambios. Al continuar usando el sitio, los usuarios aceptan estar sujetos a la versión más actual de los Términos de Uso."
+    },
+    "termssection5": {
+      "heading2": "Cookies",
+      "paragraph": "Utilizamos cookies. Al acceder a imageocr.info, acepta nuestro uso de cookies, según se detalla en nuestra Política de Privacidad. La mayoría de los sitios web interactivos utilizan cookies para recuperar información del usuario en cada visita. Nuestro sitio web utiliza cookies para habilitar la funcionalidad del sitio y facilitar la navegación para los visitantes. Algunos de nuestros socios y anunciantes también pueden utilizar cookies."
+    },
+    "termssection6": {
+      "heading2": "Exclusión de Responsabilidad",
+      "paragraph1": "En la máxima medida permitida por la ley aplicable, excluimos todas las representaciones, garantías y condiciones relacionadas con nuestro sitio web y el uso de este sitio web. Nada en este aviso de exención de responsabilidad:",
+      "listItem1": "limitará o excluirá nuestra o su responsabilidad por muerte o daños personales;",
+      "listItem2": "limitará o excluirá nuestra o su responsabilidad por fraude o representación fraudulenta;",
+      "listItem3": "limitará cualquiera de nuestras o su responsabilidades de una manera que no esté permitida por la ley aplicable; o excluirá cualquiera de nuestras o su responsabilidades que no puedan ser excluidas bajo la ley aplicable.",
+      "paragraph2": "Las limitaciones y prohibiciones de responsabilidad establecidas en esta Sección y en otras partes de este aviso de exención de responsabilidad: (a) están sujetas al párrafo anterior; y (b) rigen todas las responsabilidades que surjan del aviso de exención de responsabilidad, incluidas las responsabilidades contractuales, extracontractuales y por incumplimiento de deberes legales. Mientras el sitio web y la información y servicios en el sitio web se proporcionen de forma gratuita, no seremos responsables de ninguna pérdida o daño de cualquier naturaleza."
+    },
+    "termssection7": {
+      "heading2": "Eliminación de Enlaces de Nuestro Sitio Web",
+      "paragraph1": "Si encuentra algún enlace en nuestro sitio web que sea ofensivo por cualquier motivo, puede contactarnos e informarnos en cualquier momento. Consideraremos las solicitudes de eliminación de enlaces, pero no estamos obligados a hacerlo ni a responderle directamente.",
+      "paragraph2": "No garantizamos que la información en este sitio web sea correcta, no garantizamos su integridad o exactitud; ni prometemos asegurar que el sitio web siga disponible o que el material en el sitio web se mantenga actualizado."
+    },
+    "termssection8": {
+      "heading2": "Licencia",
+      "paragraph": "imageocr.info posee los derechos de propiedad intelectual sobre todo el material en el sitio web, a menos que se indique lo contrario. Los usuarios pueden acceder al contenido para uso personal, pero no deben republicar, vender, alquilar, sublicenciar, reproducir, duplicar ni distribuir el contenido."
+    },
+    "metadata": {
+      "title": "Términos y Condiciones",
+      "description": "Condiciones de uso de nuestra herramienta de conversión gratuita."
+    }
+  },
+
+  "privacyPolicy": {
+    "title": "Política de Privacidad de ImageOCR.info",
+    "sections": {
+      "introduction": {
+        "paragraph1": "El uso del servicio de ImageOCR.info está sujeto a su aceptación de nuestros Términos y Condiciones y de esta Política de Privacidad.",
+        "paragraph2": "En ImageOCR.info, accesible desde imageocr.info, proteger la privacidad de nuestros visitantes es una de nuestras principales prioridades. Este documento de Política de Privacidad describe los tipos de información que se recopilan y registran en ImageOCR.info y explica cómo las utilizamos.",
+        "paragraph3": "Si tiene preguntas adicionales o necesita más información sobre nuestra Política de Privacidad, no dude en contactarnos.",
+        "paragraph4": "Esta Política de Privacidad entra en vigor al usar el servicio por primera vez. Al usar ImageOCR.info, usted reconoce que ha leído y comprendido los términos de esta Política de Privacidad y acepta estar obligado por ellos. Si no está de acuerdo con esta Política de Privacidad, no use ImageOCR.info ni ningún material y recurso disponible en este servicio."
+      },
+      "informationWeCollect": {
+        "title": "1. Información que Recopilamos",
+        "personalData": {
+          "title": "Datos Personales",
+          "paragraph1": "Se le pedirá que permita cookies cuando visite ImageOCR.info, pero la decisión de hacerlo es completamente suya.",
+          "paragraph2": "No visualizamos los archivos que sube utilizando el servicio de ImageOCR.info. Sin embargo, podemos ver los metadatos de su archivo (extensiones de archivo, tamaños, etc., pero no el contenido) para proporcionar soporte técnico."
+        },
+        "cookies": {
+          "title": "Cookies",
+          "paragraph1": "ImageOCR.info utiliza cookies de navegador para almacenar información sobre su actividad en nuestro sitio. Las cookies nos ayudan a mantener un seguimiento de sus preferencias y a mejorar su experiencia de usuario. No almacenamos ninguna de su información personal en las cookies. Las cookies son pequeños archivos de datos escritos en el disco duro de su dispositivo. Las cookies no pueden leer otros datos de su disco duro, transmitir virus o leer archivos de cookies creados por otros sitios. Puede rechazar las cookies desactivándolas en la configuración de su navegador, pero tenga en cuenta que algunas funciones de ImageOCR.info pueden no funcionar correctamente si las cookies están desactivadas."
+        },
+        "technicalInformation": {
+          "title": "Información Técnica",
+          "paragraph1": "Los detalles técnicos registrados se limitan a los siguientes tipos de información:",
+          "detail1": "La dirección de Protocolo de Internet (IP) o el gateway del servidor web del visitante.",
+          "detail2": "El tipo de navegador web utilizado por el visitante.",
+          "detail3": "El sistema operativo del dispositivo del visitante.",
+          "detail4": "La resolución de pantalla del monitor del visitante.",
+          "detail5": "Información sobre posibles riesgos de seguridad, URL de sitios web que consideramos potencialmente fraudulentos y archivos ejecutables identificados como posibles malware.",
+          "detail6": "Metadatos relacionados con los archivos subidos, como tamaño del archivo, nombre del archivo, formato del archivo y otros parámetros relevantes."
+        }
+      },
+      "yourRights": {
+        "title": "2. Sus Derechos",
+        "paragraph1": "Dado que ImageOCR.info es un servicio gratuito que no requiere registro de usuario, no recopilamos ni almacenamos datos personales durante períodos prolongados. Los datos que se cargan en nuestro servicio se almacenan solo por un máximo de dos horas antes de ser eliminados automáticamente."
+      },
+      "ccpaPrivacyRights": {
+        "title": "3. Derechos de Privacidad de CCPA (No Venda Mi Información Personal)",
+        "paragraph1": "Según la Ley de Privacidad del Consumidor de California (CCPA), los consumidores de California tienen el derecho de:",
+        "right1": "Solicitar a una empresa que recopila datos personales de un consumidor que revele las categorías y piezas específicas de datos personales que la empresa ha recopilado sobre los consumidores.",
+        "right2": "Solicitar a una empresa que elimine cualquier dato personal sobre el consumidor que la empresa haya recopilado.",
+        "right3": "Solicitar a una empresa que vende datos personales de un consumidor que no venda los datos personales del consumidor.",
+        "paragraph2": "Dado que ImageOCR.info es un servicio gratuito que no requiere registro de usuario y elimina automáticamente todos los datos cargados dentro de dos horas, la recopilación de datos personales es mínima. Si aún desea ejercer alguno de estos derechos, comuníquese con nosotros y responderemos dentro de un mes."
+      },
+      "gdprDataProtectionRights": {
+        "title": "4. Derechos de Protección de Datos GDPR",
+        "paragraph1": "Queremos asegurarnos de que esté completamente informado de todos sus derechos de protección de datos. Cada usuario tiene derecho a lo siguiente:",
+        "right1": "El derecho de acceso – Tiene el derecho de solicitar copias de sus datos personales. Dado que solo almacenamos datos subidos durante dos horas y no requerimos inicio de sesión, los datos personales que podemos proporcionar son muy limitados.",
+        "right2": "El derecho de rectificación – Tiene el derecho de solicitar que corregimos cualquier información que crea que es inexacta. Dada la naturaleza temporal de nuestro almacenamiento de datos, la mayoría de las rectificaciones serán innecesarias.",
+        "right3": "El derecho de borrado – Tiene el derecho de solicitar que borremos sus datos personales, bajo ciertas condiciones. Dado que todos los datos se borran automáticamente después de dos horas, este derecho se respeta inherentemente.",
+        "right4": "El derecho a restringir el procesamiento – Tiene el derecho de solicitar que restrinjamos el procesamiento de sus datos personales, bajo ciertas condiciones. Sin embargo, nuestro procesamiento de datos es mínimo y a corto plazo.",
+        "right5": "El derecho a oponerse al procesamiento – Tiene el derecho de oponerse a nuestro procesamiento de sus datos personales, bajo ciertas condiciones. Si tiene alguna inquietud, comuníquese con nosotros de inmediato.",
+        "right6": "El derecho a la portabilidad de los datos – Tiene el derecho de solicitar que transfiramos los datos que hemos recopilado a otra organización, o directamente a usted, bajo ciertas condiciones. Dado que solo almacenamos datos durante dos horas y no recopilamos información personal, este derecho generalmente no es aplicable.",
+        "paragraph2": "Si hace una solicitud, tenemos un mes para responderle. Si desea ejercer alguno de estos derechos, comuníquese con nosotros."
+      },
+      "locationOfDataProcessing": {
+        "title": "5. Ubicación del Procesamiento y Almacenamiento de Datos",
+        "paragraph1": "Los datos que carga en ImageOCR.info pueden ser procesados y almacenados en servidores ubicados en varios países donde ImageOCR.info opera. Dada la naturaleza temporal de nuestro servicio, todos los datos se eliminan automáticamente dentro de las dos horas posteriores a la carga.",
+        "paragraph2": "Al usar ImageOCR.info, usted acepta el almacenamiento y procesamiento temporal de sus datos en estos lugares. Aseguramos que todo el procesamiento de datos se realice de acuerdo con las leyes de privacidad aplicables y que todos los datos se eliminen de manera segura después del período de retención de dos horas."
+      },
+      "changesToPolicy": {
+        "title": "6. Cambios en Esta Política de Privacidad",
+        "paragraph1": "Esta Política de Privacidad puede actualizarse periódicamente. Cualquier cambio, actualización o modificación será efectivo inmediatamente después de su publicación en nuestro sitio. Le recomendamos que revise esta Política de Privacidad regularmente para mantenerse informado sobre nuestras prácticas de datos."
+      },
+      "thirdPartyAdvertising": {
+        "title": "7. Publicidad de Terceros",
+        "paragraph1": "Podemos mostrar anuncios de terceros en ImageOCR.info. Estos anunciantes de terceros pueden usar cookies y tecnologías similares para recopilar información sobre sus actividades en nuestro sitio y en otros sitios web para ofrecerle publicidad dirigida basada en sus intereses. No compartimos ninguna información personal con estos anunciantes de terceros. Puede gestionar sus preferencias respecto a la publicidad dirigida a través de la configuración de su navegador."
+      }
+    },
+    "metadata": {
+      "title": "Privacidad y Políticas",
+      "description": "Esta página describe nuestras políticas de privacidad."
+    }
+  },
+  "cookieconsentpage": {
+    "header": "ESTE SITIO WEB USA COOKIES",
+    "paragraph1": "Utilizamos cookies para mejorar su experiencia, personalizar contenido y anuncios, proporcionar funciones de redes sociales y analizar nuestro tráfico. Las cookies son pequeños archivos de datos que se colocan en su dispositivo y nos ayudan a mejorar la funcionalidad y la experiencia del usuario de nuestro sitio web. Usted consiente el uso de cookies si continúa utilizando nuestro sitio web.",
+    "link": "Política de Privacidad",
+    "Name1": "Aceptar",
+    "Name2": "Rechazar"
+  }
+}

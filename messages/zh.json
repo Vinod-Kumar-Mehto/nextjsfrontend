@@ -1,0 +1,623 @@
+{
+  "navbar": {
+    "items": {
+      "labelone": "PDF 转换为图像",
+
+      "labeltwo": "PDF 转换为 Word",
+
+      "labelthree": "图像转换为文本",
+
+      "labelfour": "PDF 转换为 Excel",
+
+      "labelfive": "图像转换为 PDF",
+      "labelsix": "Word 转换为 PDF",
+
+      "labelseven": "免费"
+    }
+  },
+
+  "footer": {
+    "links": {
+      "labelone": "关于我们",
+      "labeltwo": "常见问题解答",
+
+      "labelthree": "条款和条件",
+
+      "labelfour": "隐私政策",
+
+      "labelfive": "联系我们"
+    },
+
+    "languageLabel": "语言"
+  },
+
+  "imgtotext": {
+    "componentTrans": {
+      "error": "设置语言时出错！",
+      "error2": "转换为文本失败",
+      "error3": "一次只能转换 4 个文件，因此请选择 4 个图像！",
+      "error4": "只允许 JPG、PNG、GIF 和 JPEG 格式的图像",
+      "message": "拖放、上传或粘贴图像",
+      "support": "支持的格式：JPG、PNG、GIF 和 JPEG",
+      "upload": "上传文件",
+      "titleone": "您的文件将在 2 小时内自动从服务器中删除",
+      "titletwo": "点击下载",
+      "titlethree": "点击复制",
+      "secure": "您的文件是安全的",
+      "upload2": "上传或粘贴图像",
+      "selectLang": "选择语言",
+      "clear": "清除所有",
+      "convert": "转换为文本",
+      "suggestion": "*大型文件需要一些时间，请耐心等待*",
+      "over": "重新开始"
+    },
+
+    "imageToTextConverter": {
+      "title": "图像转文本转换器",
+      "description": "使用我们的图片转文本转换器从 JPG 或图像文件中提取文本。通过粘贴或上传照片快速提取文本文件。",
+      "whatIs": {
+        "heading": "什么是图像转文本转换器？",
+        "contentone": "这个在线 影像 OCR 工具是一个图像转文本转换器。通过此工具，您可以从图像和照片中提取文本和字符。如果您想从照片中提取文本，请尝试我们的图像转文本转换器。",
+        "contenttwo": "如果您有一本 PDF 格式的扫描书籍，并希望使其可搜索，我们的 PDF 转 Word 或 Excel 转换服务非常适合！对于图片到文本的转换，您只需上传文件并将图像转换为文本。我们的服务使用现代图像预处理算法和 OCR 技术从您的照片中提取文本，并将其保存为任何可编辑格式。"
+      },
+      "howItWorks": {
+        "heading": "我们的图像转文本转换器如何工作？",
+        "steps": {
+          "stepone": "通过 **上传文件** 按钮拖放或上传并粘贴您的图像。",
+          "steptwo": "然后按 **转换为文本** 按钮。",
+          "stepthree": "现在，请耐心等待，让我们的转换器自动从您的图像中提取文本。",
+          "stepfour": "在接下来的几秒钟内，您可以下载提取的文本为 .txt 格式，或者可以从图像中复制提取的文本。"
+        }
+      },
+      "keyFeatures": {
+        "heading": "图像转文本转换器的主要功能",
+        "features": {
+          "titleone": "免费使用",
+          "descriptionone": "此工具可供所有人免费使用。",
+
+          "titletwo": "支持多种文件格式",
+          "descriptiontwo": "此图片转文本转换器支持多种图像文件格式，如 JPG、PNG、JPEG、GIF 和 WEBP。",
+
+          "titlethree": "低分辨率图像",
+          "descriptionthree": "如果您有低质量的图像，不用担心。图片文本提取器可以快速从模糊和低分辨率的照片中提取文本。书籍、手写作品和截图的图像可能模糊且难以阅读。然而，我们的程序可以高精度地从此类照片中提取数据。"
+        }
+      },
+      "benefits": {
+        "heading": "图像转文本转换器的好处",
+        "benefits": {
+          "titledigi": "数字化印刷文件",
+          "descriptiondigione": "数字化印刷文件是图像转文本转换器的最具影响力的功能之一。此过程涉及将物理文件（例如书籍、文章和报纸）转换为数字格式。",
+          "descriptiondigitwo": "数字化印刷文件的第一步是扫描物理文件。这可以使用标准扫描仪、多功能打印机甚至智能手机摄像头完成。目标是创建文档的高分辨率图像。",
+          "descriptiondigithree": "文件扫描后，图像文件由图像转文本转换器处理。JPG 到文本转换器分析图像中的文本，识别字符、单词和句子。此转换器可以处理各种字体、大小，甚至手写文本。图像到文本转换器从图像中提取识别出的文本并将其转换为数字格式。这可以是纯文本文件。",
+
+          "titlehealtwo": "医疗保健",
+          "descriptionheaone": "使用图像转文本转换器将您的医疗记录图片转换为文本，以便更轻松地访问和管理。",
+          "descriptionheatwo": "通过图像转文本转换器自动读取和处理手写处方图像，以减少配药中的错误。",
+
+          "titleedthree": "教育",
+          "descriptioned": "此图像转文本转换器将扫描的教科书或历史文档转换为学生可编辑的文本文件。它还通过将手写测试响应转换为数字文本来加速评分。",
+
+          "titlelefour": "法律和合规",
+          "descriptionleone": "将法律文件、合同和协议转换为可搜索的数字文件。",
+          "descriptionletwo": "通过图像转文本转换器确保符合需要数字记录保存和可访问性的法规。",
+
+          "titletrfive": "用于翻译",
+          "descriptiontr": "当您遇到不懂的语言文本时，只需拍照，粘贴到我们的图像转文本转换器中，然后将提取的数据输入语言翻译器。"
+        }
+      }
+    },
+    "metadata": {
+      "title": "图像转文本转换器 - 从图像中提取文本",
+      "description": "图像转文本转换器是一个免费的工具，可以将图片转换为文本。"
+    }
+  },
+
+  "imageToPdfConverter": {
+    "title": "图像转 PDF 转换器",
+    "description": "您可以使用图像转 PDF 转换器免费将 JPG 文件转换为 PDF 文档。只需点击一下，即可将图像转换为 PDF。",
+    "onlineConvert": {
+      "heading": "免费在线图像转 PDF 转换",
+      "content": "在线图像转 PDF 转换器是一种多功能工具，可轻松地将任何大小的图像转换为 PDF 文档，无需付费。无论您是有照片、图形还是扫描文件，此工具都能高效地将它们转换为 PDF 格式。您可以同时将多达四个图像转换为 PDF 文件，从而简化您的工作流程。享受将多个图像转换为 PDF 的便利。我们的转换器确保了准确性并在生成的 PDF 文件中保留了图像的质量，使其非常适合个人、学术或专业用途，其界面简单易用。"
+    },
+    "howToConvert": {
+      "heading": "如何将图像转换为 PDF？",
+      "steps": {
+        "stepone": "使用 **上传文件** 按钮拖放、粘贴或上传您的图像文件。",
+        "steptwo": "然后按 **转换为 PDF** 按钮。",
+        "stepthree": "现在，请耐心等待，我们的图像转换工具将图像转换为 PDF 文件。",
+        "stepfour": "几秒钟后，您可能会获得转换后的 PDF 文件。您可以通过点击 **下载所有** 按钮获取所有 PDF 文件。"
+      }
+    },
+    "mainBenefits": {
+      "heading": "图像转换器的主要优势",
+      "benefits": {
+        "titleM": "多格式支持",
+        "descriptionM": "我们的工具支持多种图像格式，允许用户将 JPEG、PNG、GIF 转换为 PDF 文档。无论是专业文件、个人项目还是存档目的，这种灵活性都能满足多样化的需求。",
+        "titleU": "用户友好的界面",
+        "descriptionU": "我们的工具具有直观的界面，使得将图像转换为 PDF 变得简单易用，即使是技术知识较少的人也能轻松使用。"
+      }
+    },
+
+    "componentTrans": {
+      "error": "图像转换为 PDF 时出错",
+      "error2": "一次只能转换 4 个文件，因此请选择 4 个！",
+      "error3": "只允许 JPG、PNG、GIF 和 JPEG 格式的图像",
+      "message": "拖放、上传或粘贴图像",
+      "support": "支持的格式：JPG、PNG、GIF 和 JPEG",
+      "upload": "上传文件",
+      "titleone": "您的文件将在 2 小时内自动从服务器中删除",
+      "secure": "您的文件是安全的",
+      "clear": "清除所有",
+      "convert": "转换为 PDF",
+      "suggestion": "*大型文件需要一些时间，请耐心等待*",
+      "over": "重新开始",
+      "fileTitle": "下载文件",
+      "all": "下载所有"
+    },
+    "metadata": {
+      "title": "图片转PDF转换器 - 将图片转换为PDF",
+      "description": "使用此JPG转PDF转换器，您可以一次将多达四张照片转换为PDF文件。"
+    }
+  },
+
+  "pdfToExcelConverter": {
+    "title": "PDF 转 Excel 转换器",
+    "description": "您可以使用 PDF 转 Excel 转换器免费将 PDF 转换为 Excel 文件。只需点击一下即可将 PDF 转换为可编辑的 Excel 文件。",
+    "onlineConvert": {
+      "heading": "免费在线 PDF 转 Excel 转换",
+      "content": "该 PDF 转换程序可以将 PDF 转换为 Excel。此工具允许您免费将文件大小最多为 5MB 的 PDF 转换为 Excel。您一次只能转换一个 PDF 文件，但是如果该文件有超过 10 页，则可能需要一些时间。请耐心等待。"
+    },
+    "howToConvert": {
+      "heading": "如何将 PDF 转换为 Excel？",
+      "steps": {
+        "stepone": "使用 **上传文件** 按钮拖放或上传您的 PDF 文件。",
+        "steptwo": "然后按 **转换为 Excel** 按钮。",
+        "stepthree": "请耐心等待，我们的 PDF 转换工具将 PDF 转换为 Excel。",
+        "stepfour": "几秒钟后，您可以获得转换后的 Excel 文件。您可以通过点击 **下载** 按钮获取 Excel 文件。"
+      }
+    },
+    "keyFeatures": {
+      "heading": "PDF 转换器的关键功能",
+      "features": {
+        "titleF": "免费访问",
+        "descriptionF": "我们的 PDF 转换器完全免费，确保所有用户无需支付任何费用或订阅即可访问。",
+
+        "titleB": "批量转换",
+        "descriptionB": "轻松将 PDF 的多个页面转换为 CSV，处理多达 100 页以上的文件以及每个文件最多 5MB 的大小，但处理时间会有所不同。",
+
+        "titleE": "增强的 OCR 功能",
+        "descriptiononeE": "借助 OCR 支持，将扫描的 PDF 转换为可编辑的 Excel 文件，使您能够更有效地操作和利用数据。",
+        "descriptiontwoE": "这些功能突出了我们 PDF 转换器的多功能性和安全性，使其成为您所有文档转换需求的可靠选择。"
+      }
+    },
+
+    "componentTrans": {
+      "error": "将 PDF 转换为 Excel 时出错：",
+      "error2": "一次只能转换 1 个文件，因此请选择仅 1 个 PDF 文件！",
+      "error3": "PDF 文件大小不得超过 5MB",
+      "error4": "仅允许 PDF 文件",
+      "message": "拖放或上传 PDF",
+      "support": "支持的格式：仅限 PDF",
+      "upload": "上传文件",
+      "titleone": "您的文件将在 2 小时内自动从服务器中删除",
+      "secure": "您的文件是安全的",
+      "clear": "清除所有",
+      "convert": "转换为 Excel",
+      "suggestion": "*大文件需要一些时间，请耐心等待*",
+      "fileTitle": "下载文件",
+      "over": "重新开始"
+    },
+    "metadata": {
+      "title": "PDF 转 Excel 转换器 - 轻松将 PDF 文件转换为 Excel 文件",
+      "description": "我们的 PDF 转换器使将 PDF 文件转换为 Excel 文件变得简单且无需费用。"
+    }
+  },
+  "pdfToImageConverter": {
+    "title": "PDF 转图像转换器",
+    "description": "使用 PDF 转图像转换器，您可以免费将 PDF 转换为 JPG，只需点击一下即可完成。",
+    "onlineConvert": {
+      "heading": "免费在线 PDF 转图像转换",
+      "content": "这款在线 PDF 转图像转换器是一款免费的应用程序，可以快速将 PDF 文档转换为任意大小的照片。您可以同时转换两个 PDF 文件，但是具有超过十页的大文件可能需要更长时间才能完成。我们注重准确性和效率，确保转换后的照片保持其原始质量和布局。无论您是转换报告、演示文稿还是其他文档，我们的工具都能提供流畅的体验，无需下载或订阅。直接从浏览器中简单且安全地将 PDF 转换为图片。"
+    },
+    "howToConvert": {
+      "heading": "如何将 PDF 转换为图像？",
+      "steps": {
+        "stepone": "使用 **上传文件** 按钮拖放或上传您的 PDF 文件。",
+        "steptwo": "然后按 **转换为图像** 按钮。",
+        "stepthree": "请耐心等待，我们的 PDF 转换工具将 PDF 转换为图像。",
+        "stepfour": "几秒钟后，您可以获得转换后的图像文件。您可以通过点击 **下载** 按钮获取两个文件的 ZIP 文件。"
+      }
+    },
+    "keyFeatures": {
+      "heading": "PDF 转换器的关键功能",
+      "features": {
+        "titleF": "免费使用",
+        "descriptionF": "我们的 PDF 转 JPG 转换器完全免费，适用于所有用户。没有隐藏费用或订阅，确保每个人都可以访问。",
+
+        "titleS1": "支持多个 PDF 文件",
+        "descriptionS1": "此转换器可以有效处理多个 PDF 文件，非常适合批量处理任务，如转换报告、学术论文或商务文档。",
+
+        "titleS2": "支持多个 PDF 页面",
+        "descriptionS2": "我们的 PDF 转图像转换器可以转换文件大小最多为 5MB 的 PDF，确保各种文档类型的灵活性。尽管较大的文件可能需要更长时间，但我们优先考虑准确和高质量的转换。",
+
+        "titleS3": "安全和隐私",
+        "descriptionS3": "在转换过程中，我们优先考虑数据的安全性和保密性。高级加密协议确保您的敏感信息保持安全和私密。"
+      }
+    },
+
+    "componentTrans": {
+      "error": "将 PDF 转换为图像时出错：",
+      "error2": "一次只能转换 2 个文件，因此请选择仅 2 个 PDF！",
+      "error3": "PDF 文件大小不得超过 5MB",
+      "error4": "仅允许 PDF 文件",
+      "message": "拖放或上传 PDF",
+      "support": "支持的格式：仅限 PDF",
+      "upload": "上传文件",
+      "titleone": "您的文件将在 2 小时内自动从服务器中删除",
+      "secure": "您的文件是安全的",
+      "upload2": "上传 PDF",
+      "clear": "清除所有",
+      "convert": "转换为图像",
+      "suggestion": "*大文件需要一些时间，请耐心等待*",
+      "all": "所有图像",
+      "allTile": "下载所有图像",
+      "over": "重新开始"
+    },
+    "metadata": {
+      "title": "PDF转图片转换器 - 立即将PDF文件转换为图像",
+      "description": "您可以使用这个PDF转图片转换器快速将PDF文件转换为JPG图片。"
+    }
+  },
+  "pdfToWordConverter": {
+    "title": "PDF 转 Word 转换器",
+    "description": "使用 PDF 转 Word 转换器，您可以免费将 PDF 文件转换为 Docx 文档。要将 PDF 转换为可编辑的 Word 文档，只需点击转换按钮。",
+    "onlineConvert": {
+      "heading": "免费在线 PDF 转 Word 转换",
+      "content": "这个 PDF 转换器程序将 PDF 转换为 Word。该工具允许您免费将任意大小的 PDF 转换为 Word。您可以同时转换两个 PDF 文件，但如果文件超过 10 页，可能需要一些时间。请耐心等待。"
+    },
+    "howToConvert": {
+      "heading": "如何将 PDF 转换为 Word？",
+      "steps": {
+        "stepone": "使用 **上传文件** 按钮拖放或上传您的 PDF 文件。",
+        "steptwo": "然后按 **转换为 Word** 按钮。",
+        "stepthree": "请耐心等待，我们的 PDF 转换工具将 PDF 转换为 Word。",
+        "stepfour": "几秒钟后，您可以获得转换后的 Word 文件。如果您转换了两个 PDF 文件，可以通过点击 **全部下载** 按钮获取两个文件的 ZIP 文件。"
+      }
+    },
+    "keyFeatures": {
+      "heading": "PDF 转换器的关键功能",
+      "features": {
+        "titleF": "免费使用",
+        "descriptionF": "我们的 PDF 转 Word 转换器对所有人完全免费。无论您是学生、专业人士还是任何需要转换文档的人，您都可以使用此工具，无需任何隐藏费用或订阅费用。这确保每个人都可以访问高质量的转换服务，而无需担心费用。",
+
+        "titleS1": "支持多个 PDF 文件",
+        "descriptionS1": "这个强大的 PDF 转 Word 转换器允许您同时处理 2 个 PDF 文件。无论您有报告、学术论文还是商务文档，我们的工具都可以高效地一次性处理这些文件。此功能为需要大量转换的用户节省时间和精力。",
+
+        "titleS2": "支持多个 PDF 页面",
+        "descriptionS2": "我们的 PDF 转 Word 转换器设计用于处理不同长度的文档。它可以转换大小最多为 5MB 的 PDF，为不同类型的文档提供灵活性。虽然较大的文件可能需要更长时间处理，但我们先进的算法可以确保超过 10 页的文档获得准确和高质量的转换结果。",
+
+        "titleS3": "安全和隐私",
+        "descriptionS3": "我们优先考虑您的数据的安全和隐私。我们的 PDF 转 Word 转换器使用先进的加密协议在转换过程中保护您的敏感信息。我们确保您的文档保持机密，不存储或与第三方共享您的文件。您可以放心使用我们的工具，知道您的数据是安全的。",
+
+        "titleO": "OCR 支持",
+        "descriptionO": "我们的转换器配备了光学字符识别 (OCR) 技术，使其能够将扫描的 PDF 转换为可编辑的 Word 文档。此功能对于将打印文档数字化、使其可编辑和可搜索特别有用。"
+      }
+    },
+
+    "componentTrans": {
+      "error": "将 PDF 转换为 Word 时出错",
+      "error2": "一次只能转换 2 个文件，因此请选择仅 2 个 PDF！",
+      "error3": "PDF 文件大小不得超过 5MB",
+      "error4": "仅允许 PDF 文件",
+      "message": "拖放或上传 PDF",
+      "support": "支持的格式：仅限 PDF",
+      "upload": "上传文件",
+      "titleone": "您的文件将在 2 小时内自动从服务器中删除",
+      "secure": "您的文件是安全的",
+      "upload2": "上传 PDF",
+      "clear": "清除所有",
+      "convert": "转换为 Word",
+      "suggestion": "*大文件需要一些时间，请耐心等待*",
+      "fileTitle": "下载文件",
+      "over": "重新开始",
+      "allDownload": "全部下载"
+    },
+
+    "metadata": {
+      "title": "PDF转Word文件转换器 - 将PDF文件转换为Word文件",
+      "description": "使用此PDF到Docx转换器，您可以快速轻松地将PDF文件转换为可编辑的Docx文件。"
+    }
+  },
+
+  "wordToPdfConverter": {
+    "title": "Word 转 PDF 转换器",
+    "description": "使用 Word 转 PDF 转换器，您可以免费将 Doc|Docx 转换为 PDF 文档。只需单击一下，即可将可编辑的 Word 文档转换为可搜索的 PDF。",
+    "onlineConvert": {
+      "heading": "免费在线 Word 转 PDF 转换",
+      "content": "这个 Word 转换器程序将 Word 转换为 PDF。该工具允许您免费将任何大小的 Docx 转换为 PDF。您可以同时转换两个 Docx 文件；然而，如果文件超过 10 页，可能需要一些时间。请耐心等待。"
+    },
+    "howToConvert": {
+      "heading": "如何将 Word 转换为 PDF？",
+      "steps": {
+        "stepone": "使用 **上传文件** 按钮拖放或上传您的 Word 文件。",
+        "steptwo": "然后按 **转换为 PDF** 按钮。",
+        "stepthree": "请耐心等待，我们的 Word 转换工具将 Docx 转换为 PDF。",
+        "stepfour": "几秒钟后，您将收到转换后的 PDF 文件。如果您转换了两个 Docx 文件，可以通过点击 **全部下载** 按钮获取包含两个文件的 ZIP 文件。"
+      }
+    },
+    "keyFeatures": {
+      "heading": "Docx 转换器的功能",
+      "features": {
+        "titleU": "用户友好的界面",
+        "descriptionU": "享受干净直观的用户界面，简化了各个技能水平用户的转换过程。",
+
+        "titleS": "支持多个 PDF 文件",
+        "descriptionS": "将扫描的 Word 文档转换为可搜索的 PDF，提高文本内容的可用性和可访问性。这些功能使我们的 Docx 转换器成为需要高效、安全地转换多个文档的用户的可靠工具。",
+
+        "titleM": "多语言支持",
+        "descriptionM": "支持输入和输出文档中的多种语言，确保满足各种语言需求的兼容性和准确性。"
+      }
+    },
+
+    "componentTrans": {
+      "error": "将 Word 转换为 PDF 时出错：",
+      "error2": "一次只能转换 2 个文件，因此请选择仅 2 个 Docx！",
+      "error3": "Docx 文件大小不得超过 5MB",
+      "error4": "仅允许 Docx 文件",
+      "message": "拖放或上传 Docx",
+      "support": "支持的格式：仅限 Doc 和 Docx",
+      "upload": "上传文件",
+      "titleone": "您的文件将在 2 小时内自动从服务器中删除",
+      "secure": "您的文件是安全的",
+      "upload2": "上传 Docx",
+      "clear": "清除所有",
+      "convert": "转换为 PDF",
+      "suggestion": "*大文件需要一些时间，请耐心等待*",
+      "over": "重新开始",
+      "fileTitle": "下载文件",
+      "allDownload": "全部下载"
+    },
+    "metadata": {
+      "title": "Word转PDF转换器 - 将您的Docx文件转换为PDF",
+      "description": "您可以使用Word转PDF转换器将Docx文件转换为PDF文件。"
+    }
+  },
+
+  "faq": {
+    "title": "常见问题",
+    "sections": {
+      "pdfToImage": {
+        "title": "PDF 转图片",
+        "items": {
+          "questionone": "我可以将 PDF 文件转换为什么类型的图片？",
+          "answerone": "您可以将 PDF 文件转换为 JPEG 等图片格式。",
+
+          "questiontwo": "我可以一次将多少页的 PDF 转换为图片？",
+          "answertwo": "您可以同时将 PDF 文件的所有页面转换为图片。转换过程会为每一页生成一个图片文件。"
+        }
+      },
+      "pdfToWord": {
+        "title": "PDF 转 Word",
+        "items": {
+          "questionone": "从 PDF 文件转换的 Word 文档格式是什么？",
+          "answerone": "PDF 文件被转换为可编辑的 Word 文档（.docx 格式）。",
+
+          "questiontwo": "在 PDF 到 Word 转换过程中，图像和格式是否会被保留？",
+          "answertwo": "是的，在转换过程中，图像和大多数格式元素（字体、样式、表格等）都会被保留。",
+
+          "questionthree": "密码保护的 PDF 文件可以转换为 Word 文档吗？",
+          "answerthree": "如果您有解锁 PDF 文件的密码，则可以将密码保护的 PDF 转换为 Word 文档。否则，在没有密码的情况下，可能无法进行转换。"
+        }
+      },
+      "imageToText": {
+        "title": "图片转文本",
+        "items": {
+          "questionone": "我可以将什么类型的图片转换为文本？",
+          "answerone": "您可以将包含文本的各种图片类型（如 JPEG、PNG 和 GIF）转换为可编辑的文本文件。",
+
+          "questiontwo": "图片的质量和清晰度是否会影响文本识别的准确性？",
+          "answertwo": "是的，更高质量和更清晰的图片通常会带来更好的文本识别准确性。带有噪音或分辨率差的图片可能会影响准确性。",
+
+          "questionthree": "图片中的手写文字可以转换为可编辑的文本吗？",
+          "answerthree": "手写文字的识别取决于字迹的清晰度和可读性。高级 OCR（光学字符识别）软件可能支持手写文字识别。"
+        }
+      },
+      "pdfToExcel": {
+        "title": "PDF 转 Excel",
+        "items": {
+          "questionone": "从 PDF 转换的 Excel 文件格式是什么？",
+          "answerone": "PDF 文件被转换为 Excel 电子表格（.xlsx 格式）。这使您能够在 Excel 中操作和分析数据。",
+
+          "questiontwo": "在 PDF 到 Excel 转换过程中，表格和格式是否会被保留？",
+          "answertwo": "是的，在转换过程中，表格、数据格式和大多数布局结构都会被保留。复杂的布局可能需要手动调整。",
+
+          "questionthree": "密码保护的 PDF 文件可以转换为 Excel 电子表格吗？",
+          "answerthree": "如果您有解锁 PDF 文件的密码，则可以将密码保护的 PDF 转换为 Excel 电子表格。否则，在没有密码的情况下，可能无法进行转换。"
+        }
+      },
+      "imageToPdf": {
+        "title": "图片转 PDF",
+        "items": {
+          "questionone": "我可以将什么类型的图片转换为 PDF？",
+          "answerone": "您可以将各种类型的图片（JPEG、PNG、GIF 等）转换为 PDF 格式。",
+
+          "questiontwo": "我可以转换多张图片吗？",
+          "answertwo": "是的，您可以将多张照片转换为多个 PDF 文档。每张图片对应一个 PDF。"
+        }
+      },
+      "wordToPdf": {
+        "title": "Word 转 PDF",
+        "items": {
+          "questionone": "从 Word 文档转换的 PDF 文件格式是什么？",
+          "answerone": "Word 文档（.docx 和 .doc 格式）被转换为 PDF 格式。此转换保留了原始 Word 文档的内容和格式。",
+
+          "questiontwo": "在 Word 到 PDF 转换过程中，图像和格式是否会被保留？",
+          "answertwo": "是的，在转换过程中，图像、字体、样式、表格和大多数格式元素都会被保留。复杂的布局可能需要调整。",
+
+          "questionthree": "密码保护的 Word 文档可以转换为 PDF 吗？",
+          "answerthree": "如果您有解锁 Word 文档的密码，则可以将密码保护的文档转换为 PDF。否则，在没有密码的情况下，可能无法进行转换。"
+        }
+      }
+    },
+    "metadata": {
+      "title": "常见问题",
+      "description": "常见问题页面，在这里你可以找到有关转换器的所有问题的答案"
+    }
+  },
+
+  "aboutUs": {
+    "title": "关于我们",
+    "content": {
+      "intro": "OnlineOCR.net 提供了最佳的工具，用于将图像、扫描的 PDF 和 Docx 文件转换为可编辑和可搜索的格式。我们先进的 OCR 软件将文档转换为各种文件类型，如 Excel、PDF、Docx、图像和文本。作为我们服务的一部分，我们提供快速准确的转换，以节省您的时间并消除手动过程的需要。",
+      "sections": {
+        "titleone": "高效的文档转换",
+        "textone": "免费的在线 OCR 服务无需手动输入文档，从而节省了精力和时间。我们的服务为单页和多页文档提供快速准确的转换，提高了生产力。",
+
+        "titletwo": "多语言支持",
+        "texttwo": "该服务支持 36 种语言，包括 APAC 和 EMEA 语言，如英语、法语、德语、意大利语、葡萄牙语、俄语、西班牙语、日语、中文、韩语等。我们还处理多种语言编写的文档，确保为您的需求提供全面支持。",
+
+        "titlethree": "免费且快速可达",
+        "textthree": "永远免费使用我们的服务。使用我们方便的服务，了解为什么许多人依赖 OnlineOCR.net 来满足他们的文档转换需求。"
+      }
+    },
+    "metadata": {
+      "title": "关于我们",
+      "description": "这是一个免费的在线转换器，用于图像、PDF、Docx 文件和 Excel 电子表格。"
+    }
+  },
+  "contactus": {
+    "title": "联系我们",
+    "description": "如有任何问题或反馈，请通过电子邮件与我们联系，邮箱地址为 **supportimageocr@gmail.com**。我们重视您的咨询，并致力于提供及时的服务，无论是有关我们的服务、文档转换还是任何技术支持。如果您有改进建议或需要对我们的功能进行澄清，我们的专门支持团队随时为您提供帮助。欢迎随时与我们联系。",
+    "metadata": {
+      "title": "联系我们",
+      "description": "如有任何关于此转换器的问题，请与我们联系。"
+    }
+  },
+  "termsandcondition": {
+    "heading1": "条款和条件",
+    "termssection1": {
+      "paragraph": "本文件概述了使用网站 imageocr.info 的条款和条件"
+    },
+    "termssection2": {
+      "heading2": "条款的接受",
+      "paragraph1": "通过访问本网站，用户假定接受这些条款和条件。术语“客户”、“您”和“您的”指的是登录并遵守公司条款和条件的用户。术语“公司”、“我们”、“我们的”和“我们”指的是公司，而“各方”、“双方”或“我们”指的是客户和我们。",
+      "paragraph2": "这些条款被视为可以互换的，并受使用条款的约束。通过使用 imageocr.info，用户同意这些条款并受其法律约束。公司可以自行决定修改这些条款，用户应定期查看页面以获取更新。如果用户不同意这些条款，则不应使用本网站。"
+    },
+    "termssection3": {
+      "heading2": "责任和保护",
+      "paragraph1": "imageocr.info 是一个提供服务的网站，但不保证其准确性或可靠性。建议用户报告任何错误。网站可能会在没有通知的情况下更改，用户不对提交内容的任何丢失、更改或损坏负责。网站不保证操作无问题或服务器无病毒。如果用户需要修理或更换设备或数据，相关费用由用户承担。",
+      "paragraph2": "imageocr.info 可能会显示第三方内容，包括指向第三方网站的链接，这完全由提供该内容的实体负责。网站可能会审查、删除或拒绝显示这些内容，但没有义务这样做。imageocr.info 不支持或对第三方网站上的内容负责，用户应自行承担风险。使用时请谨慎行事，风险自负。"
+    },
+    "termssection4": {
+      "heading2": "服务条款",
+      "paragraph1": "imageocr.info 不声明其服务适合任何特定目的或受众。网站不对因非法或不当访问导致的任何损害、索赔或伤害负责。",
+      "paragraph2": "如果《使用条款》中的任何条款无效，其余条款仍然有效。imageocr.info 选择不执行任何条款并不放弃其未来执行的权利。重要的是定期查看《使用条款》以获取更新或更改。继续使用本网站，即表示用户同意受最新版本的《使用条款》约束。"
+    },
+    "termssection5": {
+      "heading2": "Cookies",
+      "paragraph": "我们使用 cookies。通过访问 imageocr.info，您同意我们使用 cookies，具体信息请参阅我们的隐私政策。大多数互动网站使用 cookies 来检索用户每次访问的信息。我们的网站使用 cookies 来启用网站功能并使访问者导航更加方便。我们的某些合作伙伴和广告商也可能使用 cookies。"
+    },
+    "termssection6": {
+      "heading2": "免责声明",
+      "paragraph1": "在适用法律允许的最大范围内，我们排除对我们网站及其使用的所有陈述、保证和条件。本免责声明中的内容不会：",
+      "listItem1": "限制或排除我们或您对死亡或人身伤害的责任；",
+      "listItem2": "限制或排除我们或您对欺诈或欺诈性虚假陈述的责任；",
+      "listItem3": "限制我们或您在法律不允许的任何方式下的责任；或排除我们或您在法律不允许排除的任何责任。",
+      "paragraph2": "本节及本免责声明其他地方的责任限制和禁止：（a）受前述段落的约束；（b）适用于所有根据本免责声明产生的责任，包括合同责任、侵权责任和违反法定义务的责任。只要网站及其信息和服务是免费的，我们将不对任何性质的损失或损害承担责任。"
+    },
+    "termssection7": {
+      "heading2": "从我们的网站删除链接",
+      "paragraph1": "如果您发现我们网站上的任何链接因任何原因令人不快，您可以随时联系我们并通知我们。我们将考虑删除链接的请求，但我们没有义务这样做或直接回应您。",
+      "paragraph2": "我们不确保本网站上的信息正确，我们不保证其完整性或准确性；也不承诺确保网站保持可用或网站上的材料保持最新。"
+    },
+    "termssection8": {
+      "heading2": "许可",
+      "paragraph": "除非另有说明，imageocr.info 对网站上的所有材料拥有知识产权。用户可以访问这些内容供个人使用，但不得重新发布、出售、出租、转授权、复制、重复或分发内容。"
+    },
+    "metadata": {
+      "title": "条款和条件",
+      "description": "我们免费转换工具的使用条件。"
+    }
+  },
+
+  "privacyPolicy": {
+    "title": "ImageOCR.info 隐私政策",
+    "sections": {
+      "introduction": {
+        "paragraph1": "您使用 imageocr.info 服务须接受我们的服务条款和隐私政策。",
+        "paragraph2": "在 imageocr.info（访问地址：imageocr.info），保护访问者的隐私是我们的首要任务。本隐私政策文件概述了我们收集和记录的信息类型，并解释了我们如何使用这些信息。",
+        "paragraph3": "如果您有任何额外的问题或需要更多关于我们隐私政策的信息，请随时与我们联系。",
+        "paragraph4": "本隐私政策在您首次使用服务时生效。通过使用 imageocr.info，您承认您已阅读并理解了本隐私政策的条款，并同意受其约束。如果您不同意本隐私政策，请不要使用 imageocr.info 或任何在该服务上提供的材料和资源。"
+      },
+      "informationWeCollect": {
+        "title": "1. 我们收集的信息",
+        "personalData": {
+          "title": "个人数据",
+          "paragraph1": "当您访问 imageocr.info 时，会提示您允许使用 cookies，但是否允许完全由您决定。",
+          "paragraph2": "我们不会查看您使用 imageocr.info 服务上传的文件。然而，我们可能会查看您文件的元数据（如文件扩展名、大小等，但不包括内容）以提供技术支持。"
+        },
+        "cookies": {
+          "title": "Cookies",
+          "paragraph1": "imageocr.info 使用浏览器 cookies 来存储有关您在我们网站上活动的状态信息。Cookies 帮助我们跟踪您的偏好并增强您的用户体验。我们不会在 cookies 中存储任何个人信息。Cookies 是写入到您设备硬盘上的小数据文件。Cookies 不能读取您硬盘上的其他数据，不能传递病毒，也不能读取其他网站创建的 cookie 文件。您可以通过在浏览器设置中关闭 cookies 来拒绝 cookies，但请注意，一些 imageocr.info 的功能可能在没有启用 cookies 的情况下无法正常工作。"
+        },
+        "technicalInformation": {
+          "title": "技术信息",
+          "paragraph1": "记录的技术细节仅限于以下类型的信息：",
+          "detail1": "访问者 Web 服务器的 Internet 协议（IP）地址或网关。",
+          "detail2": "访问者使用的 Web 浏览器类型。",
+          "detail3": "访问者设备的操作系统。",
+          "detail4": "访问者显示器的屏幕分辨率。",
+          "detail5": "潜在安全风险的信息、我们认为可能是欺诈性的网站 URL 和识别为潜在恶意软件的可执行文件。",
+          "detail6": "上传文件的元数据，如文件大小、文件名、文件格式和其他相关参数。"
+        }
+      },
+      "yourRights": {
+        "title": "2. 您的权利",
+        "paragraph1": "由于 imageocr.info 是一个免费的服务，不需要用户注册，我们不会长时间收集或存储个人数据。上传到我们服务的数据最多保存两小时后会自动删除。"
+      },
+      "ccpaPrivacyRights": {
+        "title": "3. CCPA 隐私权利（请勿出售我的个人信息）",
+        "paragraph1": "根据加利福尼亚消费者隐私法案（CCPA），加利福尼亚消费者有权：",
+        "right1": "要求收集消费者个人数据的企业披露企业收集的消费者个人数据的类别和具体内容。",
+        "right2": "要求企业删除有关消费者的任何个人数据。",
+        "right3": "要求销售消费者个人数据的企业不要出售消费者的个人数据。",
+        "paragraph2": "由于 imageocr.info 是一个免费的服务，不需要用户注册，并且所有上传的数据会在两小时内自动删除，个人数据的收集非常有限。如果您仍希望行使这些权利，请与我们联系，我们将在一个月内做出回应。"
+      },
+      "gdprDataProtectionRights": {
+        "title": "4. GDPR 数据保护权利",
+        "paragraph1": "我们希望确保您完全了解所有数据保护权利。每个用户有权享有以下权利：",
+        "right1": "访问权 – 您有权要求获取您的个人数据副本。由于我们仅保存上传的数据两小时，并且不需要登录，我们能提供的个人数据非常有限。",
+        "right2": "更正权 – 您有权要求我们更正您认为不准确的信息。鉴于我们数据存储的临时性，大多数更正可能是不必要的。",
+        "right3": "删除权 – 您有权在某些条件下要求我们删除您的个人数据。由于所有数据在两小时后自动删除，这一权利已被尊重。",
+        "right4": "限制处理权 – 您有权在某些条件下要求我们限制对您的个人数据的处理。然而，我们的数据处理是最小和短期的。",
+        "right5": "反对处理权 – 您有权在某些条件下反对我们对您的个人数据的处理。如果您有任何担忧，请立即与我们联系。",
+        "right6": "数据可移植权 – 您有权在某些条件下要求我们将我们收集的数据转移到其他组织或直接转移给您。由于我们仅保存数据两小时，并且不收集个人信息，这一权利通常不适用。",
+        "paragraph2": "如果您提出请求，我们有一个月的时间来回应您。如果您希望行使这些权利，请与我们联系。"
+      },
+      "locationOfDataProcessing": {
+        "title": "5. 数据处理和存储的位置",
+        "paragraph1": "您上传到 imageocr.info 的数据可能会在 imageocr.info 运营的各个国家的服务器上处理和存储。鉴于我们服务的临时性，所有数据在上传后的两小时内会自动删除。",
+        "paragraph2": "通过使用 imageocr.info，您同意在这些位置临时存储和处理您的数据。我们确保所有的数据处理都符合适用的隐私法律，所有数据在两小时保留期后都会安全删除。"
+      },
+      "changesToPolicy": {
+        "title": "6. 隐私政策的变更",
+        "paragraph1": "本隐私政策可能会定期更新。任何更改、更新或修改将在我们网站上发布后立即生效。我们鼓励您定期查看本隐私政策，以了解我们的数据处理实践。"
+      },
+      "thirdPartyAdvertising": {
+        "title": "7. 第三方广告",
+        "paragraph1": "我们可能会在 imageocr.info 上展示第三方广告。这些第三方广告商可能会使用 cookies 和类似技术来收集有关您在我们网站和其他网站上的活动的信息，以根据您的兴趣向您提供定向广告。我们不会与这些第三方广告商共享任何个人信息。您可以通过浏览器设置管理您对定向广告的偏好。"
+      }
+    },
+    "metadata": {
+      "title": "隐私和政策",
+      "description": "本页概述了我们的隐私政策。"
+    }
+  },
+  "cookieconsentpage": {
+    "header": "本网站使用 Cookies",
+    "paragraph1": "我们使用 Cookies 来提升您的体验、个性化内容和广告、提供社交媒体功能，并分析我们的流量。Cookies 是放置在您的设备上的小型数据文件，帮助我们改善网站功能和用户体验。如果您继续使用我们的网站，即表示您同意我们的 Cookies。",
+    "link": "隐私政策",
+    "Name1": "接受",
+    "Name2": "拒绝"
+  }
+}

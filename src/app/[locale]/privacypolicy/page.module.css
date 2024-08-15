@@ -1,0 +1,74 @@
+/* PrivacyPolicy.css */
+.privacypolicycontainer {
+  max-width: 840px;
+  margin: auto;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.privacypolicysection {
+  margin-bottom: 30px;
+}
+
+.privacypolicycontainer .heading1 {
+  color: #660fb1;
+  font-size: 2em;
+  margin-top: 20px;
+  text-align: center;
+}
+
+.privacypolicysection .heading2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+  line-height: 3rem;
+}
+
+.privacypolicysection .paragraph {
+  font-size: 1em;
+  line-height: 1.6;
+  margin-top: 20px;
+}
+
+.privacypolicysection .unlistedlist {
+  list-style-type: disc;
+  margin: 20px 0;
+  padding-left: 20px;
+}
+
+.heading3 {
+  margin-top: 25px;
+}
+
+.privacypolicysection .unlistedlist .listedlist {
+  margin-bottom: 10px;
+}
+
+.privacypolicysection .unlistedlist .listedlist .unlistedlist {
+  list-style-type: circle;
+  margin-left: 20px;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .privacypolicycontainer {
+    padding: 10px;
+  }
+
+  .privacypolicycontainer .heading1 {
+    font-size: 1.8em;
+  }
+
+  .privacypolicysection .heading2 {
+    font-size: 1.3em;
+  }
+
+  .privacypolicysection .paragraph {
+    font-size: 0.9em;
+  }
+
+  .privacypolicysection .unlistedlist .listedlist {
+    font-size: 0.9em;
+  }
+}

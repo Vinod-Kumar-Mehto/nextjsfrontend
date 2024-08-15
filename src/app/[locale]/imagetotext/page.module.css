@@ -1,0 +1,580 @@
+/* General Styles */
+.formcontainer,
+.formcontainer1,
+.formcontainer2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading,
+.heading1,
+.heading2 {
+  margin-top: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.uploadfilescontainer,
+.uploadfilescontainer1,
+.uploadfilescontainer2 {
+  margin-top: 50px;
+  background-color: #f7fff7;
+  padding: 30px 60px;
+  border-radius: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 10px 20px, rgba(0, 0, 0, 0.28) 0px 6px 6px;
+}
+
+.uploadfilescontainer1,
+.uploadfilescontainer2 {
+  max-width: 100%;
+}
+
+.dragfilearea,
+.dragfilearea1,
+.dragfilearea2 {
+  display: flex;
+  flex-direction: column;
+  border: 2px groove #7b2cbf;
+  border-radius: 40px;
+  margin: 10px 0;
+  text-align: center;
+  width: 840px;
+  background-color: rgb(255, 247, 237);
+}
+
+.dragfilearea {
+  display: block;
+  position: relative;
+  padding: 40px 60px;
+  width: 840px;
+  height: 350px;
+}
+.dragfilearea1,
+.dragfilearea2 {
+  padding: 15px 10px;
+  width: 840px;
+  overflow: auto;
+}
+
+.dragfilearea .dynamicmessage,
+.dragfilearea1 .dynamicmessage,
+.dragfilearea2 .dynamicmessage {
+  font-size: 20px;
+  margin: 15px 0;
+}
+.dragfilearea1 .dynamicmessage,
+.dragfilearea2 .dynamicmessage {
+  font-size: 20px;
+  margin: 7px 0;
+}
+
+.dragfilearea .label,
+.dragfilearea1 .label,
+.dragfilearea2 .label {
+  font-size: 19px;
+}
+
+.label {
+  font-size: 15px;
+}
+
+.browsefilestext {
+  border: 5px double rgb(148, 28, 187);
+  padding: 5px;
+  color: #7b2cbf;
+  font-weight: bolder;
+  cursor: pointer;
+  top: 86px;
+  position: relative;
+  box-shadow: 1px 1px 5px 2px rgb(136, 3, 146);
+}
+
+.browsefilestext1 {
+  color: #7b2cbf;
+  font-weight: bolder;
+  cursor: pointer;
+}
+
+.defaultfileinput {
+  position: absolute;
+  opacity: 0;
+  width: 100%;
+  height: 60%;
+  left: 0%;
+}
+
+.fileNameIma .paragraphsize {
+  float: left;
+  margin: 5px 0 2px;
+  color: darkgray;
+  margin-left: 2px;
+}
+
+.defaultfileinput1 {
+  opacity: 0;
+}
+
+.upload-button,
+.uploadbutton1,
+.uploadbutton2 {
+  font-family: "Montserrat";
+  display: flex;
+  align-items: center;
+  font-size: 18px;
+  border: none;
+  border-radius: 20px;
+  margin: 20px 70px;
+  padding: 7.5px 50px;
+  cursor: pointer;
+  color: #f7fff7;
+  box-shadow: 1px 1px 5px 2px rgb(136, 3, 146);
+}
+
+.upload-button {
+  background-color: #3f0571;
+}
+
+.uploadbutton1,
+.uploadbutton2 {
+  background-color: #9754d1;
+}
+
+.uploadbutton1:hover,
+.uploadbutton2:hover {
+  background-color: #e950e7;
+}
+
+.browsefiles .span,
+.browsefiles1 .span {
+  position: relative;
+}
+
+.uploadbuttongroup {
+  font-family: "Montserrat";
+  color: #f7fff7;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 5px 0 10px;
+  padding: 7.5px 5px;
+  cursor: pointer;
+}
+
+.fileuploadcontainer1,
+.fileuploadcontainer2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.filedetails1,
+.filedetails2 {
+  display: flex;
+  align-items: center;
+  border: 1px dotted black;
+  padding: 10px;
+  border-radius: 10px;
+  width: 100%;
+  margin: 5px;
+  box-shadow: 1px 1px 3px rgb(56, 58, 56);
+}
+
+.filedetails1 {
+  margin-top: 15px;
+  background-color: rgb(244, 250, 248);
+  width: 95%;
+}
+
+.filedetails2 {
+  margin: 5px;
+  background-color: rgb(250, 245, 245);
+}
+
+.boxofname {
+  display: flex;
+  width: 140px;
+}
+
+.fileNameIma .p {
+  float: left;
+  margin: 5px 0 2px;
+  color: darkgray;
+}
+
+.lanpara {
+  width: 100%;
+  display: flex;
+  margin-left: 58%;
+  margin-bottom: 7px;
+  font-weight: 500;
+}
+
+.fileicon,
+.fileicon2 {
+  margin-right: 10px;
+}
+
+.fileicon {
+  width: 50px;
+  height: 50px;
+}
+
+.fileicon2 {
+  width: 70px;
+  height: 70px;
+}
+
+.removebutton {
+  width: 40px;
+  height: 25px;
+  margin-left: 230px;
+  cursor: pointer;
+  box-shadow: 1px 1px 2px 2px rgb(170, 11, 11);
+}
+
+.select {
+  text-align: center;
+  width: 120px;
+  height: 22px;
+  margin-left: 160px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.textareaa {
+  margin-left: 5px;
+  width: 600px;
+  border: none;
+  height: 80px;
+  resize: none;
+  outline: none;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  padding: 8px;
+  font-size: 14px;
+}
+
+.textareaa::-webkit-scrollbar-track {
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+  background-color: #f5f5f5;
+}
+
+.textareaa::-webkit-scrollbar {
+  width: 6px;
+  background-color: #f5f5f5;
+}
+
+.textareaa::-webkit-scrollbar-thumb {
+  background-color: #000000;
+}
+
+.buttonDCtext {
+  display: flex;
+  margin-left: 10px;
+  justify-content: space-between;
+  width: 70px;
+  height: 17px;
+}
+
+.buttonDCtext .Download,
+.buttonDCtext .copy {
+  cursor: pointer;
+  border-radius: 5px;
+  border: 1px solid blue;
+  width: 70px;
+  height: 30px;
+  box-shadow: 1px 1px 2px 2px rgb(37, 56, 62);
+}
+
+.buttonDCtext .Download:hover,
+.buttonDCtext .copy:hover {
+  background-color: rgb(143, 143, 196);
+}
+
+.spinner {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top: 65%;
+  left: 50%;
+  width: 100%;
+  height: 200px;
+  text-align: center;
+  font-size: 100px;
+}
+
+.react1,
+.react2,
+.react3,
+.react4,
+.react5,
+.react6,
+.react7,
+.react8,
+.react9,
+.react10 {
+  background-color: #fff;
+  height: 180px;
+  width: 20px;
+  display: inline-block;
+  animation: meregang 1.2s infinite ease-in-out;
+}
+
+.spinner .react1 {
+  animation-delay: -1.2s;
+}
+
+.spinner .react2 {
+  animation-delay: -1.1s;
+}
+.spinner .react3 {
+  animation-delay: -1s;
+}
+
+.spinner .react4 {
+  animation-delay: -0.9s;
+}
+
+.spinner .react5 {
+  animation-delay: -0.8s;
+}
+.spinner .react6 {
+  animation-delay: -0.6s;
+}
+.spinner .react7 {
+  animation-delay: -0.4s;
+}
+.spinner .react8 {
+  animation-delay: -0.3s;
+}
+.spinner .react9 {
+  animation-delay: -0.2s;
+}
+.spinner .react10 {
+  animation-delay: -0.1s;
+}
+
+@keyframes meregang {
+  0%,
+  40%,
+  100% {
+    transform: scaleY(0.4);
+  }
+  20% {
+    background-color: rgb(35, 74, 249);
+    transform: scaleY(1);
+  }
+}
+
+.textContent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 250px;
+}
+
+.textContent .img {
+  width: 250px;
+  padding: 15px;
+}
+
+.textContent > .textcontentdiv {
+  width: 80%;
+  max-width: 800px;
+  margin-bottom: 40px;
+}
+
+.textheading,
+.textheading3,
+.dynamicmessage {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #660fb1;
+}
+
+.textcontentpara {
+  margin-bottom: 16px;
+  line-height: 1.6;
+}
+
+.textcontentul {
+  padding-left: 20px;
+}
+.textcontentli {
+  margin-bottom: 16px;
+}
+
+.featureimg {
+  width: 150px;
+  height: 150px;
+  display: block;
+  margin: auto;
+  margin-bottom: 20px;
+}
+
+@media (max-width: 1200px) {
+  .dragfilearea,
+  .dragfilearea1,
+  .dragfilearea2,
+  .textareaa {
+    width: 104%;
+    padding: 20px;
+  }
+
+  .uploadfilescontainer,
+  .uploadfilescontainer1,
+  .uploadfilescontainer2 {
+    padding: 20px 40px;
+    max-width: 97%;
+  }
+
+  .upload-button,
+  .uploadbutton1,
+  .uploadbutton2 {
+    padding: 7.5px 30px;
+  }
+
+  .removebutton {
+    margin-left: 180px;
+  }
+
+  .select {
+    width: 70px;
+    font-weight: bold;
+    margin-left: 140px;
+  }
+  .lanpara {
+    margin-left: 140px;
+    font-size: 15px;
+    width: 100%;
+  }
+
+  .filedetails1,
+  .filedetails2 {
+    flex-direction: row;
+    align-items: center;
+    width: 100%;
+    padding: 5px;
+  }
+}
+
+@media (max-width: 700px) {
+  .textContent > .textcontentdiv {
+    width: 95%;
+  }
+
+  .dragfilearea,
+  .dragfilearea1,
+  .dragfilearea2 {
+    padding: 25px;
+    max-width: 100%;
+    max-height: 390px;
+  }
+
+  .uploadfilescontainer,
+  .uploadfilescontainer1,
+  .uploadfilescontainer2 {
+    padding: 10px;
+    max-width: 100%;
+  }
+
+  .upload-button,
+  .uploadbutton1,
+  .uploadbutton2 {
+    padding: 5px 15px;
+    margin: 5px;
+  }
+
+  .removebutton {
+    margin-left: 45px;
+  }
+
+  .select {
+    width: 70px;
+    margin-left: 0px;
+  }
+
+  .textheading,
+  .containerheading {
+    text-align: center;
+    font-size: medium;
+  }
+
+  .containerheading4,
+  .textheading3 {
+    text-align: center;
+    font-size: small;
+    margin: 0 5px 20px 5px;
+  }
+
+  .textcontentpara {
+    font-size: small;
+    margin-left: 5px;
+  }
+
+  .filedetails1,
+  .filedetails2 {
+    flex-direction: row;
+    align-items: center;
+    width: 100%;
+    padding: 5px;
+  }
+
+  .fileicon,
+  .fileicon2 {
+    margin: 5px 0;
+  }
+
+  .boxofname,
+  .lanpara {
+    margin-left: 1%;
+    font-weight: bold;
+    font-size: 10px;
+    text-wrap: nowrap;
+    width: 45%;
+  }
+
+  .textareaa {
+    width: 100%;
+    height: 60px;
+    padding: 5px;
+  }
+
+  .buttonDCtext {
+    width: 20%;
+    margin: 10px 0;
+    justify-content: flex-start;
+  }
+
+  .buttonDCtext .Download,
+  .buttonDCtext .copy {
+    margin: 0px 5px;
+  }
+
+  .textContent .img {
+    width: 150px;
+    padding: 5px;
+    height: 150px;
+  }
+
+  .dynamicmessage {
+    font-size: medium;
+  }
+  .browsefiles {
+    font-size: medium;
+  }
+
+  .featureimg {
+    width: 100px;
+    height: 100px;
+  }
+}

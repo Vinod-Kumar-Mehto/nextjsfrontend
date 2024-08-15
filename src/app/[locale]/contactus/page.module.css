@@ -1,0 +1,56 @@
+.contactuscontainer {
+  max-width: 840px;
+  margin: auto;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  min-height: 100vh;
+}
+
+.contactussection {
+  margin-bottom: 30px;
+}
+
+.contactuscontainer .contactheading1 {
+  color: #660fb1;
+  font-size: 2em;
+  margin-top: 20px;
+}
+
+.contactussection .contactparagraph {
+  font-size: 1em;
+  line-height: 1.6;
+  margin-top: 20px;
+  align-self: center;
+}
+
+.contactemail {
+  font-size: 1em;
+  color: #660fb1;
+  text-decoration: none;
+  margin-top: 10px;
+}
+
+.contactemail:hover {
+  text-decoration: underline;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .contactuscontainer {
+    padding: 10px;
+  }
+
+  .contactuscontainer .contactheading1 {
+    font-size: 1.8em;
+  }
+
+  .contactussection .contactparagraph {
+    font-size: 0.9em;
+  }
+
+  .contactemail {
+    font-size: 0.9em;
+  }
+}

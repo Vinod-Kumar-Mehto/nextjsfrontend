@@ -1,0 +1,615 @@
+{
+  "navbar": {
+    "items": {
+      "labelone": "PDF zu Bild",
+      "labeltwo": "PDF zu Word",
+      "labelthree": "Bild zu Text",
+      "labelfour": "PDF zu Excel",
+      "labelfive": "Bild zu PDF",
+      "labelsix": "Word zu PDF",
+      "labelseven": "Kostenlos"
+    }
+  },
+
+  "footer": {
+    "links": {
+      "labelone": "Über uns",
+      "labeltwo": "FAQ",
+      "labelthree": "Geschäftsbedingungen",
+      "labelfour": "Datenschutzrichtlinie",
+      "labelfive": "Kontakt"
+    },
+    "languageLabel": "Sprache"
+  },
+
+  "imgtotext": {
+    "componentTrans": {
+      "error": "Fehler beim Einstellen der Sprache!",
+      "error2": "Fehler beim Konvertieren in Text",
+      "error3": "Es können nur 4 Dateien gleichzeitig konvertiert werden, bitte wählen Sie nur 4 Bilder aus!",
+      "error4": "Nur JPG-, PNG-, GIF- und JPEG-Bilder sind erlaubt",
+      "message": "Ziehen & Ablegen, Hochladen oder Einfügen eines Bildes",
+      "support": "Unterstützte Formate: JPG, PNG, GIF und JPEG",
+      "upload": "Dateien hochladen",
+      "titleone": "Ihre Dateien werden automatisch innerhalb von 2 Stunden vom Server gelöscht",
+      "titletwo": "Zum Herunterladen klicken",
+      "titlethree": "Zum Kopieren klicken",
+      "secure": "Ihre Dateien sind sicher",
+      "upload2": "Bild hochladen oder einfügen",
+      "selectLang": "Sprache auswählen",
+      "clear": "Alle löschen",
+      "convert": "In Text umwandeln",
+      "suggestion": "*Große Dateien benötigen etwas Zeit, bitte haben Sie Geduld*",
+      "over": "Neu starten"
+    },
+
+    "imageToTextConverter": {
+      "title": "Bild-zu-Text-Konverter",
+      "description": "Verwenden Sie unseren Bild-zu-Text-Konverter, um Text aus JPG- oder Bilddateien zu extrahieren. Extrahieren Sie schnell Textdateien, indem Sie Fotos einfügen oder hochladen.",
+      "whatIs": {
+        "heading": "Was ist ein Bild-zu-Text-Konverter?",
+        "contentone": "Dieses Online Bild-OCR-Tool ist ein Bild-zu-Text-Konverter. Damit können Sie Text und Zeichen aus Bildern und Fotos extrahieren. Wenn Sie Text aus einem Foto extrahieren möchten, probieren Sie unseren Bild-zu-Text-Konverter aus.",
+        "contenttwo": "Wenn Sie ein gescanntes Buch im PDF-Format haben und es durchsuchbar machen möchten, ist unser PDF-zu-Word- oder Excel-Konvertierungsdienst dafür geeignet! Für die Umwandlung von Bildern in Text müssen Sie einfach die Datei hochladen und das Bild in Text konvertieren. Unser Service extrahiert Text aus Ihren Fotos mithilfe moderner Bildvorverarbeitungsalgorithmen und OCR-Technologien und speichert ihn in jedem bearbeitbaren Format."
+      },
+      "howItWorks": {
+        "heading": "Wie funktioniert unser Bild-zu-Text-Konverter?",
+        "steps": {
+          "stepone": "Ziehen und Ablegen oder hochladen und einfügen Ihres Bildes mit dem **Datei hochladen**-Button.",
+          "steptwo": "Dann drücken Sie den **In Text umwandeln**-Button.",
+          "stepthree": "Bitte haben Sie Geduld und lassen Sie unseren Konverter automatisch Text aus Ihren Bildern extrahieren.",
+          "stepfour": "In den nächsten Sekunden können Sie Ihren extrahierten Text im .txt-Format herunterladen oder den extrahierten Text aus den Bildern kopieren."
+        }
+      },
+      "keyFeatures": {
+        "heading": "Hauptmerkmale des Bild-zu-Text-Konverters",
+        "features": {
+          "titleone": "Kostenlos zu verwenden",
+          "descriptionone": "Dieses Tool ist kostenlos für alle verfügbar.",
+
+          "titletwo": "Unterstützt mehrere Dateiformate",
+          "descriptiontwo": "Dieser Bild-zu-Text-Konverter unterstützt mehrere Bilddateiformate wie JPG, PNG, JPEG, GIF und WEBP.",
+
+          "titlethree": "Niedrigauflösende Bilder",
+          "descriptionthree": "Wenn Sie Bilder in niedriger Qualität haben, machen Sie sich keine Sorgen. Der Bild-Text-Extraktor kann schnell Text aus unscharfen und niedrigauflösenden Fotos extrahieren. Bilder von Büchern, handgeschriebenen Arbeiten und Screenshots können blass und schwer lesbar sein. Unser Programm kann jedoch Daten aus solchen Fotos mit hoher Genauigkeit extrahieren."
+        }
+      },
+      "benefits": {
+        "heading": "Vorteile des Bild-zu-Text-Konverters",
+        "benefits": {
+          "titledigi": "Digitalisierung gedruckter Dokumente",
+          "descriptiondigione": "Die Digitalisierung gedruckter Dokumente ist eines der einflussreichsten Merkmale des Bild-zu-Text-Konverters. Dieser Prozess umfasst die Umwandlung physischer Dokumente, wie Bücher, Artikel und Zeitungen, in digitale Formate mit dem Bild-zu-Text-Konverter.",
+          "descriptiondigitwo": "Der erste Schritt bei der Digitalisierung gedruckter Dokumente ist das Scannen des physischen Dokuments. Dies kann mit einem Standardscanner, einem Multifunktionsdrucker oder sogar einer Smartphone-Kamera erfolgen. Das Ziel ist es, ein hochauflösendes Bild des Dokuments zu erstellen.",
+          "descriptiondigithree": "Sobald das Dokument gescannt ist, wird die Bilddatei von einem Bild-zu-Text-Konverter verarbeitet. Der JPG-zu-Text-Konverter analysiert den Text im Bild, erkennt Zeichen, Wörter und Sätze. Dieser Konverter kann mit verschiedenen Schriftarten, Größen und sogar handgeschriebenem Text umgehen. Der Bild-zu-Text-Konverter extrahiert den erkannten Text aus dem Bild und wandelt ihn in ein digitales Format um. Dies kann eine einfache Textdatei sein.",
+
+          "titlehealtwo": "Gesundheitswesen",
+          "descriptionheaone": "Verwandeln Sie Ihre medizinischen Aufzeichnungen in Text, indem Sie den Bild-zu-Text-Konverter für einfacheren Zugriff und Verwaltung verwenden.",
+          "descriptionheatwo": "Liest und verarbeitet automatisch handgeschriebene Rezeptbilder mit dem Bild-zu-Text-Konverter, um Fehler bei der Medikamentenabgabe zu reduzieren.",
+
+          "titleedthree": "Bildung",
+          "descriptioned": "Dieser Bild-zu-Text-Konverter konvertiert gescannte Lehrbücher oder historische Dokumente in bearbeitbare Textdateien für Studenten. Er beschleunigt auch die Benotung, indem handgeschriebene Testantworten in digitalen Text umgewandelt werden.",
+
+          "titlelefour": "Recht und Compliance",
+          "descriptionleone": "Konvertieren Sie juristische Dokumente, Verträge und Vereinbarungen in durchsuchbare digitale Dateien.",
+          "descriptionletwo": "Stellen Sie die Einhaltung von Vorschriften sicher, die digitale Aufzeichnungen und Zugänglichkeit durch den Bild-zu-Text-Konverter erfordern.",
+
+          "titletrfive": "Für Übersetzungen",
+          "descriptiontr": "Wenn Sie auf Text in einer unbekannten Sprache stoßen, machen Sie einfach ein Foto, fügen Sie es in unseren Bild-zu-Text-Konverter ein und geben Sie die extrahierten Daten in einen Sprachübersetzer ein."
+        }
+      }
+    },
+    "metadata": {
+      "title": "Bild-zu-Text-Konverter - Text aus Bildern extrahieren",
+      "description": "Der Bild-zu-Text-Konverter ist ein kostenloses Tool, mit dem Sie Bilder in Text umwandeln können."
+    }
+  },
+
+  "imageToPdfConverter": {
+    "title": "Bild-zu-PDF-Konverter",
+    "description": "Sie können JPG-Dateien kostenlos mit dem Bild-zu-PDF-Konverter in PDF-Dokumente umwandeln. Mit nur einem Klick können Sie Bilder in PDFs umwandeln.",
+    "onlineConvert": {
+      "heading": "Online-Bild-zu-PDF-Konvertierung kostenlos",
+      "content": "Der Online-Bild-zu-PDF-Konverter ist ein vielseitiges Tool, das mühelos Bilder jeder Größe kostenlos in PDF-Dokumente umwandelt. Egal, ob Sie Fotos, Grafiken oder gescannte Dokumente haben, dieses Tool verwandelt sie effizient in das PDF-Format. Sie können bis zu vier Bilder gleichzeitig in PDF-Dateien konvertieren, was Ihren Arbeitsablauf aus Bequemlichkeitsgründen optimiert. Genießen Sie die Einfachheit, mehrere Bilder in PDFs umzuwandeln. Unser Konverter sorgt für Genauigkeit und bewahrt die Qualität Ihrer Bilder in den resultierenden PDF-Dateien, was ihn ideal für den persönlichen, akademischen oder professionellen Gebrauch macht, mit seiner unkomplizierten und benutzerfreundlichen Oberfläche."
+    },
+    "howToConvert": {
+      "heading": "Wie konvertiert man ein Bild in PDF?",
+      "steps": {
+        "stepone": "Ziehen und Ablegen, Einfügen oder Hochladen Ihrer Bilddatei mit dem **Datei hochladen**-Button.",
+        "steptwo": "Dann drücken Sie den **In PDF umwandeln**-Button.",
+        "stepthree": "Bitte haben Sie Geduld, während unser Bildkonverter-Tool Bilder in PDF-Dateien umwandelt.",
+        "stepfour": "In wenigen Sekunden können Sie Ihre konvertierten PDF-Dateien erhalten. Sie können alle PDF-Dateien erhalten, indem Sie auf die Schaltfläche **Alle herunterladen** klicken."
+      }
+    },
+    "mainBenefits": {
+      "heading": "Hauptvorteile des Bildkonverters",
+      "benefits": {
+        "titleM": "Unterstützung mehrerer Formate",
+        "descriptionM": "Unser Tool unterstützt eine Vielzahl von Bildformaten, sodass Benutzer JPEG, PNG, GIF in ein PDF-Dokument umwandeln können. Diese Flexibilität entspricht unterschiedlichen Anforderungen, sei es für professionelle Dokumente, persönliche Projekte oder Archivierungszwecke.",
+        "titleU": "Benutzerfreundliche Oberfläche",
+        "descriptionU": "Unser Tool verfügt über eine intuitive Benutzeroberfläche, die das Konvertieren von Bildern in PDFs einfach und benutzerfreundlich macht, selbst für Personen mit minimaler technischer Erfahrung."
+      }
+    },
+
+    "componentTrans": {
+      "error": "Fehler beim Konvertieren von Bild in PDF",
+      "error2": "Es können nur 4 Dateien gleichzeitig konvertiert werden, bitte wählen Sie nur 4 aus!",
+      "error3": "Nur JPG-, PNG-, GIF- und JPEG-Bilder sind erlaubt",
+      "message": "Ziehen & Ablegen, Hochladen oder Einfügen eines Bildes",
+      "support": "Unterstützte Formate: JPG, PNG, GIF und JPEG",
+      "upload": "Dateien hochladen",
+      "titleone": "Ihre Dateien werden automatisch innerhalb von 2 Stunden vom Server gelöscht",
+      "secure": "Ihre Dateien sind sicher",
+      "clear": "Alle löschen",
+      "convert": "In PDF umwandeln",
+      "suggestion": "*Große Dateien benötigen etwas Zeit, bitte haben Sie Geduld*",
+      "over": "Neu starten",
+      "fileTitle": "Datei herunterladen",
+      "all": "Alle herunterladen"
+    },
+
+    "metadata": {
+      "title": "Bild in PDF-Konverter - Bilder in PDFs umwandeln",
+      "description": "Mit diesem JPG-zu-PDF-Konverter können Sie bis zu vier Fotos auf einmal in PDF-Dateien umwandeln."
+    }
+  },
+
+  "pdfToExcelConverter": {
+    "title": "PDF-zu-Excel-Konverter",
+    "description": "Sie können eine PDF-Datei kostenlos in eine Excel-Datei umwandeln, indem Sie den PDF-zu-Excel-Konverter verwenden. Einfach klicken, um eine PDF in eine bearbeitbare Excel-Datei umzuwandeln.",
+    "onlineConvert": {
+      "heading": "Online-PDF-zu-Excel-Konvertierung kostenlos",
+      "content": "Dieses PDF-Konverterprogramm wandelt PDF in Excel um. Dieses Tool ermöglicht es Ihnen, PDFs bis zu einer Größe von 5 MB kostenlos in Excel zu konvertieren. Sie können eine PDF-Datei auf einmal konvertieren; wenn die Datei jedoch mehr als 10 Seiten hat, kann es einige Zeit in Anspruch nehmen. Haben Sie Geduld."
+    },
+    "howToConvert": {
+      "heading": "Wie konvertiert man PDF in Excel?",
+      "steps": {
+        "stepone": "Ziehen und Ablegen oder Hochladen Ihrer PDF-Datei mit dem **Datei hochladen**-Button.",
+        "steptwo": "Dann drücken Sie den **In Excel umwandeln**-Button.",
+        "stepthree": "Bitte haben Sie Geduld, während unser PDF-Konverter-Tool PDFs in Excel umwandelt.",
+        "stepfour": "In wenigen Sekunden können Sie Ihre konvertierte Excel-Datei erhalten. Sie können die Excel-Datei erhalten, indem Sie auf die Schaltfläche **Herunterladen** klicken."
+      }
+    },
+    "keyFeatures": {
+      "heading": "Hauptmerkmale des PDF-Konverters",
+      "features": {
+        "titleF": "Kostenloser Zugang",
+        "descriptionF": "Unser PDF-Konverter ist völlig kostenlos, was die Zugänglichkeit für alle Benutzer ohne Kosten oder Abonnements sicherstellt.",
+
+        "titleB": "Batch-Konvertierung",
+        "descriptionB": "Konvertieren Sie mühelos mehrere Seiten von PDF in CSV, wobei Dokumente mit mehr als 100 Seiten und bis zu 5 MB pro Datei verarbeitet werden, allerdings mit unterschiedlichen Verarbeitungszeiten.",
+
+        "titleE": "Erweiterte Funktionen mit OCR",
+        "descriptiononeE": "Konvertieren Sie gescannte PDFs in bearbeitbare Excel-Dateien mit OCR-Unterstützung, die es Ihnen ermöglichen, Daten effektiver zu bearbeiten und zu nutzen.",
+        "descriptiontwoE": "Diese Funktionen heben die Vielseitigkeit und Sicherheit unseres PDF-Konverters hervor und machen ihn zu einer zuverlässigen Wahl für alle Ihre Dokumentenkonvertierungsbedürfnisse."
+      }
+    },
+
+    "componentTrans": {
+      "error": "Fehler beim Konvertieren von PDF in Excel:",
+      "error2": "Es kann nur 1 Datei gleichzeitig konvertiert werden, bitte wählen Sie nur 1 PDF-Datei aus!",
+      "error3": "Die PDF-Dateigröße darf 5 MB nicht überschreiten",
+      "error4": "Nur PDF-Dateien sind erlaubt",
+      "message": "Ziehen & Ablegen oder PDF hochladen",
+      "support": "Unterstützte Formate: Nur PDF",
+      "upload": "Dateien hochladen",
+      "titleone": "Ihre Dateien werden automatisch innerhalb von 2 Stunden vom Server gelöscht",
+      "secure": "Ihre Dateien sind sicher",
+      "clear": "Alle löschen",
+      "convert": "In Excel umwandeln",
+      "suggestion": "*Große Dateien benötigen etwas Zeit, bitte haben Sie Geduld*",
+      "fileTitle": "Datei herunterladen",
+      "over": "Neu starten"
+    },
+    "metadata": {
+      "title": "PDF in Excel-Konverter - PDF-Dateien einfach in Excel-Dateien konvertieren",
+      "description": "Unser PDF-Konverter macht es einfach und kostenfrei, PDF-Dateien in Excel-Dateien zu konvertieren."
+    }
+  },
+
+  "pdfToImageConverter": {
+    "title": "PDF-zu-Bild-Konverter",
+    "description": "Mit dem PDF-zu-Bild-Konverter können Sie PDFs kostenlos mit nur einem Klick in JPG umwandeln.",
+    "onlineConvert": {
+      "heading": "Online-PDF-zu-Bild-Konvertierung kostenlos",
+      "content": "Dieser Online-PDF-zu-Bild-Konverter ist eine kostenlose Anwendung, die PDF-Dokumente schnell in Fotos jeder Größe umwandelt. Sie können zwei PDF-Dateien gleichzeitig konvertieren, größere Dateien mit mehr als zehn Seiten können jedoch länger dauern. Wir legen großen Wert auf Genauigkeit und Effizienz und gewährleisten, dass Ihre konvertierten Fotos ihre ursprüngliche Qualität und Layout beibehalten. Ob Sie Berichte, Präsentationen oder andere Dokumente konvertieren, unser Tool bietet eine reibungslose Erfahrung ohne Downloads oder Abonnements. Konvertieren Sie PDFs einfach und sicher direkt in Ihrem Browser in Bilder."
+    },
+    "howToConvert": {
+      "heading": "Wie konvertiert man PDF in Bild?",
+      "steps": {
+        "stepone": "Ziehen und Ablegen oder Hochladen Ihrer PDF-Datei mit dem **Datei hochladen**-Button.",
+        "steptwo": "Dann drücken Sie den **In Bild umwandeln**-Button.",
+        "stepthree": "Bitte haben Sie Geduld, während unser PDF-Konverter-Tool PDFs in Bilder umwandelt.",
+        "stepfour": "In wenigen Sekunden können Sie Ihre konvertierten Bilddateien erhalten. Sie können eine ZIP-Datei mit allen Bildern erhalten, indem Sie auf die Schaltfläche **Herunterladen** klicken."
+      }
+    },
+    "keyFeatures": {
+      "heading": "Hauptmerkmale des PDF-Konverters",
+      "features": {
+        "titleF": "Kostenlos zu verwenden",
+        "descriptionF": "Unser PDF-zu-JPG-Konverter ist für alle Benutzer völlig kostenlos. Es gibt keine versteckten Kosten oder Abonnements, was die Zugänglichkeit für alle sicherstellt.",
+
+        "titleS1": "Unterstützung für mehrere PDF-Dateien",
+        "descriptionS1": "Dieser Konverter verarbeitet mehrere PDF-Dateien gleichzeitig effizient, was ihn ideal für Batch-Verarbeitungsaufgaben wie das Konvertieren von Berichten, wissenschaftlichen Arbeiten oder Geschäftsdokumenten macht.",
+
+        "titleS2": "Unterstützung für mehrere PDF-Seiten",
+        "descriptionS2": "Unser PDF-zu-Bild-Konverter kann PDFs bis zu einer Größe von 5 MB konvertieren und bietet Flexibilität für verschiedene Dokumenttypen. Größere Dateien können länger dauern, aber wir priorisieren genaue und hochwertige Konvertierungen.",
+
+        "titleS3": "Sicherheit und Datenschutz",
+        "descriptionS3": "Wir legen großen Wert auf die Sicherheit und Vertraulichkeit Ihrer Daten während des Konvertierungsprozesses. Fortschrittliche Verschlüsselungsprotokolle sorgen dafür, dass Ihre sensiblen Informationen sicher und privat bleiben."
+      }
+    },
+
+    "componentTrans": {
+      "error": "Fehler beim Konvertieren von PDF in Bild:",
+      "error2": "Es können nur 2 Dateien gleichzeitig konvertiert werden, bitte wählen Sie nur 2 PDFs aus!",
+      "error3": "Die PDF-Dateigröße darf 5 MB nicht überschreiten",
+      "error4": "Nur PDF-Dateien sind erlaubt",
+      "message": "Ziehen & Ablegen oder PDF hochladen",
+      "support": "Unterstützte Formate: Nur PDF",
+      "upload": "Dateien hochladen",
+      "titleone": "Ihre Dateien werden automatisch innerhalb von 2 Stunden vom Server gelöscht",
+      "secure": "Ihre Dateien sind sicher",
+      "upload2": "PDF hochladen",
+      "clear": "Alle löschen",
+      "convert": "In Bild umwandeln",
+      "suggestion": "*Große Dateien benötigen etwas Zeit, bitte haben Sie Geduld*",
+      "all": "Alle Bilder",
+      "allTile": "Alle Bilder herunterladen",
+      "over": "Neu starten"
+    },
+    "metadata": {
+      "title": "PDF zu Bild Konverter - Konvertieren Sie PDFs sofort in Bilddateien",
+      "description": "Mit diesem PDF-zu-Bild-Konverter können Sie PDF-Dateien schnell in JPG-Bilder konvertieren."
+    }
+  },
+
+  "pdfToWordConverter": {
+    "title": "PDF-zu-Word-Konverter",
+    "description": "Mit dem PDF-zu-Word-Konverter können Sie PDF-Dateien kostenlos in Docx-Dokumente umwandeln. Um eine PDF in ein bearbeitbares Word-Dokument zu konvertieren, klicken Sie einfach auf die Schaltfläche Konvertieren.",
+    "onlineConvert": {
+      "heading": "Online-PDF-zu-Word-Konvertierung kostenlos",
+      "content": "Dieses PDF-Konverter-Programm konvertiert PDF in Word. Dieses Tool ermöglicht es Ihnen, PDFs jeder Größe kostenlos in Word umzuwandeln. Sie können zwei PDF-Dateien gleichzeitig konvertieren; größere Dateien mit mehr als 10 Seiten können jedoch etwas länger dauern. Bitte haben Sie Geduld."
+    },
+    "howToConvert": {
+      "heading": "Wie konvertiert man PDF in Word?",
+      "steps": {
+        "stepone": "Ziehen und Ablegen oder Hochladen Ihrer PDF-Datei mit dem **Datei hochladen**-Button.",
+        "steptwo": "Dann drücken Sie den **In Word konvertieren**-Button.",
+        "stepthree": "Bitte haben Sie Geduld, während unser PDF-Konverter-Tool PDFs in Word umwandelt.",
+        "stepfour": "In wenigen Sekunden können Sie Ihre konvertierte Word-Datei erhalten. Wenn Sie zwei PDFs konvertiert haben, können Sie eine ZIP-Datei mit beiden durch Klicken auf die Schaltfläche **Alles herunterladen** erhalten."
+      }
+    },
+    "keyFeatures": {
+      "heading": "Hauptmerkmale des PDF-Konverters",
+      "features": {
+        "titleF": "Kostenlos zu verwenden",
+        "descriptionF": "Unser PDF-zu-Word-Konverter ist für alle völlig kostenlos. Egal, ob Sie Student, Berufstätiger oder jemand sind, der Dokumente konvertieren muss, Sie können dieses Tool ohne versteckte Gebühren oder Abonnements nutzen. Dies stellt sicher, dass jeder Zugang zu hochwertigen Konvertierungsdiensten hat, ohne sich um Kosten sorgen zu müssen.",
+
+        "titleS1": "Unterstützt mehrere PDF-Dateien",
+        "descriptionS1": "Dieser leistungsstarke PDF-zu-Word-Konverter ermöglicht es Ihnen, 2 PDF-Dateien gleichzeitig zu verarbeiten. Egal, ob Sie Berichte, wissenschaftliche Arbeiten oder Geschäftsdokumente haben, unser Tool kann sie alle auf einmal effizient verarbeiten. Diese Funktion spart Zeit und Aufwand und ist ideal für Benutzer mit hohem Konvertierungsbedarf.",
+
+        "titleS2": "Unterstützt mehrere PDF-Seiten",
+        "descriptionS2": "Unser PDF-zu-Word-Konverter ist darauf ausgelegt, Dokumente unterschiedlicher Länge zu verarbeiten. Er kann PDFs bis zu 5 MB Größe konvertieren und bietet Flexibilität für verschiedene Dokumenttypen. Während größere Dateien etwas länger dauern können, gewährleisten unsere fortschrittlichen Algorithmen genaue und hochwertige Konvertierungsergebnisse für Dokumente mit mehr als 10 Seiten.",
+
+        "titleS3": "Sicherheit und Datenschutz",
+        "descriptionS3": "Wir legen großen Wert auf die Sicherheit und Vertraulichkeit Ihrer Daten. Unser PDF-zu-Word-Konverter verwendet fortschrittliche Verschlüsselungsprotokolle, um Ihre sensiblen Informationen während des Konvertierungsprozesses zu schützen. Wir stellen sicher, dass Ihre Dokumente vertraulich bleiben und wir speichern oder teilen Ihre Dateien nicht mit Dritten. Sie können unser Tool mit Vertrauen nutzen, da Ihre Daten sicher sind.",
+
+        "titleO": "OCR-Unterstützung",
+        "descriptionO": "Unser Konverter ist mit der optischen Zeichenerkennung (OCR) ausgestattet, die es ihm ermöglicht, gescannte PDFs in bearbeitbare Word-Dokumente zu konvertieren. Diese Funktion ist besonders nützlich, um gedruckte Dokumente zu digitalisieren und sie bearbeitbar und durchsuchbar zu machen."
+      }
+    },
+
+    "componentTrans": {
+      "error": "Fehler beim Konvertieren von PDF in Word",
+      "error2": "Es können nur 2 Dateien gleichzeitig konvertiert werden, bitte wählen Sie nur 2 PDFs aus!",
+      "error3": "Die PDF-Dateigröße darf 5 MB nicht überschreiten",
+      "error4": "Nur PDF-Dateien sind erlaubt",
+      "message": "Ziehen & Ablegen oder PDF hochladen",
+      "support": "Unterstützte Formate: Nur PDF",
+      "upload": "Dateien hochladen",
+      "titleone": "Ihre Dateien werden automatisch innerhalb von 2 Stunden vom Server gelöscht",
+      "secure": "Ihre Dateien sind sicher",
+      "upload2": "PDF hochladen",
+      "clear": "Alle löschen",
+      "convert": "In Word konvertieren",
+      "suggestion": "*Große Dateien benötigen etwas Zeit, bitte haben Sie Geduld*",
+      "fileTitle": "Datei herunterladen",
+      "over": "Neu starten",
+      "allDownload": "Alles herunterladen"
+    },
+
+    "metadata": {
+      "title": "PDF zu Word-Dateikonverter - Konvertieren Sie Ihre PDFs in Word-Dateien",
+      "description": "Mit diesem PDF-zu-Docx-Konverter können Sie PDF-Dateien schnell und einfach in bearbeitbare Docx-Dateien umwandeln."
+    }
+  },
+  "wordToPdfConverter": {
+    "title": "Word-zu-PDF-Konverter",
+    "description": "Mit dem Word-zu-PDF-Konverter können Sie Doc|Docx-Dateien kostenlos in PDF-Dokumente umwandeln. Mit nur einem Klick können Sie ein bearbeitbares Word-Dokument in ein durchsuchbares PDF konvertieren.",
+    "onlineConvert": {
+      "heading": "Online Word-zu-PDF-Konvertierung kostenlos",
+      "content": "Dieses Word-Konverter-Programm konvertiert Word in PDF. Dieses Tool ermöglicht es Ihnen, Docx-Dateien jeder Größe kostenlos in PDF umzuwandeln. Sie können zwei Docx-Dateien gleichzeitig konvertieren; größere Dateien mit mehr als 10 Seiten können jedoch etwas länger dauern. Bitte haben Sie Geduld."
+    },
+    "howToConvert": {
+      "heading": "Wie konvertiert man Word in PDF?",
+      "steps": {
+        "stepone": "Ziehen und Ablegen oder Hochladen Ihrer Word-Datei mit dem **Datei hochladen**-Button.",
+        "steptwo": "Dann drücken Sie den **In PDF konvertieren**-Button.",
+        "stepthree": "Bitte haben Sie Geduld, während unser Word-Konverter-Tool Docx in PDF umwandelt.",
+        "stepfour": "In wenigen Sekunden erhalten Sie Ihre konvertierte PDF-Datei. Wenn Sie zwei Docx-Dateien konvertiert haben, können Sie eine ZIP-Datei mit beiden durch Klicken auf die Schaltfläche **Alles herunterladen** erhalten."
+      }
+    },
+    "keyFeatures": {
+      "heading": "Funktionen des Docx-Konverters",
+      "features": {
+        "titleU": "Benutzerfreundliche Oberfläche",
+        "descriptionU": "Genießen Sie eine klare und intuitive Benutzeroberfläche, die den Konvertierungsprozess für Benutzer aller Fertigkeitsstufen vereinfacht.",
+
+        "titleS": "Unterstützung für mehrere PDF-Dateien",
+        "descriptionS": "Konvertieren Sie gescannte Word-Dokumente in durchsuchbare PDFs, um die Nutzbarkeit und Zugänglichkeit des Textinhalts zu verbessern. Diese Funktionen machen unseren Docx-Konverter zu einem zuverlässigen Tool für Benutzer, die mehrere Dokumente effizient und sicher konvertieren müssen.",
+
+        "titleM": "Unterstützung mehrerer Sprachen",
+        "descriptionM": "Unterstützt mehrere Sprachen sowohl in Eingabe- als auch in Ausgabedokumenten und gewährleistet Kompatibilität und Genauigkeit für verschiedene sprachliche Anforderungen."
+      }
+    },
+
+    "componentTrans": {
+      "error": "Fehler beim Konvertieren von Word in PDF",
+      "error2": "Es können nur 2 Dateien gleichzeitig konvertiert werden, bitte wählen Sie nur 2 Docx aus!",
+      "error3": "Die Docx-Dateigröße darf 5 MB nicht überschreiten",
+      "error4": "Nur Docx-Dateien sind erlaubt",
+      "message": "Ziehen & Ablegen oder Docx hochladen",
+      "support": "Unterstützte Formate: Nur Doc und Docx",
+      "upload": "Dateien hochladen",
+      "titleone": "Ihre Dateien werden automatisch innerhalb von 2 Stunden vom Server gelöscht",
+      "secure": "Ihre Dateien sind sicher",
+      "upload2": "Docx hochladen",
+      "clear": "Alle löschen",
+      "convert": "In PDF konvertieren",
+      "suggestion": "*Große Dateien benötigen etwas Zeit, bitte haben Sie Geduld*",
+      "over": "Neu starten",
+      "fileTitle": "Datei herunterladen",
+      "allDownload": "Alles herunterladen"
+    },
+    "metadata": {
+      "title": "Word zu PDF Konverter - Konvertieren Sie Ihre Docx-Datei in PDFs",
+      "description": "Sie können Docx-Dateien mit dem Word zu PDF Konverter in PDF-Dateien umwandeln."
+    }
+  },
+
+  "faq": {
+    "title": "FAQs",
+    "sections": {
+      "pdfToImage": {
+        "title": "PDF zu Bild",
+        "items": {
+          "questionone": "In welche Bildformate kann ich PDF-Dateien konvertieren?",
+          "answerone": "Sie können PDF-Dateien in Bildformate wie JPEG konvertieren.",
+
+          "questiontwo": "Wie viele Seiten einer PDF kann ich gleichzeitig in Bilder konvertieren?",
+          "answertwo": "Sie können alle Seiten einer PDF-Datei gleichzeitig in Bilder konvertieren. Der Konvertierungsprozess erstellt eine Bilddatei pro Seite."
+        }
+      },
+      "pdfToWord": {
+        "title": "PDF zu Word",
+        "items": {
+          "questionone": "In welches Format wird das Word-Dokument aus einer PDF-Datei konvertiert?",
+          "answerone": "PDF-Dateien werden in bearbeitbare Word-Dokumente (.docx-Format) konvertiert.",
+
+          "questiontwo": "Werden Bilder und Formatierungen während der PDF-zu-Word-Konvertierung beibehalten?",
+          "answertwo": "Ja, Bilder und die meisten Formatierungselemente (Schriften, Stile, Tabellen usw.) werden während des Konvertierungsprozesses beibehalten.",
+
+          "questionthree": "Können passwortgeschützte PDF-Dateien in Word-Dokumente konvertiert werden?",
+          "answerthree": "Wenn Sie das Passwort zum Entsperren der PDF-Datei haben, können Sie passwortgeschützte PDFs in Word-Dokumente konvertieren. Andernfalls ist die Konvertierung ohne Passwort möglicherweise nicht möglich."
+        }
+      },
+      "imageToText": {
+        "title": "Bild zu Text",
+        "items": {
+          "questionone": "Welche Arten von Bildern kann ich in Text konvertieren?",
+          "answerone": "Sie können verschiedene Arten von Bildern, die Text enthalten, wie JPEG, PNG und GIF, in bearbeitbare Textdateien konvertieren.",
+
+          "questiontwo": "Beeinflusst die Qualität und Klarheit des Bildes die Genauigkeit der Texterkennung?",
+          "answertwo": "Ja, höhere Qualität und klarere Bilder führen in der Regel zu besserer Texterkennung. Bilder mit Rauschen oder schlechter Auflösung können die Genauigkeit beeinträchtigen.",
+
+          "questionthree": "Kann handgeschriebener Text in Bildern in bearbeitbaren Text konvertiert werden?",
+          "answerthree": "Die Erkennung handgeschriebenen Textes hängt von der Klarheit und Lesbarkeit der Handschrift ab. Fortschrittliche OCR-Software (Optische Zeichenerkennung) kann handgeschriebenen Text erkennen."
+        }
+      },
+      "pdfToExcel": {
+        "title": "PDF zu Excel",
+        "items": {
+          "questionone": "In welches Format wird die Excel-Datei aus einer PDF konvertiert?",
+          "answerone": "PDF-Dateien werden in Excel-Tabellenkalkulationen (.xlsx-Format) konvertiert. Dies ermöglicht es Ihnen, Daten in Excel zu manipulieren und zu analysieren.",
+
+          "questiontwo": "Werden Tabellen und Formatierungen während der PDF-zu-Excel-Konvertierung beibehalten?",
+          "answertwo": "Ja, Tabellen, Datenformatierungen und die meisten Layout-Strukturen werden während des Konvertierungsprozesses beibehalten. Komplexe Layouts erfordern möglicherweise manuelle Anpassungen.",
+
+          "questionthree": "Können passwortgeschützte PDF-Dateien in Excel-Tabellenkalkulationen konvertiert werden?",
+          "answerthree": "Wenn Sie das Passwort zum Entsperren der PDF-Datei haben, können Sie passwortgeschützte PDFs in Excel-Tabellenkalkulationen konvertieren. Andernfalls ist die Konvertierung ohne Passwort möglicherweise nicht möglich."
+        }
+      },
+      "imageToPdf": {
+        "title": "Bild zu PDF",
+        "items": {
+          "questionone": "Welche Arten von Bildern kann ich in PDF konvertieren?",
+          "answerone": "Sie können verschiedene Arten von Bildern (JPEG, PNG, GIF usw.) in das PDF-Format konvertieren.",
+
+          "questiontwo": "Kann ich mehrere Bilder konvertieren?",
+          "answertwo": "Ja, Sie können mehrere Fotos in mehrere PDF-Dokumente umwandeln. Es gibt ein PDF für jedes Bild."
+        }
+      },
+      "wordToPdf": {
+        "title": "Word zu PDF",
+        "items": {
+          "questionone": "In welches Format wird die PDF-Datei aus einem Word-Dokument konvertiert?",
+          "answerone": "Word-Dokumente (.docx und .doc-Format) werden in PDF-Format konvertiert. Diese Konvertierung bewahrt den Inhalt und die Formatierung des ursprünglichen Word-Dokuments.",
+
+          "questiontwo": "Werden Bilder und Formatierungen während der Word-zu-PDF-Konvertierung beibehalten?",
+          "answertwo": "Ja, Bilder, Schriften, Stile, Tabellen und die meisten Formatierungselemente werden während des Konvertierungsprozesses beibehalten. Komplexe Layouts können Anpassungen erfordern.",
+
+          "questionthree": "Können passwortgeschützte Word-Dokumente in PDF konvertiert werden?",
+          "answerthree": "Wenn Sie das Passwort zum Entsperren des Word-Dokuments haben, können Sie passwortgeschützte Dokumente in PDF konvertieren. Andernfalls ist die Konvertierung ohne Passwort möglicherweise nicht möglich."
+        }
+      }
+    },
+    "metadata": {
+      "title": "Häufige Fragen",
+      "description": "Seite mit häufig gestellten Fragen, auf der Sie Antworten auf alle Ihre Fragen zu Konvertern finden können"
+    }
+  },
+
+  "aboutUs": {
+    "title": "Über Uns",
+    "content": {
+      "intro": "OnlineOCR.net bietet die besten Werkzeuge zur Umwandlung von Bildern in Text, gescannten PDFs und Docx-Dateien in bearbeitbare und durchsuchbare Formate. Unsere hochentwickelte OCR-Software konvertiert Dokumente in eine Vielzahl von Dateitypen wie Excel, PDF, Docx, Bilder und Text. Wir bieten schnelle und präzise Konvertierungen, um Ihnen Zeit zu sparen und manuelle Verfahren zu vermeiden.",
+      "sections": {
+        "titleone": "Effiziente Dokumentenkonvertierung",
+        "textone": "Unser kostenloser Online-OCR-Dienst eliminiert die Notwendigkeit, Dokumente manuell einzugeben, und minimiert so Energie- und Zeitaufwand. Unser Service bietet schnelle und präzise Konvertierungen für Einzel- und Mehrseitendokumente und steigert so die Produktivität.",
+
+        "titletwo": "Mehrsprachige Unterstützung",
+        "texttwo": "Unser Service unterstützt 36 Sprachen, darunter APAC- und EMEA-Sprachen wie Englisch, Französisch, Deutsch, Italienisch, Portugiesisch, Russisch, Spanisch, Japanisch, Chinesisch, Koreanisch und viele mehr. Wir bearbeiten auch Dokumente in mehreren Sprachen und gewährleisten umfassende Unterstützung für Ihre Bedürfnisse.",
+
+        "titlethree": "Kostenlos und Schnell Erreichbar",
+        "textthree": "Nutzen Sie unseren kostenlosen Service für immer. Erfahren Sie, warum so viele Menschen auf OnlineOCR.net für ihre Dokumentenkonvertierungsbedürfnisse vertrauen, indem Sie unseren praktischen Service nutzen."
+      }
+    },
+    "metadata": {
+      "title": "Über uns",
+      "description": "Dies ist ein kostenloser Online-Konverter für Bilder, PDFs, Docx-Dateien und Excel-Tabellen."
+    }
+  },
+  "contactus": {
+    "title": "Kontaktieren Sie uns",
+    "description": "Bei Fragen oder Feedback können Sie uns jederzeit per E-Mail unter **supportimageocr@gmail.com** kontaktieren. Wir schätzen Ihre Anfragen und bemühen uns, Ihnen umgehend Unterstützung bei unseren Diensten, Dokumenten-Konvertierungen oder technischen Fragen zu bieten. Ob Sie Verbesserungsvorschläge haben oder Klarstellungen zu unseren Funktionen benötigen, unser engagiertes Support-Team steht Ihnen gerne zur Verfügung. Zögern Sie nicht, uns jederzeit zu kontaktieren.",
+    "metadata": {
+      "title": "Kontaktieren Sie uns",
+      "description": "Kontaktieren Sie uns bei Fragen zu diesem Konverter."
+    }
+  },
+  "termsandcondition": {
+    "heading1": "Allgemeine Geschäftsbedingungen",
+    "termssection1": {
+      "paragraph": "Dieses Dokument beschreibt die Allgemeinen Geschäftsbedingungen für die Nutzung der Website imageocr.info."
+    },
+    "termssection2": {
+      "heading2": "Akzeptanz der Bedingungen",
+      "paragraph1": "Durch den Zugriff auf diese Website nehmen die Nutzer an, dass sie diese Allgemeinen Geschäftsbedingungen akzeptieren. Die Begriffe „Kunde“, „Sie“ und „Ihr“ beziehen sich auf den Nutzer, der sich anmeldet und den Bedingungen des Unternehmens zustimmt. „Das Unternehmen“, „Wir“, „Unser“ und „Uns“ beziehen sich auf das Unternehmen, während „Partei“, „Parteien“ oder „Wir“ sowohl den Kunden als auch uns bezeichnen.",
+      "paragraph2": "Die Bedingungen sind als austauschbar zu betrachten und unterliegen den Nutzungsbedingungen. Durch die Nutzung von imageocr.info erklären sich die Nutzer mit diesen Bedingungen einverstanden und sind rechtlich daran gebunden. Das Unternehmen kann diese Bedingungen nach eigenem Ermessen ändern, und die Nutzer sollten die Seite regelmäßig auf Aktualisierungen überprüfen. Wenn die Nutzer mit diesen Bedingungen nicht einverstanden sind, sollten sie die Website nicht nutzen."
+    },
+    "termssection3": {
+      "heading2": "Haftung und Schutz",
+      "paragraph1": "imageocr.info ist eine Website, die Dienstleistungen anbietet, jedoch keine Garantie für deren Genauigkeit oder Zuverlässigkeit übernimmt. Nutzer werden aufgefordert, etwaige Fehler zu melden. Die Website kann ohne vorherige Ankündigung geändert werden, und Nutzer sind nicht für jegliche Verluste, Änderungen oder Beschädigungen von eingereichtem Inhalt verantwortlich. Die Website garantiert keine problemlose Funktion oder einen virusfreien Server. Falls Nutzer Geräte oder Daten reparieren oder ersetzen müssen, sind sie für die entsprechenden Kosten verantwortlich.",
+      "paragraph2": "imageocr.info kann Inhalte Dritter anzeigen, einschließlich Links zu Websites Dritter, deren Verantwortung allein beim Anbieter liegt. Die Website kann diese Inhalte überprüfen, entfernen oder die Anzeige verweigern, ist jedoch nicht verpflichtet, dies zu tun. imageocr.info übernimmt keine Verantwortung für Inhalte auf Drittanbieter-Websites, daher sollten die Nutzer diese auf eigenes Risiko nutzen. Es ist wichtig, vorsichtig zu sein und auf eigenes Risiko fortzufahren."
+    },
+    "termssection4": {
+      "heading2": "Über die Nutzungsbedingungen",
+      "paragraph1": "imageocr.info behauptet nicht, dass ihre Dienstleistungen für einen bestimmten Zweck oder eine bestimmte Zielgruppe geeignet sind. Die Website übernimmt keine Verantwortung für Schäden, Ansprüche oder Verletzungen, die aus unrechtmäßigem oder unangemessenem Zugang resultieren.",
+      "paragraph2": "Sollte eine Bestimmung der Nutzungsbedingungen ungültig sein, bleiben die übrigen Bestimmungen gültig. Die Entscheidung von imageocr.info, eine Bestimmung nicht durchzusetzen, bedeutet nicht, dass auf das zukünftige Durchsetzungsrecht verzichtet wird. Es ist wichtig, die Nutzungsbedingungen regelmäßig auf Aktualisierungen oder Änderungen zu überprüfen. Durch die fortgesetzte Nutzung der Website erklären sich die Nutzer mit der jeweils aktuellen Version der Nutzungsbedingungen einverstanden."
+    },
+    "termssection5": {
+      "heading2": "Cookies",
+      "paragraph": "Wir verwenden Cookies. Durch den Zugriff auf imageocr.info stimmen Sie der Verwendung von Cookies gemäß unserer Datenschutzrichtlinie zu. Die meisten interaktiven Websites verwenden Cookies, um Informationen über den Nutzer bei jedem Besuch abzurufen. Unsere Website verwendet Cookies, um die Funktionalität der Website zu ermöglichen und die Navigation für Besucher zu erleichtern. Einige unserer Partner und Werbetreibenden können ebenfalls Cookies verwenden."
+    },
+    "termssection6": {
+      "heading2": "Haftungsausschluss",
+      "paragraph1": "Im größtmöglichen gesetzlich zulässigen Umfang schließen wir alle Zusicherungen, Garantien und Bedingungen in Bezug auf unsere Website und die Nutzung dieser Website aus. Nichts in diesem Haftungsausschluss wird:",
+      "listItem1": "unsere oder Ihre Haftung für Tod oder Personenschäden begrenzen oder ausschließen;",
+      "listItem2": "unsere oder Ihre Haftung für Betrug oder betrügerische Falschdarstellung begrenzen oder ausschließen;",
+      "listItem3": "unsere oder Ihre Haftung auf eine Weise begrenzen, die nach geltendem Recht nicht zulässig ist; oder unsere oder Ihre Haftung ausschließen, die nach geltendem Recht nicht ausgeschlossen werden kann.",
+      "paragraph2": "Die in diesem Abschnitt und anderswo in diesem Haftungsausschluss festgelegten Haftungsbeschränkungen und -ausschlüsse: (a) unterliegen dem vorhergehenden Absatz; und (b) gelten für alle Haftungen, die sich aus dem Haftungsausschluss ergeben, einschließlich Haftungen aus Verträgen, unerlaubten Handlungen und Verstößen gegen gesetzliche Pflichten. Solange die Website und die Informationen und Dienstleistungen auf der Website kostenlos bereitgestellt werden, haften wir nicht für Verluste oder Schäden jeglicher Art."
+    },
+    "termssection7": {
+      "heading2": "Entfernung von Links von unserer Website",
+      "paragraph1": "Wenn Sie einen Link auf unserer Website finden, der aus irgendeinem Grund unangemessen ist, können Sie uns jederzeit kontaktieren und uns informieren. Wir werden Anfragen zur Entfernung von Links prüfen, sind jedoch nicht verpflichtet, dies zu tun oder Ihnen direkt zu antworten.",
+      "paragraph2": "Wir gewährleisten nicht, dass die Informationen auf dieser Website korrekt sind, wir garantieren nicht deren Vollständigkeit oder Genauigkeit; noch versprechen wir, dass die Website verfügbar bleibt oder das Material auf der Website aktuell gehalten wird."
+    },
+    "termssection8": {
+      "heading2": "Lizenz",
+      "paragraph": "imageocr.info hält die geistigen Eigentumsrechte an allen Materialien auf der Website, sofern nicht anders angegeben. Nutzer können auf die Inhalte für den persönlichen Gebrauch zugreifen, dürfen diese jedoch nicht wiederveröffentlichen, verkaufen, vermieten, unterlizenzieren, reproduzieren, duplizieren oder verteilen."
+    },
+    "metadata": {
+      "title": "Allgemeine Geschäftsbedingungen",
+      "description": "Nutzungsbedingungen für unser kostenloses Konvertierungstool."
+    }
+  },
+  "privacyPolicy": {
+    "title": "Datenschutzerklärung für ImageOCR.info",
+    "sections": {
+      "introduction": {
+        "paragraph1": "Die Nutzung des ImageOCR.info-Dienstes unterliegt Ihrer Akzeptanz unserer Allgemeinen Geschäftsbedingungen und dieser Datenschutzerklärung.",
+        "paragraph2": "Bei ImageOCR.info, erreichbar unter imageocr.info, ist der Schutz der Privatsphäre unserer Besucher eine unserer höchsten Prioritäten. Dieses Dokument zur Datenschutzerklärung beschreibt die Arten von Informationen, die von ImageOCR.info gesammelt und aufgezeichnet werden, und erklärt, wie wir diese verwenden.",
+        "paragraph3": "Wenn Sie weitere Fragen haben oder mehr Informationen über unsere Datenschutzerklärung benötigen, zögern Sie bitte nicht, uns zu kontaktieren.",
+        "paragraph4": "Diese Datenschutzerklärung tritt bei Ihrer ersten Nutzung des Dienstes in Kraft. Durch die Nutzung von ImageOCR.info bestätigen Sie, dass Sie die Bedingungen dieser Datenschutzerklärung gelesen und verstanden haben und damit einverstanden sind. Wenn Sie mit dieser Datenschutzerklärung nicht einverstanden sind, verwenden Sie bitte ImageOCR.info oder jegliches Material und Ressourcen, die auf diesem Dienst verfügbar sind, nicht."
+      },
+      "informationWeCollect": {
+        "title": "1. Informationen, die wir sammeln",
+        "personalData": {
+          "title": "Persönliche Daten",
+          "paragraph1": "Wenn Sie ImageOCR.info besuchen, werden Sie aufgefordert, Cookies zuzulassen, aber die Entscheidung liegt ganz bei Ihnen.",
+          "paragraph2": "Wir sehen die Dateien, die Sie mit dem ImageOCR.info-Dienst hochladen, nicht ein. Wir können jedoch die Metadaten Ihrer Datei (Dateierweiterungen, Größen usw., aber nicht den Inhalt) einsehen, um technische Unterstützung zu leisten."
+        },
+        "cookies": {
+          "title": "Cookies",
+          "paragraph1": "ImageOCR.info verwendet Browser-Cookies, um Statusinformationen über Ihre Aktivitäten auf unserer Website zu speichern. Cookies helfen uns, Ihre Präferenzen zu verfolgen und Ihr Benutzererlebnis zu verbessern. Wir speichern keine persönlichen Informationen in Cookies. Cookies sind kleine Datendateien, die auf Ihrer Festplatte geschrieben werden. Cookies können keine anderen Daten von Ihrer Festplatte lesen, keine Viren weitergeben oder Cookie-Dateien lesen, die von anderen Websites erstellt wurden. Sie können Cookies ablehnen, indem Sie sie in den Browsereinstellungen deaktivieren, aber beachten Sie, dass einige Funktionen von ImageOCR.info möglicherweise nicht ordnungsgemäß funktionieren, wenn Cookies deaktiviert sind."
+        },
+        "technicalInformation": {
+          "title": "Technische Informationen",
+          "paragraph1": "Die technischen Einzelheiten, die protokolliert werden, beschränken sich auf folgende Arten von Informationen:",
+          "detail1": "Die Internetprotokoll (IP)-Adresse oder das Gateway des Webservers des Besuchers.",
+          "detail2": "Den Typ des vom Besucher verwendeten Webbrowsers.",
+          "detail3": "Das Betriebssystem des Geräts des Besuchers.",
+          "detail4": "Die Bildschirmauflösung des Monitors des Besuchers.",
+          "detail5": "Informationen zu möglichen Sicherheitsrisiken, URLs von Websites, die wir als potenziell betrügerisch betrachten, und ausführbaren Dateien, die als potenzieller Malware identifiziert wurden.",
+          "detail6": "Metadaten zu hochgeladenen Dateien wie Dateigröße, Dateiname, Dateiformat und anderen relevanten Parametern."
+        }
+      },
+      "yourRights": {
+        "title": "2. Ihre Rechte",
+        "paragraph1": "Da ImageOCR.info ein kostenloser Dienst ist, der keine Benutzerregistrierung erfordert, sammeln oder speichern wir keine persönlichen Daten über längere Zeiträume. Daten, die auf unserem Dienst hochgeladen werden, werden nur maximal zwei Stunden lang gespeichert, bevor sie automatisch gelöscht werden."
+      },
+      "ccpaPrivacyRights": {
+        "title": "3. CCPA Datenschutzrechte (Verkaufen Sie meine persönlichen Daten nicht)",
+        "paragraph1": "Nach dem California Consumer Privacy Act (CCPA) haben kalifornische Verbraucher das Recht:",
+        "right1": "Von einem Unternehmen, das persönliche Daten eines Verbrauchers sammelt, die Kategorien und spezifischen Datenstücke, die das Unternehmen über Verbraucher gesammelt hat, offenlegen zu lassen.",
+        "right2": "Von einem Unternehmen zu verlangen, dass es alle persönlichen Daten über den Verbraucher löscht, die das Unternehmen gesammelt hat.",
+        "right3": "Von einem Unternehmen, das persönliche Daten eines Verbrauchers verkauft, zu verlangen, dass es die persönlichen Daten des Verbrauchers nicht verkauft.",
+        "paragraph2": "Da ImageOCR.info ein kostenloser Dienst ist, der keine Benutzerregistrierung erfordert und automatisch alle hochgeladenen Daten innerhalb von zwei Stunden löscht, ist die Sammlung persönlicher Daten minimal. Wenn Sie dennoch eines dieser Rechte ausüben möchten, kontaktieren Sie uns bitte, und wir werden innerhalb eines Monats antworten."
+      },
+      "gdprDataProtectionRights": {
+        "title": "4. GDPR Datenschutzrechte",
+        "paragraph1": "Wir möchten sicherstellen, dass Sie sich aller Ihrer Datenschutzrechte vollständig bewusst sind. Jeder Benutzer hat das Recht auf folgende Rechte:",
+        "right1": "Das Recht auf Zugang – Sie haben das Recht, Kopien Ihrer persönlichen Daten anzufordern. Da wir hochgeladene Daten nur zwei Stunden speichern und keine Anmeldung erfordert wird, ist die persönliche Daten, die wir bereitstellen können, sehr begrenzt.",
+        "right2": "Das Recht auf Berichtigung – Sie haben das Recht, dass wir Informationen korrigieren, die Sie für ungenau halten. Aufgrund der vorübergehenden Natur unserer Datenspeicherung sind die meisten Berichtigungen wahrscheinlich nicht erforderlich.",
+        "right3": "Das Recht auf Löschung – Sie haben das Recht, dass wir Ihre persönlichen Daten unter bestimmten Bedingungen löschen. Da alle Daten nach zwei Stunden automatisch gelöscht werden, wird dieses Recht grundsätzlich eingehalten.",
+        "right4": "Das Recht auf Einschränkung der Verarbeitung – Sie haben das Recht, unter bestimmten Bedingungen die Einschränkung der Verarbeitung Ihrer persönlichen Daten zu verlangen. Unsere Datenverarbeitung ist jedoch minimal und kurzfristig.",
+        "right5": "Das Recht auf Widerspruch gegen die Verarbeitung – Sie haben das Recht, unter bestimmten Bedingungen Widerspruch gegen unsere Verarbeitung Ihrer persönlichen Daten einzulegen. Wenn Sie Bedenken haben, kontaktieren Sie uns bitte umgehend.",
+        "right6": "Das Recht auf Datenübertragbarkeit – Sie haben das Recht, unter bestimmten Bedingungen zu verlangen, dass wir die gesammelten Daten an eine andere Organisation oder direkt an Sie übertragen. Da wir Daten nur zwei Stunden speichern und keine persönlichen Informationen sammeln, ist dieses Recht im Allgemeinen nicht anwendbar.",
+        "paragraph2": "Wenn Sie eine Anfrage stellen, haben wir einen Monat Zeit, um auf Sie zu reagieren. Wenn Sie eines dieser Rechte ausüben möchten, kontaktieren Sie uns bitte."
+      },
+      "locationOfDataProcessing": {
+        "title": "5. Ort der Datenverarbeitung und Speicherung",
+        "paragraph1": "Die Daten, die Sie auf ImageOCR.info hochladen, können auf Servern in verschiedenen Ländern verarbeitet und gespeichert werden, in denen ImageOCR.info tätig ist. Aufgrund der vorübergehenden Natur unseres Dienstes werden alle Daten nach dem Hochladen innerhalb von zwei Stunden automatisch gelöscht.",
+        "paragraph2": "Durch die Nutzung von ImageOCR.info stimmen Sie der vorübergehenden Speicherung und Verarbeitung Ihrer Daten an diesen Orten zu. Wir stellen sicher, dass alle Datenverarbeitungen gemäß den geltenden Datenschutzgesetzen durchgeführt werden, und dass alle Daten nach der zweistündigen Aufbewahrungsfrist sicher gelöscht werden."
+      },
+      "changesToPolicy": {
+        "title": "6. Änderungen dieser Datenschutzerklärung",
+        "paragraph1": "Diese Datenschutzerklärung kann regelmäßig aktualisiert werden. Alle Änderungen, Aktualisierungen oder Modifikationen treten sofort nach Veröffentlichung auf unserer Website in Kraft. Wir empfehlen Ihnen, diese Datenschutzerklärung regelmäßig zu überprüfen, um über unsere Datenschutzpraktiken informiert zu bleiben."
+      },
+      "thirdPartyAdvertising": {
+        "title": "7. Werbung durch Dritte",
+        "paragraph1": "Wir können Werbung von Drittanbietern auf ImageOCR.info anzeigen. Diese Drittanbieter-Werbetreibenden können Cookies und ähnliche Technologien verwenden, um Informationen über Ihre Aktivitäten auf unserer Website und anderen Websites zu sammeln, um Ihnen gezielte Werbung basierend auf Ihren Interessen anzubieten. Wir geben keine persönlichen Informationen an diese Drittanbieter-Werbetreibenden weiter. Sie können Ihre Präferenzen bezüglich gezielter Werbung über die Browsereinstellungen verwalten."
+      }
+    },
+    "metadata": {
+      "title": "Datenschutz und Richtlinien",
+      "description": "Diese Seite beschreibt unsere Richtlinien zum Datenschutz."
+    }
+  },
+  "cookieconsentpage": {
+    "header": "DIESE WEBSEITE VERWENDET COOKIES",
+    "paragraph1": "Wir verwenden Cookies, um Ihre Erfahrung zu verbessern, Inhalte und Werbung zu personalisieren, Social-Media-Funktionen bereitzustellen und unseren Traffic zu analysieren. Cookies sind kleine Datendateien, die auf Ihrem Gerät gespeichert werden und uns helfen, die Funktionalität und Benutzererfahrung unserer Webseite zu verbessern. Sie stimmen unseren Cookies zu, wenn Sie unsere Webseite weiterhin nutzen.",
+    "link": "Datenschutzrichtlinie",
+    "Name1": "Akzeptieren",
+    "Name2": "Ablehnen"
+  }
+}

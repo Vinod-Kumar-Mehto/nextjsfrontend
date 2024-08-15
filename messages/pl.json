@@ -1,0 +1,620 @@
+{
+  "navbar": {
+    "items": {
+      "labelone": "PDF na Obraz",
+
+      "labeltwo": "PDF na Word",
+
+      "labelthree": "Obraz na Tekst",
+
+      "labelfour": "PDF na Excel",
+
+      "labelfive": "Obraz na PDF",
+      "labelsix": "Word na PDF",
+
+      "labelseven": "Darmowe"
+    }
+  },
+
+  "footer": {
+    "links": {
+      "labelone": "O Nas",
+      "labeltwo": "FAQ",
+
+      "labelthree": "Regulamin",
+
+      "labelfour": "Polityka Prywatności",
+
+      "labelfive": "Kontakt"
+    },
+
+    "languageLabel": "Język"
+  },
+  "imgtotext": {
+    "componentTrans": {
+      "error": "Błąd w ustawieniu języka!",
+      "error2": "Nie udało się przekonwertować na tekst",
+      "error3": "Można jednocześnie konwertować tylko 4 pliki, więc wybierz tylko 4 obrazy!",
+      "error4": "Dozwolone są tylko obrazy JPG, PNG, GIF i JPEG",
+      "message": "Przeciągnij i upuść, załaduj lub wklej obraz",
+      "support": "Obsługiwane formaty: JPG, PNG, GIF i JPEG",
+      "upload": "Prześlij pliki",
+      "titleone": "Twoje pliki zostaną automatycznie usunięte z serwera w ciągu 2 godzin",
+      "titletwo": "Kliknij, aby pobrać",
+      "titlethree": "Kliknij, aby skopiować",
+      "secure": "Twoje pliki są bezpieczne",
+      "upload2": "Prześlij lub wklej obraz",
+      "selectLang": "Wybierz język",
+      "clear": "Wyczyść wszystko",
+      "convert": "Przekształć na tekst",
+      "suggestion": "*Duże pliki mogą zająć trochę czasu, bądź cierpliwy*",
+      "over": "Zacznij od nowa"
+    },
+
+    "imageToTextConverter": {
+      "title": "Konwerter Obrazów na Tekst",
+      "description": "Skorzystaj z naszego konwertera obrazów na tekst, aby wyodrębnić tekst z plików JPG lub obrazów. Szybko wyodrębnij pliki tekstowe, wklejając lub przesyłając zdjęcia.",
+      "whatIs": {
+        "heading": "Czym jest konwerter obrazów na tekst?",
+        "contentone": "Narzędzie OCR to konwerter obrazów na tekst. Dzięki niemu możesz wyodrębniać tekst i znaki z obrazów i zdjęć. Jeśli chcesz wyodrębnić tekst z fotografii, wypróbuj nasz konwerter obrazów na tekst.",
+        "contenttwo": "Jeśli masz zeskanowaną książkę w formacie PDF i chcesz uczynić ją przeszukiwalną, nasza usługa konwersji PDF na Word lub Excel jest odpowiednia! Aby przekształcić obraz na tekst, wystarczy przesłać plik i przekonwertować obraz na tekst. Nasza usługa wyodrębnia tekst z Twoich fotografii za pomocą nowoczesnych algorytmów przetwarzania obrazów i technologii OCR i zapisuje go w dowolnym edytowalnym formacie."
+      },
+      "howItWorks": {
+        "heading": "Jak działa nasz konwerter obrazów na tekst?",
+        "steps": {
+          "stepone": "Przeciągnij i upuść lub przesyłaj i wklej swój obraz za pomocą przycisku **Prześlij plik**.",
+          "steptwo": "Następnie naciśnij przycisk **Przekształć na tekst**.",
+          "stepthree": "Teraz bądź cierpliwy i pozwól, aby nasz konwerter automatycznie wyodrębnił tekst z Twoich obrazów.",
+          "stepfour": "W ciągu kilku sekund możesz pobrać swój wyodrębniony tekst w formacie .txt lub skopiować wyodrębniony tekst z obrazów."
+        }
+      },
+      "keyFeatures": {
+        "heading": "Kluczowe funkcje konwertera obrazów na tekst",
+        "features": {
+          "titleone": "Darmowe w użyciu",
+          "descriptionone": "To narzędzie jest dostępne za darmo dla każdego.",
+
+          "titletwo": "Obsługuje wiele formatów plików",
+          "descriptiontwo": "Ten konwerter obrazów na tekst obsługuje wiele formatów plików obrazów, takich jak JPG, PNG, JPEG, GIF i WEBP.",
+
+          "titlethree": "Obrazy o niskiej rozdzielczości",
+          "descriptionthree": "Jeśli masz obrazy o niskiej jakości, nie martw się. Ekstraktor tekstu z obrazów może szybko wyodrębnić tekst z rozmytych i niskorozdzielczych fotografii. Obrazy książek, ręcznie napisane prace i zrzuty ekranu mogą być słabo widoczne i trudne do odczytania. Jednak nasze oprogramowanie może wyodrębniać dane z takich zdjęć z wysoką dokładnością."
+        }
+      },
+      "benefits": {
+        "heading": "Korzyści z konwertera obrazów na tekst",
+        "benefits": {
+          "titledigi": "Cyfryzacja Dokumentów Drukowanych",
+          "descriptiondigione": "Cyfryzacja dokumentów drukowanych to jedna z najbardziej wpływowych funkcji konwertera obrazów na tekst. Proces ten polega na przekształcaniu fizycznych dokumentów, takich jak książki, artykuły i gazety, na formaty cyfrowe za pomocą konwertera obrazów na tekst.",
+          "descriptiondigitwo": "Pierwszym krokiem w cyfryzacji dokumentów drukowanych jest zeskanowanie fizycznego dokumentu. Można to zrobić za pomocą standardowego skanera, drukarki wielofunkcyjnej lub nawet aparatu w smartfonie. Celem jest stworzenie obrazu o wysokiej rozdzielczości dokumentu.",
+          "descriptiondigithree": "Po zeskanowaniu dokumentu, plik obrazu jest przetwarzany przez konwerter obrazów na tekst. Konwerter JPG na tekst analizuje tekst w obrazie, rozpoznając znaki, słowa i zdania. Ten konwerter potrafi radzić sobie z różnymi czcionkami, rozmiarami, a nawet ręcznie napisanym tekstem. Konwerter obrazów na tekst wyodrębnia rozpoznany tekst z obrazu i przekształca go na format cyfrowy. Może to być plik tekstowy.",
+
+          "titlehealtwo": "Opieka Zdrowotna",
+          "descriptionheaone": "Przekształć zdjęcia swoich rekordów medycznych na tekst, korzystając z konwertera obrazów na tekst w celu łatwiejszego dostępu i zarządzania.",
+          "descriptionheatwo": "Automatycznie odczytuje i przetwarza zdjęcia ręcznie pisanych recept za pomocą konwertera obrazów na tekst, aby zmniejszyć błędy w wydawaniu leków.",
+
+          "titleedthree": "Edukacja",
+          "descriptioned": "Ten konwerter obrazów na tekst przekształca zeskanowane podręczniki lub dokumenty historyczne na edytowalne pliki tekstowe dla uczniów. Przyspiesza także ocenianie, przekształcając ręcznie napisane odpowiedzi testowe na tekst cyfrowy.",
+
+          "titlelefour": "Prawo i Zgodność",
+          "descriptionleone": "Przekształć dokumenty prawne, umowy i porozumienia na przeszukiwalne pliki cyfrowe.",
+          "descriptionletwo": "Zabezpiecz zgodność z regulacjami wymagającymi cyfrowego prowadzenia ewidencji i dostępności za pomocą konwertera obrazów na tekst.",
+
+          "titletrfive": "Do Tłumaczenia",
+          "descriptiontr": "Gdy napotkasz tekst w nieznanym języku, po prostu zrób zdjęcie, wklej je do naszego konwertera obrazów na tekst, a następnie wprowadź wyodrębnione dane do tłumacza językowego."
+        }
+      }
+    },
+    "metadata": {
+      "title": "Konwerter obrazu na tekst - Wyodrębnij tekst z obrazów",
+      "description": "Konwerter obrazu na tekst to bezpłatne narzędzie, które pozwala na konwersję obrazów na tekst."
+    }
+  },
+
+  "imageToPdfConverter": {
+    "title": "Konwerter Obrazów na PDF",
+    "description": "Możesz bezpłatnie konwertować pliki JPG na dokumenty PDF za pomocą konwertera obrazów na PDF. Wystarczy jeden klik, aby przekonwertować obraz na PDF.",
+    "onlineConvert": {
+      "heading": "Online Konwersja Obrazów na PDF za Darmo",
+      "content": "Online Konwerter Obrazów na PDF to wszechstronne narzędzie, które bez wysiłku konwertuje obrazy dowolnego rozmiaru na dokumenty PDF bez opłat. Niezależnie od tego, czy masz fotografie, grafiki, czy zeskanowane dokumenty, to narzędzie skutecznie przekształca je na format PDF. Możesz konwertować do czterech obrazów na pliki PDF jednocześnie, co upraszcza Twoje zadania. Ciesz się łatwością konwersji wielu obrazów na PDF. Nasz konwerter zapewnia dokładność i zachowuje jakość Twoich obrazów w wynikowych plikach PDF, co czyni go idealnym do użytku osobistego, akademickiego lub profesjonalnego, dzięki prostemu i przyjaznemu interfejsowi."
+    },
+    "howToConvert": {
+      "heading": "Jak przekonwertować obraz na PDF?",
+      "steps": {
+        "stepone": "Przeciągnij i upuść, wklej lub prześlij swój plik obrazu za pomocą przycisku **Prześlij plik**.",
+        "steptwo": "Następnie naciśnij przycisk **Konwertuj na PDF**.",
+        "stepthree": "Teraz proszę o cierpliwość, podczas gdy nasze narzędzie konwertuje obrazy na pliki PDF.",
+        "stepfour": "W ciągu kilku sekund możesz pobrać swoje przekonwertowane pliki PDF. Możesz pobrać wszystkie pliki PDF, klikając przycisk **Pobierz Wszystko**."
+      }
+    },
+    "mainBenefits": {
+      "heading": "Główne Korzyści z Konwertera Obrazów",
+      "benefits": {
+        "titleM": "Wsparcie dla Wiele Formatów",
+        "descriptionM": "Nasze narzędzie obsługuje szeroką gamę formatów obrazów, umożliwiając użytkownikom konwersję JPEG, PNG, GIF na dokument PDF. Ta elastyczność odpowiada różnym potrzebom, zarówno w dokumentach profesjonalnych, projektach osobistych, jak i celach archiwalnych.",
+        "titleU": "Przyjazny Interfejs Użytkownika",
+        "descriptionU": "Nasze narzędzie dysponuje intuicyjnym interfejsem, który sprawia, że konwersja obrazów na PDF jest prosta i przyjazna dla użytkownika, nawet dla osób z minimalnym doświadczeniem technicznym."
+      }
+    },
+    "componentTrans": {
+      "error": "Błąd konwersji obrazu na PDF",
+      "error2": "Można przekonwertować tylko 4 pliki naraz, więc wybierz tylko 4!",
+      "error3": "Dozwolone są tylko obrazy JPG, PNG, GIF i JPEG",
+      "message": "Przeciągnij i upuść, prześlij lub wklej obraz",
+      "support": "Obsługiwane formaty: JPG, PNG, GIF i JPEG",
+      "upload": "Prześlij pliki",
+      "titleone": "Twoje pliki zostaną automatycznie usunięte z serwera w ciągu 2 godzin",
+      "secure": "Twoje pliki są bezpieczne",
+      "clear": "Wyczyść wszystko",
+      "convert": "Konwertuj na PDF",
+      "suggestion": "*Duże pliki mogą wymagać czasu, bądź cierpliwy*",
+      "over": "Zacznij od nowa",
+      "fileTitle": "Pobierz plik",
+      "all": "Pobierz Wszystko"
+    },
+
+    "metadata": {
+      "title": "Konwerter obrazów na PDF - Konwertuj obrazy na PDF",
+      "description": "Za pomocą tego konwertera JPG na PDF możesz konwertować do czterech zdjęć jednocześnie na pliki PDF."
+    }
+  },
+
+  "pdfToExcelConverter": {
+    "title": "Konwerter PDF na Excel",
+    "description": "Możesz bezpłatnie konwertować PDF na plik Excel za pomocą konwertera PDF na Excel. Wystarczy kliknąć, aby przekonwertować PDF na edytowalny plik Excel.",
+    "onlineConvert": {
+      "heading": "Online Konwersja PDF na Excel za Darmo",
+      "content": "Ten program do konwersji PDF konwertuje PDF na Excel. To narzędzie pozwala na konwersję PDF o rozmiarze do 5 MB na Excel bez opłat. Możesz konwertować jeden plik PDF naraz, jednak jeśli plik ma więcej niż 10 stron, może to potrwać chwilę. Bądź cierpliwy."
+    },
+    "howToConvert": {
+      "heading": "Jak przekonwertować PDF na Excel?",
+      "steps": {
+        "stepone": "Przeciągnij i upuść lub prześlij swój plik PDF za pomocą przycisku **Prześlij plik**.",
+        "steptwo": "Następnie naciśnij przycisk **Konwertuj na Excel**.",
+        "stepthree": "Proszę o cierpliwość, podczas gdy nasze narzędzie do konwersji PDF konwertuje PDF na Excel.",
+        "stepfour": "W ciągu kilku sekund możesz pobrać przekonwertowany plik Excel. Możesz pobrać plik Excel klikając przycisk **Pobierz**."
+      }
+    },
+    "keyFeatures": {
+      "heading": "Główne Funkcje Konwertera PDF",
+      "features": {
+        "titleF": "Darmowy Dostęp",
+        "descriptionF": "Nasz konwerter PDF jest całkowicie darmowy, zapewniając dostęp dla wszystkich użytkowników bez kosztów lub subskrypcji.",
+
+        "titleB": "Konwersja Wpartii",
+        "descriptionB": "Bez wysiłku konwertuj wiele stron z PDF na CSV, obsługując dokumenty o długości ponad 100 stron i do 5 MB na plik, choć czas przetwarzania może się różnić.",
+
+        "titleE": "Rozszerzona Funkcjonalność z OCR",
+        "descriptiononeE": "Konwertuj zeskanowane pliki PDF na edytowalne pliki Excel z obsługą OCR, umożliwiając skuteczniejsze manipulowanie i wykorzystanie danych.",
+        "descriptiontwoE": "Te funkcje podkreślają wszechstronność i bezpieczeństwo naszego konwertera PDF, czyniąc go niezawodnym wyborem dla wszystkich Twoich potrzeb związanych z konwersją dokumentów."
+      }
+    },
+    "componentTrans": {
+      "error": "Błąd konwersji PDF na Excel:",
+      "error2": "Można przekonwertować tylko 1 plik naraz, więc wybierz tylko 1 plik PDF!",
+      "error3": "Rozmiar pliku PDF nie powinien przekraczać 5 MB",
+      "error4": "Dozwolone są tylko pliki PDF",
+      "message": "Przeciągnij i upuść lub prześlij PDF",
+      "support": "Obsługiwane formaty: tylko PDF",
+      "upload": "Prześlij pliki",
+      "titleone": "Twoje pliki zostaną automatycznie usunięte z serwera w ciągu 2 godzin",
+      "secure": "Twoje pliki są bezpieczne",
+      "clear": "Wyczyść wszystko",
+      "convert": "Konwertuj na Excel",
+      "suggestion": "*Duże pliki mogą wymagać czasu, bądź cierpliwy*",
+      "fileTitle": "Pobierz plik",
+      "over": "Zacznij od nowa"
+    },
+    "metadata": {
+      "title": "Konwerter PDF na Excel - Łatwo konwertuj pliki PDF na pliki Excel",
+      "description": "Nasz konwerter PDF umożliwia proste i darmowe przekształcanie plików PDF na pliki Excel."
+    }
+  },
+  "pdfToImageConverter": {
+    "title": "Konwerter PDF na Obraz",
+    "description": "Za pomocą konwertera PDF na Obraz możesz bezpłatnie konwertować PDF na JPG jednym kliknięciem.",
+    "onlineConvert": {
+      "heading": "Online Konwersja PDF na Obraz za Darmo",
+      "content": "Ten darmowy konwerter PDF na obraz szybko konwertuje dokumenty PDF na zdjęcia o dowolnym rozmiarze. Możesz konwertować dwa pliki PDF jednocześnie, jednak większe pliki z więcej niż dziesięcioma stronami mogą wymagać więcej czasu. Skupiamy się na dokładności i wydajności, zapewniając, że Twoje przekonwertowane zdjęcia zachowają swoją oryginalną jakość i układ. Niezależnie od tego, czy konwertujesz raporty, prezentacje, czy inne dokumenty, nasze narzędzie oferuje płynne doświadczenie, które nie wymaga pobierania ani subskrypcji. Konwertuj PDF na obrazy łatwo i bezpiecznie z poziomu przeglądarki."
+    },
+    "howToConvert": {
+      "heading": "Jak przekonwertować PDF na Obraz?",
+      "steps": {
+        "stepone": "Przeciągnij i upuść lub prześlij swój plik PDF za pomocą przycisku **Prześlij plik**.",
+        "steptwo": "Następnie naciśnij przycisk **Konwertuj na Obraz**.",
+        "stepthree": "Proszę o cierpliwość, podczas gdy nasze narzędzie do konwersji PDF konwertuje PDF na obrazy.",
+        "stepfour": "W ciągu kilku sekund możesz pobrać swoje przekonwertowane pliki obrazów. Możesz pobrać wszystkie obrazy klikając przycisk **Pobierz**."
+      }
+    },
+    "keyFeatures": {
+      "heading": "Główne Funkcje Konwertera PDF",
+      "features": {
+        "titleF": "Darmowy w Użyciu",
+        "descriptionF": "Nasz konwerter PDF na JPG jest całkowicie darmowy dla wszystkich użytkowników. Nie ma ukrytych opłat ani subskrypcji, co zapewnia dostępność dla każdego.",
+
+        "titleS1": "Wsparcie dla Wielu Plików PDF",
+        "descriptionS1": "Ten konwerter efektywnie obsługuje wiele plików PDF jednocześnie, co jest idealne do zadań przetwarzania wsadowego, takich jak konwersja raportów, prac akademickich lub dokumentów biznesowych.",
+
+        "titleS2": "Wsparcie dla Wielu Stron PDF",
+        "descriptionS2": "Nasz konwerter PDF na obraz może konwertować pliki PDF o rozmiarze do 5 MB, zapewniając elastyczność dla różnych typów dokumentów. Choć większe pliki mogą wymagać więcej czasu, priorytetem jest dokładność i wysoka jakość konwersji.",
+
+        "titleS3": "Bezpieczeństwo i Prywatność",
+        "descriptionS3": "Priorytetowo traktujemy bezpieczeństwo i poufność Twoich danych podczas procesu konwersji. Zaawansowane protokoły szyfrowania zapewniają, że Twoje wrażliwe informacje pozostają bezpieczne i prywatne."
+      }
+    },
+    "componentTrans": {
+      "error": "Błąd konwersji PDF na Obraz:",
+      "error2": "Można przekonwertować tylko 2 pliki naraz, więc wybierz tylko 2 pliki PDF!",
+      "error3": "Rozmiar pliku PDF nie powinien przekraczać 5 MB",
+      "error4": "Dozwolone są tylko pliki PDF",
+      "message": "Przeciągnij i upuść lub prześlij PDF",
+      "support": "Obsługiwane formaty: tylko PDF",
+      "upload": "Prześlij pliki",
+      "titleone": "Twoje pliki zostaną automatycznie usunięte z serwera w ciągu 2 godzin",
+      "secure": "Twoje pliki są bezpieczne",
+      "upload2": "Prześlij PDF",
+      "clear": "Wyczyść wszystko",
+      "convert": "Konwertuj na Obraz",
+      "suggestion": "*Duże pliki mogą wymagać czasu, bądź cierpliwy*",
+      "all": "Wszystkie obrazy",
+      "allTile": "Pobierz wszystkie obrazy",
+      "over": "Zacznij od nowa"
+    },
+    "metadata": {
+      "title": "Konwerter PDF na Obraz - Natychmiastowa konwersja PDF-ów na pliki graficzne",
+      "description": "Za pomocą tego konwertera PDF na obraz możesz szybko konwertować pliki PDF na obrazy JPG."
+    }
+  },
+
+  "pdfToWordConverter": {
+    "title": "Konwerter PDF na Word",
+    "description": "Za pomocą konwertera PDF na Word możesz bezpłatnie konwertować pliki PDF na dokumenty Docx. Aby przekonwertować PDF na edytowalny dokument Word, wystarczy kliknąć przycisk konwertowania.",
+    "onlineConvert": {
+      "heading": "Online Konwersja PDF na Word za Darmo",
+      "content": "Ten program konwertujący PDF na Word pozwala na konwersję dowolnych plików PDF na Word za darmo. Możesz konwertować dwa pliki PDF jednocześnie, jednak jeśli plik ma więcej niż 10 stron, może to zająć trochę czasu. Bądź cierpliwy."
+    },
+    "howToConvert": {
+      "heading": "Jak przekonwertować PDF na Word?",
+      "steps": {
+        "stepone": "Przeciągnij i upuść lub prześlij swój plik PDF za pomocą przycisku **Prześlij plik**.",
+        "steptwo": "Następnie naciśnij przycisk **Konwertuj na Word**.",
+        "stepthree": "Proszę o cierpliwość, podczas gdy nasze narzędzie do konwersji PDF konwertuje PDF na Word.",
+        "stepfour": "W ciągu kilku sekund możesz pobrać swój przekonwertowany plik Word. Jeśli przekonwertujesz dwa pliki PDF, możesz pobrać plik ZIP z oboma klikając przycisk **Pobierz Wszystkie**."
+      }
+    },
+    "keyFeatures": {
+      "heading": "Główne Funkcje Konwertera PDF",
+      "features": {
+        "titleF": "Darmowy w Użyciu",
+        "descriptionF": "Nasz konwerter PDF na Word jest całkowicie darmowy dla wszystkich. Niezależnie od tego, czy jesteś studentem, profesjonalistą, czy kimś, kto potrzebuje konwertować dokumenty, możesz korzystać z tego narzędzia bez ukrytych opłat czy subskrypcji. To zapewnia wszystkim dostęp do usług konwersji wysokiej jakości bez obaw o koszty.",
+
+        "titleS1": "Wsparcie dla Wielu Plików PDF",
+        "descriptionS1": "Ten potężny konwerter PDF na Word pozwala na jednoczesną obsługę 2 plików PDF. Niezależnie od tego, czy masz raporty, prace akademickie, czy dokumenty biznesowe, nasze narzędzie może je efektywnie przetworzyć wszystkie jednocześnie. Ta funkcja oszczędza czas i wysiłek, co czyni ją idealną dla użytkowników o dużych potrzebach konwersji.",
+
+        "titleS2": "Wsparcie dla Wielu Stron PDF",
+        "descriptionS2": "Nasz konwerter PDF na Word jest zaprojektowany do obsługi dokumentów o różnej długości. Może konwertować pliki PDF o rozmiarze do 5 MB, zapewniając elastyczność dla różnych typów dokumentów. Choć większe pliki mogą wymagać nieco więcej czasu na przetworzenie, nasze zaawansowane algorytmy zapewniają dokładne i wysokiej jakości wyniki konwersji dla dokumentów z więcej niż 10 stronami.",
+
+        "titleS3": "Bezpieczeństwo i Prywatność",
+        "descriptionS3": "Priorytetowo traktujemy bezpieczeństwo i prywatność Twoich danych. Nasz konwerter PDF na Word używa zaawansowanych protokołów szyfrowania, aby chronić Twoje wrażliwe informacje podczas procesu konwersji. Zapewniamy, że Twoje dokumenty pozostają poufne, a my nie przechowujemy ani nie udostępniamy Twoich plików stronom trzecim. Możesz korzystać z naszego narzędzia z pełnym zaufaniem, wiedząc, że Twoje dane są bezpieczne.",
+
+        "titleO": "Wsparcie OCR",
+        "descriptionO": "Nasz konwerter wyposażony jest w technologię Rozpoznawania Znaków Optycznych (OCR), co umożliwia konwersję zeskanowanych plików PDF na edytowalne dokumenty Word. Ta funkcja jest szczególnie przydatna do digitalizacji drukowanych dokumentów, czyniąc je edytowalnymi i przeszukiwalnymi."
+      }
+    },
+
+    "componentTrans": {
+      "error": "Błąd konwersji PDF na Word",
+      "error2": "Można przekonwertować tylko 2 pliki naraz, więc wybierz tylko 2 pliki PDF!",
+      "error3": "Rozmiar pliku PDF nie powinien przekraczać 5 MB",
+      "error4": "Dozwolone są tylko pliki PDF",
+      "message": "Przeciągnij i upuść lub prześlij PDF",
+      "support": "Obsługiwane formaty: tylko PDF",
+      "upload": "Prześlij pliki",
+      "titleone": "Twoje pliki zostaną automatycznie usunięte z serwera w ciągu 2 godzin",
+      "secure": "Twoje pliki są bezpieczne",
+      "upload2": "Prześlij PDF",
+      "clear": "Wyczyść wszystko",
+      "convert": "Konwertuj na Word",
+      "suggestion": "*Duże pliki mogą wymagać czasu, bądź cierpliwy*",
+      "fileTitle": "Pobierz plik",
+      "over": "Zacznij od nowa",
+      "allDownload": "Pobierz Wszystkie"
+    },
+    "metadata": {
+      "title": "Konwerter PDF na Word - Konwertuj swoje pliki PDF na pliki Word",
+      "description": "Za pomocą tego konwertera PDF na Docx możesz szybko i łatwo przekształcić pliki PDF na edytowalne pliki Docx."
+    }
+  },
+
+  "wordToPdfConverter": {
+    "title": "Konwerter Word na PDF",
+    "description": "Za pomocą konwertera Word na PDF możesz bezpłatnie konwertować dokumenty Doc|Docx na pliki PDF. Wystarczy jeden klik, aby przekonwertować edytowalny dokument Word na przeszukiwalny PDF.",
+    "onlineConvert": {
+      "heading": "Online Konwersja Word na PDF za Darmo",
+      "content": "Ten program konwertujący Word na PDF pozwala na konwersję dowolnych plików Docx na PDF za darmo. Możesz konwertować dwa pliki Docx jednocześnie, jednak jeśli plik ma więcej niż 10 stron, może to zająć trochę czasu. Proszę o cierpliwość."
+    },
+    "howToConvert": {
+      "heading": "Jak przekonwertować Word na PDF?",
+      "steps": {
+        "stepone": "Przeciągnij i upuść lub prześlij swój plik Word za pomocą przycisku **Prześlij plik**.",
+        "steptwo": "Następnie naciśnij przycisk **Konwertuj na PDF**.",
+        "stepthree": "Proszę o cierpliwość, podczas gdy nasze narzędzie do konwersji Word konwertuje Docx na PDF.",
+        "stepfour": "W ciągu kilku sekund otrzymasz swój przekonwertowany plik PDF. Jeśli przekonwertujesz dwa pliki Docx, możesz pobrać plik ZIP z oboma klikając przycisk **Pobierz Wszystkie**."
+      }
+    },
+    "keyFeatures": {
+      "heading": "Funkcje Konwertera Docx",
+      "features": {
+        "titleU": "Przyjazny Interfejs",
+        "descriptionU": "Ciesz się czystym i intuicyjnym interfejsem, który upraszcza proces konwersji dla użytkowników na każdym poziomie umiejętności.",
+
+        "titleS": "Wsparcie dla Wielu Plików PDF",
+        "descriptionS": "Konwertuj zeskanowane dokumenty Word na przeszukiwalne PDF, poprawiając użyteczność i dostępność treści tekstowej. Te funkcje sprawiają, że nasz Konwerter Docx jest niezawodnym narzędziem dla użytkowników, którzy muszą efektywnie i bezpiecznie konwertować wiele dokumentów.",
+
+        "titleM": "Wsparcie dla Wielu Języków",
+        "descriptionM": "Obsługuje wiele języków w dokumentach wejściowych i wyjściowych, zapewniając kompatybilność i dokładność dla różnych potrzeb językowych."
+      }
+    },
+
+    "componentTrans": {
+      "error": "Błąd konwersji Word na PDF",
+      "error2": "Można przekonwertować tylko 2 pliki naraz, więc wybierz tylko 2 pliki Docx!",
+      "error3": "Rozmiar pliku Docx nie powinien przekraczać 5 MB",
+      "error4": "Dozwolone są tylko pliki Docx",
+      "message": "Przeciągnij i upuść lub prześlij Docx",
+      "support": "Obsługiwane formaty: tylko Doc i Docx",
+      "upload": "Prześlij pliki",
+      "titleone": "Twoje pliki zostaną automatycznie usunięte z serwera w ciągu 2 godzin",
+      "secure": "Twoje pliki są bezpieczne",
+      "upload2": "Prześlij Docx",
+      "clear": "Wyczyść wszystko",
+      "convert": "Konwertuj na PDF",
+      "suggestion": "*Duże pliki mogą wymagać czasu, bądź cierpliwy*",
+      "over": "Zacznij od nowa",
+      "fileTitle": "Pobierz plik",
+      "allDownload": "Pobierz Wszystkie"
+    },
+    "metadata": {
+      "title": "Konwerter Word na PDF - Przekształć swój plik Docx na PDF",
+      "description": "Możesz przekształcić pliki Docx na pliki PDF za pomocą konwertera Word na PDF."
+    }
+  },
+
+  "faq": {
+    "title": "Najczęściej Zadawane Pytania",
+    "sections": {
+      "pdfToImage": {
+        "title": "PDF na Obraz",
+        "items": {
+          "questionone": "Jakie typy obrazów mogę konwertować z plików PDF?",
+          "answerone": "Możesz konwertować pliki PDF na formaty obrazów takie jak JPEG.",
+
+          "questiontwo": "Ile stron PDF mogę jednocześnie konwertować na obrazy?",
+          "answertwo": "Możesz konwertować wszystkie strony pliku PDF na obrazy jednocześnie. Proces konwersji generuje jeden plik obrazu na stronę."
+        }
+      },
+      "pdfToWord": {
+        "title": "PDF na Word",
+        "items": {
+          "questionone": "W jakim formacie jest dokument Word konwertowany z pliku PDF?",
+          "answerone": "Pliki PDF są konwertowane na edytowalne dokumenty Word (.docx).",
+
+          "questiontwo": "Czy obrazy i formatowanie są zachowane podczas konwersji PDF na Word?",
+          "answertwo": "Tak, obrazy i większość elementów formatowania (czcionki, style, tabele itp.) są zachowane podczas procesu konwersji.",
+
+          "questionthree": "Czy pliki PDF zabezpieczone hasłem mogą być konwertowane na dokumenty Word?",
+          "answerthree": "Jeśli masz hasło do odblokowania pliku PDF, możesz konwertować PDF zabezpieczone hasłem na dokumenty Word. W przeciwnym razie konwersja może nie być możliwa bez hasła."
+        }
+      },
+      "imageToText": {
+        "title": "Obraz na Tekst",
+        "items": {
+          "questionone": "Jakie typy obrazów mogę konwertować na tekst?",
+          "answerone": "Możesz konwertować różne typy obrazów zawierających tekst, takie jak JPEG, PNG i GIF, na edytowalne pliki tekstowe.",
+
+          "questiontwo": "Czy jakość i klarowność obrazu wpływa na dokładność rozpoznawania tekstu?",
+          "answertwo": "Tak, wyższa jakość i większa klarowność obrazów zazwyczaj prowadzą do lepszej dokładności rozpoznawania tekstu. Obrazy z szumem lub słabą rozdzielczością mogą wpływać na dokładność.",
+
+          "questionthree": "Czy odręczny tekst na obrazach może być konwertowany na edytowalny tekst?",
+          "answerthree": "Rozpoznawanie odręcznego tekstu zależy od klarowności i czytelności pisma. Zaawansowane oprogramowanie OCR (Optical Character Recognition) może wspierać rozpoznawanie odręcznego tekstu."
+        }
+      },
+      "pdfToExcel": {
+        "title": "PDF na Excel",
+        "items": {
+          "questionone": "W jakim formacie jest plik Excel konwertowany z pliku PDF?",
+          "answerone": "Pliki PDF są konwertowane na arkusze kalkulacyjne Excel (.xlsx). Pozwala to na manipulowanie i analizowanie danych w Excelu.",
+
+          "questiontwo": "Czy tabele i formatowanie są zachowane podczas konwersji PDF na Excel?",
+          "answertwo": "Tak, tabele, formatowanie danych i większość struktur układu są zachowane podczas procesu konwersji. Skonwertowane układy mogą wymagać ręcznych poprawek.",
+
+          "questionthree": "Czy pliki PDF zabezpieczone hasłem mogą być konwertowane na arkusze Excel?",
+          "answerthree": "Jeśli masz hasło do odblokowania pliku PDF, możesz konwertować PDF zabezpieczone hasłem na arkusze Excel. W przeciwnym razie konwersja może nie być możliwa bez hasła."
+        }
+      },
+      "imageToPdf": {
+        "title": "Obraz na PDF",
+        "items": {
+          "questionone": "Jakie typy obrazów mogę konwertować na PDF?",
+          "answerone": "Możesz konwertować różne typy obrazów (JPEG, PNG, GIF itp.) na format PDF.",
+
+          "questiontwo": "Czy mogę konwertować wiele obrazów?",
+          "answertwo": "Tak, możesz zamienić kilka zdjęć na wiele dokumentów PDF. Jeden PDF przypada na jeden obraz."
+        }
+      },
+      "wordToPdf": {
+        "title": "Word na PDF",
+        "items": {
+          "questionone": "W jakim formacie jest plik PDF konwertowany z dokumentu Word?",
+          "answerone": "Dokumenty Word (.docx i .doc) są konwertowane na format PDF. Ta konwersja zachowuje treść i formatowanie oryginalnego dokumentu Word.",
+
+          "questiontwo": "Czy obrazy i formatowanie są zachowane podczas konwersji Word na PDF?",
+          "answertwo": "Tak, obrazy, czcionki, style, tabele i większość elementów formatowania są zachowane podczas procesu konwersji. Skonwertowane układy mogą wymagać poprawek.",
+
+          "questionthree": "Czy dokumenty Word zabezpieczone hasłem mogą być konwertowane na PDF?",
+          "answerthree": "Jeśli masz hasło do odblokowania dokumentu Word, możesz konwertować dokumenty zabezpieczone hasłem na PDF. W przeciwnym razie konwersja może nie być możliwa bez hasła."
+        }
+      }
+    },
+    "metadata": {
+      "title": "FAQ",
+      "description": "Strona z najczęściej zadawanymi pytaniami, gdzie znajdziesz odpowiedzi na wszystkie swoje pytania dotyczące konwerterów"
+    }
+  },
+
+  "aboutUs": {
+    "title": "O Nas",
+    "content": {
+      "intro": "OnlineOCR.net oferuje najlepsze narzędzia do przekształcania obrazów na tekst, skanowanych plików PDF oraz dokumentów Docx na edytowalne i przeszukiwalne formy. Nasze zaawansowane oprogramowanie OCR konwertuje dokumenty na różne typy plików, takie jak Excel, PDF, Docx, obrazy i tekst. W ramach naszej usługi zapewniamy szybkie i dokładne konwersje, oszczędzając Twój czas i eliminując potrzebę ręcznych procedur.",
+      "sections": {
+        "titleone": "Efektywna Konwersja Dokumentów",
+        "textone": "Bezpłatna usługa OCR online eliminuje potrzebę ręcznego wprowadzania dokumentów, minimalizując zużycie energii i czas. Nasza usługa oferuje szybkie i precyzyjne konwersje dla dokumentów jedno- i wielostronicowych, zwiększając produktywność.",
+
+        "titletwo": "Wsparcie Wielojęzyczne",
+        "texttwo": "Nasza usługa obsługuje 36 języków, obejmując języki z regionów APAC i EMEA, takie jak angielski, francuski, niemiecki, włoski, portugalski, rosyjski, hiszpański, japoński, chiński, koreański i wiele innych. Obsługujemy również dokumenty napisane w wielu językach, zapewniając kompleksowe wsparcie dla Twoich potrzeb.",
+
+        "titlethree": "Bezpłatnie i Szybko Dostępne",
+        "textthree": "Korzystaj z naszej bezpłatnej usługi na zawsze. Odkryj, dlaczego wiele osób polega na OnlineOCR.net dla swoich potrzeb konwersji dokumentów, korzystając z naszej wygodnej usługi."
+      }
+    },
+    "metadata": {
+      "title": "O nas",
+      "description": "To jest darmowy konwerter online do obrazów, PDF-ów, plików Docx i arkuszy kalkulacyjnych Excel."
+    }
+  },
+  "contactus": {
+    "title": "Skontaktuj się z nami",
+    "description": "W przypadku pytań lub opinii prosimy o kontakt e-mailowy pod adresem **supportimageocr@gmail.com**. Cenimy Twoje zapytania i staramy się zapewnić szybką pomoc w zakresie naszych usług, konwersji dokumentów lub wszelkiego wsparcia technicznego, którego możesz potrzebować. Jeśli masz sugestie dotyczące ulepszeń lub potrzebujesz wyjaśnień dotyczących naszych funkcji, nasz dedykowany zespół wsparcia jest tutaj, aby Ci pomóc. Skontaktuj się z nami w dowolnym momencie.",
+    "metadata": {
+      "title": "Skontaktuj się z nami",
+      "description": "Skontaktuj się z nami w przypadku jakichkolwiek pytań dotyczących tego konwertera."
+    }
+  },
+
+  "termsandcondition": {
+    "heading1": "Warunki korzystania",
+    "termssection1": {
+      "paragraph": "Dokument ten przedstawia warunki korzystania z witryny imageocr.info."
+    },
+    "termssection2": {
+      "heading2": "Akceptacja warunków",
+      "paragraph1": "Korzystając z tej witryny, użytkownicy zakładają, że akceptują te warunki korzystania. Terminy „Klient”, „Ty” i „Twój” odnoszą się do użytkownika, który loguje się i przestrzega warunków korzystania firmy. „Firma”, „My”, „Nasze” i „Nas” odnoszą się do firmy, podczas gdy „Strona”, „Strony” lub „My” odnosi się do obu, klienta i nas.",
+      "paragraph2": "Warunki są traktowane jako wymienne i są regulowane przez warunki użytkowania. Korzystając z imageocr.info, użytkownicy zgadzają się na te warunki i są przez nie prawnie związani. Firma może według własnego uznania modyfikować te warunki, a użytkownicy powinni okresowo sprawdzać stronę w celu uzyskania aktualizacji. Jeśli użytkownicy nie zgadzają się z tymi warunkami, nie powinni korzystać z witryny."
+    },
+    "termssection3": {
+      "heading2": "Odpowiedzialność i ochrona",
+      "paragraph1": "imageocr.info to witryna oferująca usługi, ale nie gwarantuje ich dokładności ani niezawodności. Użytkownicy są zachęcani do zgłaszania wszelkich błędów. Strona może być zmieniana bez powiadomienia, a użytkownicy nie są odpowiedzialni za utratę, zmianę lub uszkodzenie przesłanych treści. Strona nie gwarantuje bezproblemowej operacji ani serwera wolnego od wirusów. Jeśli użytkownicy muszą naprawić lub wymienić sprzęt lub dane, są odpowiedzialni za te koszty.",
+      "paragraph2": "imageocr.info może wyświetlać treści stron trzecich, w tym linki do stron trzecich, które są wyłącznie odpowiedzialnością podmiotu je dostarczającego. Strona może przeglądać, usuwać lub odmawiać wyświetlania takich treści, ale nie ma obowiązku tego robić. imageocr.info nie popiera ani nie bierze odpowiedzialności za treści znajdujące się na stronach trzecich, dlatego użytkownicy powinni korzystać z nich na własne ryzyko. Ważne jest, aby zachować ostrożność i postępować na własne ryzyko."
+    },
+    "termssection4": {
+      "heading2": "O warunkach korzystania",
+      "paragraph1": "imageocr.info nie twierdzi, że jej usługi są odpowiednie do jakiegokolwiek określonego celu lub odbiorcy. Witryna nie ponosi odpowiedzialności za żadne szkody, roszczenia ani obrażenia wynikające z nielegalnego lub niewłaściwego dostępu.",
+      "paragraph2": "Jeśli jakiekolwiek postanowienie warunków korzystania jest nieważne, pozostałe pozostają w mocy. Decyzja imageocr.info o niewykonywaniu jakiegokolwiek postanowienia nie oznacza rezygnacji z prawa do przyszłego egzekwowania. Ważne jest, aby okresowo przeglądać warunki korzystania w celu sprawdzenia aktualizacji lub zmian. Kontynuując korzystanie z witryny, użytkownicy zgadzają się na przestrzeganie najnowszej wersji warunków korzystania."
+    },
+    "termssection5": {
+      "heading2": "Cookies",
+      "paragraph": "Używamy plików cookie. Korzystając z imageocr.info, zgadzasz się na nasze wykorzystanie plików cookie, zgodnie z naszą Polityką prywatności. Większość interaktywnych witryn używa plików cookie, aby uzyskać informacje o użytkowniku przy każdej wizycie. Nasza witryna używa plików cookie, aby umożliwić funkcjonowanie witryny i ułatwić nawigację odwiedzającym. Niektórzy z naszych partnerów afiliacyjnych i reklamowych mogą również korzystać z plików cookie."
+    },
+    "termssection6": {
+      "heading2": "Zrzeczenie się odpowiedzialności",
+      "paragraph1": "W najszerszym zakresie dozwolonym przez obowiązujące prawo, wyłączamy wszelkie oświadczenia, gwarancje i warunki dotyczące naszej witryny i korzystania z tej witryny. Żadne z zastrzeżeń odpowiedzialności nie będzie:",
+      "listItem1": "ograniczać ani wyłączać naszej lub Twojej odpowiedzialności za śmierć lub obrażenia ciała;",
+      "listItem2": "ograniczać ani wyłączać naszej lub Twojej odpowiedzialności za oszustwo lub oszukańcze wprowadzenie w błąd;",
+      "listItem3": "ograniczać jakiejkolwiek naszej lub Twojej odpowiedzialności w sposób niedozwolony przez obowiązujące prawo; ani wyłączać jakiejkolwiek naszej lub Twojej odpowiedzialności, która nie może być wyłączona na mocy obowiązującego prawa.",
+      "paragraph2": "Ograniczenia i zakazy odpowiedzialności określone w tej sekcji i w innych miejscach tego zrzeczenia się odpowiedzialności: (a) podlegają powyższemu paragrafowi; i (b) regulują wszystkie odpowiedzialności wynikające z tego zrzeczenia się odpowiedzialności, w tym odpowiedzialności wynikające z umowy, czynów niedozwolonych i naruszenia obowiązków ustawowych. Dopóki witryna i informacje oraz usługi na stronie są udostępniane bezpłatnie, nie ponosimy odpowiedzialności za jakiekolwiek straty lub szkody jakiegokolwiek rodzaju."
+    },
+    "termssection7": {
+      "heading2": "Usuwanie linków z naszej witryny",
+      "paragraph1": "Jeśli znajdziesz jakikolwiek link na naszej witrynie, który jest nieodpowiedni z jakiegokolwiek powodu, możesz skontaktować się z nami i poinformować nas o tym w każdej chwili. Rozważymy prośby o usunięcie linków, ale nie mamy obowiązku tego robić ani odpowiadać bezpośrednio.",
+      "paragraph2": "Nie zapewniamy, że informacje na tej stronie są poprawne, nie gwarantujemy ich kompletności ani dokładności; ani nie obiecujemy, że witryna będzie dostępna ani że materiały na witrynie będą aktualizowane."
+    },
+    "termssection8": {
+      "heading2": "Licencja",
+      "paragraph": "imageocr.info posiada prawa własności intelektualnej do wszystkich materiałów na stronie, chyba że zaznaczone jest inaczej. Użytkownicy mogą uzyskiwać dostęp do treści w celach osobistych, ale nie mogą jej powielać, sprzedawać, wynajmować, udzielać sublicencji, reprodukować, duplikować ani dystrybuować."
+    },
+    "metadata": {
+      "title": "Warunki korzystania",
+      "description": "Warunki korzystania z naszego darmowego narzędzia konwertującego."
+    }
+  },
+  "privacyPolicy": {
+    "title": "Polityka prywatności ImageOCR.info",
+    "sections": {
+      "introduction": {
+        "paragraph1": "Korzystanie z usługi imageocr.info jest uzależnione od akceptacji naszych Warunków korzystania z usługi oraz niniejszej Polityki prywatności.",
+        "paragraph2": "W ImageOCR.info, dostępnym pod adresem imageocr.info, ochrona prywatności naszych odwiedzających jest jednym z naszych priorytetów. Niniejszy dokument Polityki prywatności opisuje rodzaje informacji, które są zbierane i rejestrowane przez imageocr.info, oraz wyjaśnia, w jaki sposób je wykorzystujemy.",
+        "paragraph3": "Jeśli masz dodatkowe pytania lub potrzebujesz więcej informacji na temat naszej Polityki prywatności, prosimy o kontakt.",
+        "paragraph4": "Niniejsza Polityka prywatności zaczyna obowiązywać od pierwszego korzystania z usługi. Korzystając z imageocr.info, potwierdzasz, że przeczytałeś i zrozumiałeś zasady tej Polityki prywatności i zgadzasz się na ich przestrzeganie. Jeśli nie zgadzasz się z tą Polityką prywatności, prosimy o niekorzystanie z imageocr.info ani z żadnych materiałów i zasobów dostępnych w tej usłudze."
+      },
+      "informationWeCollect": {
+        "title": "1. Informacje, które zbieramy",
+        "personalData": {
+          "title": "Dane osobowe",
+          "paragraph1": "Podczas odwiedzania imageocr.info zostaniesz poproszony o zgodę na używanie plików cookie, ale decyzja o ich akceptacji należy wyłącznie do Ciebie.",
+          "paragraph2": "Nie przeglądamy plików, które przesyłasz za pomocą usługi imageocr.info. Możemy jednak przeglądać metadane Twojego pliku (rozszerzenia plików, rozmiary itp., ale nie zawartość), aby zapewnić wsparcie techniczne."
+        },
+        "cookies": {
+          "title": "Pliki cookie",
+          "paragraph1": "ImageOCR.info używa plików cookie przeglądarki do przechowywania informacji o stanie Twojej aktywności na naszej stronie. Pliki cookie pomagają nam śledzić Twoje preferencje i poprawiać komfort korzystania z serwisu. Nie przechowujemy żadnych Twoich danych osobowych w plikach cookie. Pliki cookie to małe pliki danych zapisane na dysku twardym Twojego urządzenia. Pliki cookie nie mogą odczytywać innych danych z Twojego dysku twardego, przekazywać wirusów ani odczytywać plików cookie utworzonych przez inne strony. Możesz odmówić używania plików cookie, wyłączając je w ustawieniach przeglądarki, ale niektóre funkcje imageocr.info mogą nie działać prawidłowo bez włączonych plików cookie."
+        },
+        "technicalInformation": {
+          "title": "Informacje techniczne",
+          "paragraph1": "Szczegóły techniczne są ograniczone do następujących informacji:",
+          "detail1": "Adres Internet Protocol (IP) lub brama serwera internetowego odwiedzającego.",
+          "detail2": "Typ przeglądarki internetowej używanej przez odwiedzającego.",
+          "detail3": "System operacyjny urządzenia odwiedzającego.",
+          "detail4": "Rozdzielczość ekranu monitora odwiedzającego.",
+          "detail5": "Informacje o potencjalnych zagrożeniach bezpieczeństwa, URL stron internetowych, które uznajemy za potencjalnie oszukańcze, oraz pliki wykonywalne zidentyfikowane jako potencjalne złośliwe oprogramowanie.",
+          "detail6": "Metadane dotyczące przesłanych plików, takie jak rozmiar pliku, nazwa pliku, format pliku i inne istotne parametry."
+        }
+      },
+      "yourRights": {
+        "title": "2. Twoje prawa",
+        "paragraph1": "Ponieważ imageocr.info jest bezpłatną usługą, która nie wymaga rejestracji użytkownika, nie zbieramy ani nie przechowujemy danych osobowych przez dłuższy okres. Dane przesyłane do naszej usługi są przechowywane maksymalnie przez dwie godziny, po czym są automatycznie usuwane."
+      },
+      "ccpaPrivacyRights": {
+        "title": "3. Prawa prywatności CCPA (Nie sprzedawaj moich danych osobowych)",
+        "paragraph1": "Zgodnie z ustawą o ochronie prywatności konsumentów w Kalifornii (CCPA) konsumenci z Kalifornii mają prawo do:",
+        "right1": "Żądania ujawnienia kategorii i konkretnych elementów danych osobowych, które firma zebrała o konsumentach.",
+        "right2": "Żądania usunięcia wszelkich danych osobowych dotyczących konsumenta, które firma zebrała.",
+        "right3": "Żądania, aby firma, która sprzedaje dane osobowe konsumenta, przestała sprzedawać te dane.",
+        "paragraph2": "Ponieważ imageocr.info jest bezpłatną usługą, która nie wymaga rejestracji użytkownika i automatycznie usuwa wszystkie przesłane dane w ciągu dwóch godzin, zbieranie danych osobowych jest minimalne. Jeśli chcesz skorzystać z któregokolwiek z tych praw, skontaktuj się z nami, a my odpowiemy w ciągu miesiąca."
+      },
+      "gdprDataProtectionRights": {
+        "title": "4. Prawa ochrony danych GDPR",
+        "paragraph1": "Chcemy upewnić się, że jesteś w pełni świadomy wszystkich swoich praw dotyczących ochrony danych. Każdy użytkownik ma prawo do:",
+        "right1": "Prawa dostępu – Masz prawo zażądać kopii swoich danych osobowych. Ponieważ przechowujemy przesyłane dane tylko przez dwie godziny i nie wymagamy logowania, dane osobowe, które możemy dostarczyć, są bardzo ograniczone.",
+        "right2": "Prawa do sprostowania – Masz prawo zażądać, abyśmy poprawili wszelkie informacje, które uważasz za niedokładne. Ze względu na tymczasowy charakter przechowywania danych, większość korekt będzie niepotrzebna.",
+        "right3": "Prawa do usunięcia – Masz prawo zażądać, abyśmy usunęli Twoje dane osobowe, pod pewnymi warunkami. Ponieważ wszystkie dane są automatycznie usuwane po dwóch godzinach, to prawo jest w zasadzie przestrzegane.",
+        "right4": "Prawa do ograniczenia przetwarzania – Masz prawo zażądać, abyśmy ograniczyli przetwarzanie Twoich danych osobowych, pod pewnymi warunkami. Jednak nasze przetwarzanie danych jest minimalne i krótkoterminowe.",
+        "right5": "Prawa do sprzeciwu wobec przetwarzania – Masz prawo sprzeciwić się przetwarzaniu Twoich danych osobowych, pod pewnymi warunkami. Jeśli masz jakiekolwiek obawy, skontaktuj się z nami niezwłocznie.",
+        "right6": "Prawa do przenoszenia danych – Masz prawo zażądać, abyśmy przenieśli zebrane dane do innej organizacji lub bezpośrednio do Ciebie, pod pewnymi warunkami. Ponieważ przechowujemy dane tylko przez dwie godziny i nie zbieramy danych osobowych, to prawo nie ma zazwyczaj zastosowania.",
+        "paragraph2": "Jeśli złożysz wniosek, mamy miesiąc na udzielenie odpowiedzi. Jeśli chcesz skorzystać z któregokolwiek z tych praw, skontaktuj się z nami."
+      },
+      "locationOfDataProcessing": {
+        "title": "5. Lokalizacja przetwarzania i przechowywania danych",
+        "paragraph1": "Dane przesłane do imageocr.info mogą być przetwarzane i przechowywane na serwerach zlokalizowanych w różnych krajach, w których działa imageocr.info. Biorąc pod uwagę tymczasowy charakter naszej usługi, wszystkie dane są automatycznie usuwane w ciągu dwóch godzin od przesłania.",
+        "paragraph2": "Korzystając z imageocr.info, wyrażasz zgodę na tymczasowe przechowywanie i przetwarzanie danych w tych lokalizacjach. Zapewniamy, że wszelkie przetwarzanie danych odbywa się zgodnie z obowiązującymi przepisami o ochronie prywatności, a wszystkie dane są bezpiecznie usuwane po dwugodzinnym okresie przechowywania."
+      },
+      "changesToPolicy": {
+        "title": "6. Zmiany w polityce prywatności",
+        "paragraph1": "Niniejsza Polityka prywatności może być okresowo aktualizowana. Zmiany, aktualizacje lub modyfikacje wchodzą w życie od momentu ich opublikowania na stronie internetowej. Prosimy o regularne sprawdzanie, aby być na bieżąco z najnowszą wersją Polityki prywatności."
+      },
+      "thirdPartyAdvertising": {
+        "title": "7. Reklamy osób trzecich",
+        "paragraph1": "Na imageocr.info mogą być wyświetlane reklamy osób trzecich. Ci reklamodawcy mogą używać plików cookie i podobnych technologii do zbierania informacji o Twojej aktywności na naszej stronie oraz innych stronach internetowych, aby dostarczać reklamy dostosowane do Twoich zainteresowań. Nie dzielimy się danymi osobowymi z reklamodawcami osób trzecich. Możesz zarządzać ustawieniami reklam dostosowanych za pomocą ustawień przeglądarki."
+      }
+    },
+    "metadata": {
+      "title": "Polityka prywatności",
+      "description": "Ta strona opisuje naszą politykę prywatności."
+    }
+  },
+  "cookieconsentpage": {
+    "header": "TA STRONA UŻYWA PLIKÓW COOKIE",
+    "paragraph1": "Używamy plików cookie, aby poprawić Twoje doświadczenia, spersonalizować treści i reklamy, zapewnić funkcje mediów społecznościowych oraz analizować nasz ruch. Pliki cookie to małe pliki danych umieszczane na Twoim urządzeniu, które pomagają nam poprawić funkcjonalność i doświadczenie użytkownika naszej strony internetowej. Kontynuując korzystanie z naszej strony, wyrażasz zgodę na używanie plików cookie.",
+    "link": "Polityka Prywatności",
+    "Name1": "Akceptuj",
+    "Name2": "Odrzuć"
+  }
+}

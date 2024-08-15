@@ -1,0 +1,69 @@
+/* FAQComponent.css */
+.faqcontainer {
+  max-width: 840px;
+  margin: auto;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.faqsection {
+  margin-bottom: 30px;
+  width: 100%;
+  align-items: center;
+}
+.faqcontainer .heading1 {
+  color: #660fb1;
+  font-size: 2em;
+  margin-top: 20px;
+  text-align: center;
+}
+
+.faqitem {
+  margin-bottom: 15px;
+  width: 100%;
+}
+
+.faqsection .heading2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+  line-height: 3rem;
+}
+
+.faqsection .heading4 {
+  font-size: 1em;
+  margin-bottom: 5px;
+  display: flex;
+  color: #660fb1;
+  margin-top: 10px;
+}
+
+.faqsection .paragraph {
+  font-size: 1em;
+  line-height: 1.6;
+  margin-top: 20px;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .faqcontainer {
+    padding: 10px;
+  }
+
+  .faqcontainer .heading1 {
+    font-size: 1.8em;
+  }
+
+  .faqsection .heading2 {
+    font-size: 1.3em;
+  }
+
+  .faqsection .heading4 {
+    font-size: 16px;
+  }
+
+  .faqsection .paragraph {
+    font-size: 0.9em;
+  }
+}
