@@ -28,11 +28,11 @@ const Pdftoexcel = async () => {
 
       <div className={styles.textContent}>
         <div className={styles.textcontentdiv}>
-          <h1 className={styles.textheading1}>{t("onlineConvert.heading")}</h1>
+          <h2 className={styles.textheading1}>{t("onlineConvert.heading")}</h2>
           <p className={styles.textcontentpara}>{t("onlineConvert.content")}</p>
         </div>
         <div className={styles.textcontentdiv}>
-          <h1 className={styles.textheading1}>{t("howToConvert.heading")}</h1>
+          <h2 className={styles.textheading1}>{t("howToConvert.heading")}</h2>
           <br />
           <ul className={styles.textcontentul}>
             <li className={styles.textcontentli}>
@@ -63,7 +63,7 @@ const Pdftoexcel = async () => {
             className={styles.featureimg}
             alt="featureimage"
           />
-          <h1 className={styles.textheading1}>{t("keyFeatures.heading")} </h1>
+          <h2 className={styles.textheading1}>{t("keyFeatures.heading")} </h2>
           <div className={styles.textcontentdiv}>
             <h3 className={styles.textheading3}>
               {t("keyFeatures.features.titleF")}{" "}

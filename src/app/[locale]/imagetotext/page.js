@@ -29,9 +29,9 @@ const ImageToText = async () => {
 
       <div className={styles.textContent}>
         <div className={styles.textcontentdiv}>
-          <h1 className={styles.textheading}>
+          <h2 className={styles.textheading}>
             {t("imageToTextConverter.whatIs.heading")}
-          </h1>
+          </h2>
 
           <p className={styles.textcontentpara}>
             {t("imageToTextConverter.whatIs.contentone")} <br />
@@ -40,9 +40,9 @@ const ImageToText = async () => {
           </p>
         </div>
         <div className={styles.textcontentdiv}>
-          <h1 className={styles.textheading}>
+          <h2 className={styles.textheading}>
             {t("imageToTextConverter.howItWorks.heading")}
-          </h1>
+          </h2>
           <br />
 
           <ul className={styles.textcontentul}>
@@ -70,9 +70,9 @@ const ImageToText = async () => {
         </div>
         <div className={styles.textcontentdiv}>
           <Image alt="keyfeature" src={feature} className={styles.featureimg} />
-          <h1 className={styles.textheading}>
+          <h2 className={styles.textheading}>
             {t("imageToTextConverter.keyFeatures.heading")}
-          </h1>
+          </h2>
           <div>
             <h3 className={styles.textheading3}>
               {t("imageToTextConverter.keyFeatures.features.titleone")}
@@ -96,9 +96,9 @@ const ImageToText = async () => {
         </div>
 
         <div className={styles.textcontentdiv}>
-          <h1 className={styles.textheading}>
+          <h2 className={styles.textheading}>
             {t("imageToTextConverter.benefits.heading")}
-          </h1>
+          </h2>
           <div>
             <h3 className={styles.textheading3}>
               {t("imageToTextConverter.benefits.benefits.titledigi")}
