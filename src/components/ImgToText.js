@@ -242,7 +242,6 @@ const ImgToText = () => {
         for (let i = 0; i < e.clipboardData.items.length; i++) {
           const item = e.clipboardData.items[i];
           const blob = item.getAsFile();
-          console.log(blob instanceof Blob);
           if (item.type.indexOf("image") !== -1) {
             const reader = new FileReader();
 

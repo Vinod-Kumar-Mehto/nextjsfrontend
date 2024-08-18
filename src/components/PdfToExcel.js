@@ -70,7 +70,6 @@ const PdfToExcel = () => {
         }
       );
       setZip(response.data);
-      console.log(response.data);
       const zip = new JSZip();
 
       const zipFile = await zip.loadAsync(response.data);
