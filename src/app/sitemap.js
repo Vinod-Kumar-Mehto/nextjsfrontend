@@ -1,184 +1,52 @@
-export default function sitemap() {
-  return [
-    {
-      url: `${process.env.NEXT_PUBLIC_BASE_URL}`,
-      lastModified: new Date(2024, 7, 11),
-      alternates: {
-        languages: {
-          de: `${process.env.NEXT_PUBLIC_BASE_URL}/de`,
-          es: `${process.env.NEXT_PUBLIC_BASE_URL}/es`,
-          fr: `${process.env.NEXT_PUBLIC_BASE_URL}/fr`,
-          it: `${process.env.NEXT_PUBLIC_BASE_URL}/it`,
-          pr: `${process.env.NEXT_PUBLIC_BASE_URL}/pr`,
-          ja: `${process.env.NEXT_PUBLIC_BASE_URL}/ja`,
-          po: `${process.env.NEXT_PUBLIC_BASE_URL}/po`,
-          ko: `${process.env.NEXT_PUBLIC_BASE_URL}/ko`,
-          ru: `${process.env.NEXT_PUBLIC_BASE_URL}/ru`,
-          ch: `${process.env.NEXT_PUBLIC_BASE_URL}/ch`,
+const languages = [
+  { code: "de", name: "German" },
+  { code: "en", name: "English" },
+  { code: "es", name: "Spanish" },
+  { code: "fr", name: "French" },
+  { code: "it", name: "Italian" },
+  { code: "pt", name: "Portuguese" },
+  { code: "ja", name: "Japanese" },
+  { code: "pl", name: "Polish" },
+  { code: "ko", name: "Korean" },
+  { code: "ru", name: "Russian" },
+  { code: "zh", name: "Chinese" },
+];
+
+const paths = [
+  "",
+  "/imagetotext",
+  "/pdftoword",
+  "/pdftoimage",
+  "/pdftoexcel",
+  "/imagetopdf",
+  "/wordtopdf",
+  "/faq",
+  "/about",
+];
+
+const generateSitemap = () => {
+  return languages
+    .map((lang) => {
+      return paths.map((path) => ({
+        url: `${process.env.NEXT_PUBLIC_BASE_URL}${
+          lang.code === "en" ? "" : `/${lang.code}`
+        }${path}`,
+        lastModified: new Date(2024, 7, 11),
+        alternates: {
+          languages: languages.reduce((acc, l) => {
+            acc[l.code] = `${process.env.NEXT_PUBLIC_BASE_URL}${
+              l.code === "en" ? "" : `/${l.code}`
+            }${path}`;
+            return acc;
+          }, {}),
         },
-      },
-    },
-    {
-      url: `${process.env.NEXT_PUBLIC_BASE_URL}/imagetotext`,
-      lastModified: new Date(2024, 7, 11),
-      alternates: {
-        languages: {
-          de: `${process.env.NEXT_PUBLIC_BASE_URL}/de/imagetotext`,
-          es: `${process.env.NEXT_PUBLIC_BASE_URL}/es/imagetotext`,
-          fr: `${process.env.NEXT_PUBLIC_BASE_URL}/fr/imagetotext`,
-          it: `${process.env.NEXT_PUBLIC_BASE_URL}/it/imagetotext`,
-          pr: `${process.env.NEXT_PUBLIC_BASE_URL}/pr/imagetotext`,
-          ja: `${process.env.NEXT_PUBLIC_BASE_URL}/ja/imagetotext`,
-          po: `${process.env.NEXT_PUBLIC_BASE_URL}/po/imagetotext`,
-          ko: `${process.env.NEXT_PUBLIC_BASE_URL}/ko/imagetotext`,
-          ru: `${process.env.NEXT_PUBLIC_BASE_URL}/ru/imagetotext`,
-          ch: `${process.env.NEXT_PUBLIC_BASE_URL}/ch/imagetotext`,
-        },
-      },
-    },
-    {
-      url: `${process.env.NEXT_PUBLIC_BASE_URL}/pdftoword`,
-      lastModified: new Date(2024, 7, 11),
-      alternates: {
-        languages: {
-          de: `${process.env.NEXT_PUBLIC_BASE_URL}/de/pdftoword`,
-          es: `${process.env.NEXT_PUBLIC_BASE_URL}/es/pdftoword`,
-          fr: `${process.env.NEXT_PUBLIC_BASE_URL}/fr/pdftoword`,
-          it: `${process.env.NEXT_PUBLIC_BASE_URL}/it/pdftoword`,
-          pr: `${process.env.NEXT_PUBLIC_BASE_URL}/pr/pdftoword`,
-          ja: `${process.env.NEXT_PUBLIC_BASE_URL}/ja/pdftoword`,
-          po: `${process.env.NEXT_PUBLIC_BASE_URL}/po/pdftoword`,
-          ko: `${process.env.NEXT_PUBLIC_BASE_URL}/ko/pdftoword`,
-          ru: `${process.env.NEXT_PUBLIC_BASE_URL}/ru/pdftoword`,
-          ch: `${process.env.NEXT_PUBLIC_BASE_URL}/ch/pdftoword`,
-        },
-      },
-    },
-    {
-      url: `${process.env.NEXT_PUBLIC_BASE_URL}/pdftoimage`,
-      lastModified: new Date(2024, 7, 11),
-      alternates: {
-        languages: {
-          de: `${process.env.NEXT_PUBLIC_BASE_URL}/de/pdftoimage`,
-          es: `${process.env.NEXT_PUBLIC_BASE_URL}/es/pdftoimage`,
-          fr: `${process.env.NEXT_PUBLIC_BASE_URL}/fr/pdftoimage`,
-          it: `${process.env.NEXT_PUBLIC_BASE_URL}/it/pdftoimage`,
-          pr: `${process.env.NEXT_PUBLIC_BASE_URL}/pr/pdftoimage`,
-          ja: `${process.env.NEXT_PUBLIC_BASE_URL}/ja/pdftoimage`,
-          po: `${process.env.NEXT_PUBLIC_BASE_URL}/po/pdftoimage`,
-          ko: `${process.env.NEXT_PUBLIC_BASE_URL}/ko/pdftoimage`,
-          ru: `${process.env.NEXT_PUBLIC_BASE_URL}/ru/pdftoimage`,
-          ch: `${process.env.NEXT_PUBLIC_BASE_URL}/ch/pdftoimage`,
-        },
-      },
-    },
-    {
-      url: `${process.env.NEXT_PUBLIC_BASE_URL}/pdftoexcel`,
-      lastModified: new Date(2024, 7, 11),
-      alternates: {
-        languages: {
-          de: `${process.env.NEXT_PUBLIC_BASE_URL}/de/pdftoexcel`,
-          es: `${process.env.NEXT_PUBLIC_BASE_URL}/es/pdftoexcel`,
-          fr: `${process.env.NEXT_PUBLIC_BASE_URL}/fr/pdftoexcel`,
-          it: `${process.env.NEXT_PUBLIC_BASE_URL}/it/pdftoexcel`,
-          pr: `${process.env.NEXT_PUBLIC_BASE_URL}/pr/pdftoexcel`,
-          ja: `${process.env.NEXT_PUBLIC_BASE_URL}/ja/pdftoexcel`,
-          po: `${process.env.NEXT_PUBLIC_BASE_URL}/po/pdftoexcel`,
-          ko: `${process.env.NEXT_PUBLIC_BASE_URL}/ko/pdftoexcel`,
-          ru: `${process.env.NEXT_PUBLIC_BASE_URL}/ru/pdftoexcel`,
-          ch: `${process.env.NEXT_PUBLIC_BASE_URL}/ch/pdftoexcel`,
-        },
-      },
-    },
-    {
-      url: `${process.env.NEXT_PUBLIC_BASE_URL}/imagetopdf`,
-      lastModified: new Date(2024, 7, 11),
-      alternates: {
-        languages: {
-          de: `${process.env.NEXT_PUBLIC_BASE_URL}/de/imagetopdf`,
-          es: `${process.env.NEXT_PUBLIC_BASE_URL}/es/imagetopdf`,
-          fr: `${process.env.NEXT_PUBLIC_BASE_URL}/fr/imagetopdf`,
-          it: `${process.env.NEXT_PUBLIC_BASE_URL}/it/imagetopdf`,
-          pr: `${process.env.NEXT_PUBLIC_BASE_URL}/pr/imagetopdf`,
-          ja: `${process.env.NEXT_PUBLIC_BASE_URL}/ja/imagetopdf`,
-          po: `${process.env.NEXT_PUBLIC_BASE_URL}/po/imagetopdf`,
-          ko: `${process.env.NEXT_PUBLIC_BASE_URL}/ko/imagetopdf`,
-          ru: `${process.env.NEXT_PUBLIC_BASE_URL}/ru/imagetopdf`,
-          ch: `${process.env.NEXT_PUBLIC_BASE_URL}/ch/imagetopdf`,
-        },
-      },
-    },
-    {
-      url: `${process.env.NEXT_PUBLIC_BASE_URL}/wordtopdf`,
-      lastModified: new Date(2024, 7, 11),
-      alternates: {
-        languages: {
-          de: `${process.env.NEXT_PUBLIC_BASE_URL}/de/wordtopdf`,
-          es: `${process.env.NEXT_PUBLIC_BASE_URL}/es/wordtopdf`,
-          fr: `${process.env.NEXT_PUBLIC_BASE_URL}/fr/wordtopdf`,
-          it: `${process.env.NEXT_PUBLIC_BASE_URL}/it/wordtopdf`,
-          pr: `${process.env.NEXT_PUBLIC_BASE_URL}/pr/wordtopdf`,
-          ja: `${process.env.NEXT_PUBLIC_BASE_URL}/ja/wordtopdf`,
-          po: `${process.env.NEXT_PUBLIC_BASE_URL}/po/wordtopdf`,
-          ko: `${process.env.NEXT_PUBLIC_BASE_URL}/ko/wordtopdf`,
-          ru: `${process.env.NEXT_PUBLIC_BASE_URL}/ru/wordtopdf`,
-          ch: `${process.env.NEXT_PUBLIC_BASE_URL}/ch/wordtopdf`,
-        },
-      },
-    },
-    {
-      url: `${process.env.NEXT_PUBLIC_BASE_URL}/faq`,
-      lastModified: new Date(2024, 7, 11),
-      alternates: {
-        languages: {
-          de: `${process.env.NEXT_PUBLIC_BASE_URL}/de/faq`,
-          es: `${process.env.NEXT_PUBLIC_BASE_URL}/es/faq`,
-          fr: `${process.env.NEXT_PUBLIC_BASE_URL}/fr/faq`,
-          it: `${process.env.NEXT_PUBLIC_BASE_URL}/it/faq`,
-          pr: `${process.env.NEXT_PUBLIC_BASE_URL}/pr/faq`,
-          ja: `${process.env.NEXT_PUBLIC_BASE_URL}/ja/faq`,
-          po: `${process.env.NEXT_PUBLIC_BASE_URL}/po/faq`,
-          ko: `${process.env.NEXT_PUBLIC_BASE_URL}/ko/faq`,
-          ru: `${process.env.NEXT_PUBLIC_BASE_URL}/ru/faq`,
-          ch: `${process.env.NEXT_PUBLIC_BASE_URL}/ch/faq`,
-        },
-      },
-    },
-    {
-      url: `${process.env.NEXT_PUBLIC_BASE_URL}/about`,
-      lastModified: new Date(2024, 7, 11),
-      alternates: {
-        languages: {
-          de: `${process.env.NEXT_PUBLIC_BASE_URL}/de/about`,
-          es: `${process.env.NEXT_PUBLIC_BASE_URL}/es/about`,
-          fr: `${process.env.NEXT_PUBLIC_BASE_URL}/fr/about`,
-          it: `${process.env.NEXT_PUBLIC_BASE_URL}/it/about`,
-          pr: `${process.env.NEXT_PUBLIC_BASE_URL}/pr/about`,
-          ja: `${process.env.NEXT_PUBLIC_BASE_URL}/ja/about`,
-          po: `${process.env.NEXT_PUBLIC_BASE_URL}/po/about`,
-          ko: `${process.env.NEXT_PUBLIC_BASE_URL}/ko/about`,
-          ru: `${process.env.NEXT_PUBLIC_BASE_URL}/ru/about`,
-          ch: `${process.env.NEXT_PUBLIC_BASE_URL}/ch/about`,
-        },
-      },
-    },
-    {
-      url: `${process.env.NEXT_PUBLIC_BASE_URL}/pdftoword`,
-      lastModified: new Date(2024, 7, 11),
-      alternates: {
-        languages: {
-          de: `${process.env.NEXT_PUBLIC_BASE_URL}/de/pdftoword`,
-          es: `${process.env.NEXT_PUBLIC_BASE_URL}/es/pdftoword`,
-          fr: `${process.env.NEXT_PUBLIC_BASE_URL}/fr/pdftoword`,
-          it: `${process.env.NEXT_PUBLIC_BASE_URL}/it/pdftoword`,
-          pr: `${process.env.NEXT_PUBLIC_BASE_URL}/pr/pdftoword`,
-          ja: `${process.env.NEXT_PUBLIC_BASE_URL}/ja/pdftoword`,
-          po: `${process.env.NEXT_PUBLIC_BASE_URL}/po/pdftoword`,
-          ko: `${process.env.NEXT_PUBLIC_BASE_URL}/ko/pdftoword`,
-          ru: `${process.env.NEXT_PUBLIC_BASE_URL}/ru/pdftoword`,
-          ch: `${process.env.NEXT_PUBLIC_BASE_URL}/ch/pdftoword`,
-        },
-      },
-    },
-  ];
+      }));
+    })
+    .flat();
+};
+
+// Default export for the sitemap
+export default async function sitemap() {
+  const sitemapData = generateSitemap();
+  return sitemapData;
 }
