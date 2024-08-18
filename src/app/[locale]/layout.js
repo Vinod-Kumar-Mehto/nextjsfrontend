@@ -2,7 +2,7 @@ import { Inter } from "next/font/google";
 import "./globals.css";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
-import { Icons, ToastContainer } from "react-toastify";
+import { ToastContainer } from "react-toastify";
 import "react-toastify/ReactToastify.min.css";
 import { NextIntlClientProvider } from "next-intl";
 import { getMessages } from "next-intl/server";
