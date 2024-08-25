@@ -108,7 +108,8 @@ const PdfToExcel = () => {
 
   const handleChange = useCallback(
     (e) => {
-      const validImageTypes = ["application/pdf"];
+      const validPdfTypes = ["application/pdf"];
+
       if (e.target.files.length + selectedPdf.length > 1) {
         toast.error(`🚀${t("componentTrans.error2")}🚀`, {
           position: "top-center",
@@ -122,8 +123,22 @@ const PdfToExcel = () => {
         });
 
         return;
-      } else if (e.target.files[0].size) {
-        if ((e.target.files[0].size / (1024 * 1024)).toFixed(1) > 5.0) {
+      }
+      const files = Array.from(e.target.files);
+      for (const file of files) {
+        if (!validPdfTypes.includes(file.type)) {
+          toast.error(`🚀${t("componentTrans.error4")}🚀`, {
+            position: "top-center",
+            autoClose: 3000,
+            hideProgressBar: false,
+            closeOnClick: true,
+            pauseOnHover: true,
+            draggable: true,
+            progress: undefined,
+            theme: "light",
+          });
+          return;
+        } else if (file.size / (1024 * 1024) > 5.0) {
           toast.error(`🚀${t("componentTrans.error3")}🚀`, {
             position: "top-center",
             autoClose: 3000,
@@ -136,20 +151,6 @@ const PdfToExcel = () => {
           });
           return;
         }
-      } else if (e.target.files.length === 0) {
-        return;
-      } else if (!validImageTypes.includes(e.target.files[0].type)) {
-        toast.error(`🚀${t("componentTrans.error4")}🚀`, {
-          position: "top-center",
-          autoClose: 3000,
-          hideProgressBar: false,
-          closeOnClick: true,
-          pauseOnHover: true,
-          draggable: true,
-          progress: undefined,
-          theme: "light",
-        });
-        return;
       }
 
       setShow(true);

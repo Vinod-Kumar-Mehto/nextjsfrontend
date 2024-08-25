@@ -85,7 +85,9 @@ const Footer = () => {
           <option value="zh">中文</option>
         </select>
       </div>
-      <div className={styles.footercopyright}>Copyright ©2024</div>
+      <div className={styles.footercopyright}>
+        Copyright © ImageOCR.info 2024
+      </div>
     </footer>
   );
 };

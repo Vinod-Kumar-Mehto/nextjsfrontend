@@ -115,7 +115,7 @@ const PdfToWord = () => {
 
   const handleChange = useCallback(
     (e) => {
-      const validPDFTypes = [
+      const validWordTypes = [
         "application/msword",
         "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
       ];
@@ -132,8 +132,22 @@ const PdfToWord = () => {
         });
 
         return;
-      } else if (e.target.files[0].size) {
-        if ((e.target.files[0].size / (1024 * 1024)).toFixed(1) > 5.0) {
+      }
+      const files = Array.from(e.target.files);
+      for (const file of files) {
+        if (!validWordTypes.includes(file.type)) {
+          toast.error(`🚀${t("componentTrans.error4")}🚀`, {
+            position: "top-center",
+            autoClose: 3000,
+            hideProgressBar: false,
+            closeOnClick: true,
+            pauseOnHover: true,
+            draggable: true,
+            progress: undefined,
+            theme: "light",
+          });
+          return;
+        } else if (file.size / (1024 * 1024) > 5.0) {
           toast.error(`🚀${t("componentTrans.error3")}🚀`, {
             position: "top-center",
             autoClose: 3000,
@@ -146,21 +160,8 @@ const PdfToWord = () => {
           });
           return;
         }
-      } else if (e.target.files.length === 0) {
-        return;
-      } else if (!validPDFTypes.includes(e.target.files[0].type)) {
-        toast.error(`🚀${t("componentTrans.error4")}🚀`, {
-          position: "top-center",
-          autoClose: 3000,
-          hideProgressBar: false,
-          closeOnClick: true,
-          pauseOnHover: true,
-          draggable: true,
-          progress: undefined,
-          theme: "light",
-        });
-        return;
       }
+
       setShow(true);
       if (e.target.files) {
         for (let i = 0; i < e.target.files.length; i++) {

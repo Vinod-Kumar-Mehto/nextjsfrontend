@@ -121,9 +121,10 @@ const ImageToPdf = () => {
         "image/gif",
       ];
       if (
-        e.target.files
-          ? e.target.files.length + selectedImage.length > 4
-          : e.clipboardData.items.length + selectedImage.length > 4
+        (e.target.files ? e.target.files.length : 0) +
+          (e.clipboardData ? e.clipboardData.items.length : 0) +
+          selectedImage.length >
+        4
       ) {
         toast.error(`🚀${t("componentTrans.error2")}🚀`, {
           position: "top-center",
@@ -137,9 +138,11 @@ const ImageToPdf = () => {
         });
 
         return;
-      } else if (e.target.files.length === 0) {
-        return;
-      } else if (e.target.files) {
+      }
+
+      const files = e.target.files ? e.target.files : e.clipboardData.items;
+      if (!files.length) return;
+      else if (e.target.files) {
         if (!validImageTypes.includes(e.target.files[0].type)) {
           toast.error(`🚀${t("componentTrans.error3")}🚀`, {
             position: "top-center",
