@@ -23,10 +23,10 @@ const ContactUS = async () => {
             <br />
           </p>
           <a
-            href="mailto:supportimageocr@gmail.com"
+            href="mailto:imageocrcontact@gmail.com"
             className={styles.contactemail}
           >
-            supportimageocr@gmail.com
+            Imageocrcontact@gmail.com
           </a>
         </div>
       </div>
