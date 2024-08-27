@@ -223,7 +223,7 @@ const ImageToPdf = () => {
   useEffect(() => {
     // Define the paste handler
     const handlePaste = (event) => {
-      if (!convertShow) {
+      if (!convertShow && !isProcessing) {
         handleChange(event); // Only call handleChange if convertShow is false
       } else {
         event.preventDefault(); // Prevent pasting if convertShow is true
