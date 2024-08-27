@@ -221,11 +221,23 @@ const ImageToPdf = () => {
   );
 
   useEffect(() => {
-    document.addEventListener("paste", handleChange);
-    return () => {
-      document.removeEventListener("paste", handleChange);
+    // Define the paste handler
+    const handlePaste = (event) => {
+      if (!convertShow) {
+        handleChange(event); // Only call handleChange if convertShow is false
+      } else {
+        event.preventDefault(); // Prevent pasting if convertShow is true
+      }
     };
-  }, [selectedImage]);
+
+    // Add the paste event listener
+    document.addEventListener("paste", handlePaste);
+
+    // Cleanup function to remove the event listener
+    return () => {
+      document.removeEventListener("paste", handlePaste);
+    };
+  }, [convertShow, handleChange]);
 
   const throttleCallOneDownload = (url, name) => {
     if (doubleClicks === true) {
