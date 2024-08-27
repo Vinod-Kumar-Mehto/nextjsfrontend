@@ -141,8 +141,13 @@ const ImageToPdf = () => {
       }
 
       const files = e.target.files ? e.target.files : e.clipboardData.items;
-      if (!files.length) return;
-      else if (e.target.files) {
+      setShow(true);
+      if (!files.length) {
+        setselectedImage([]);
+        setIsProcessing(false);
+        setShow(false);
+        return;
+      } else if (e.target.files) {
         if (!validImageTypes.includes(e.target.files[0].type)) {
           toast.error(`🚀${t("componentTrans.error3")}🚀`, {
             position: "top-center",
@@ -154,9 +159,12 @@ const ImageToPdf = () => {
             progress: undefined,
             theme: "light",
           });
+          setselectedImage([]);
+          setIsProcessing(false);
+          setShow(false);
           return;
         }
-        setShow(true);
+
         if (e.target.files) {
           for (let i = 0; i < e.target.files.length; i++) {
             setselectedImage((preValue) => {

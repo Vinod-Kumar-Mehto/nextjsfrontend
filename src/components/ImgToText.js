@@ -205,13 +205,17 @@ const ImgToText = () => {
           progress: undefined,
           theme: "light",
         });
-
         return;
       }
 
       const files = e.target.files ? e.target.files : e.clipboardData.items;
-      if (!files.length) return;
-      else if (e.target.files) {
+      setShow(true);
+      if (!files.length) {
+        setSelectedImage([]);
+        setIsProcessing(false);
+        setShow(false);
+        return;
+      } else if (e.target.files) {
         if (!validImageTypes.includes(e.target.files[0].type)) {
           toast.error(`🚀${t("componentTrans.error4")}🚀`, {
             position: "top-center",
@@ -223,10 +227,12 @@ const ImgToText = () => {
             progress: undefined,
             theme: "light",
           });
+          setSelectedImage([]);
+          setIsProcessing(false);
+          setShow(false);
           return;
         }
 
-        setShow(true);
         for (let i = 0; i < e.target.files.length; i++) {
           setSelectedImage((preValue) => {
             return [
@@ -280,11 +286,23 @@ const ImgToText = () => {
   );
 
   useEffect(() => {
-    document.addEventListener("paste", handleChange);
-    return () => {
-      document.removeEventListener("paste", handleChange);
+    // Define the paste handler
+    const handlePaste = (event) => {
+      if (!convertShow) {
+        handleChange(event); // Only call handleChange if convertShow is false
+      } else {
+        event.preventDefault(); // Prevent pasting if convertShow is true
+      }
     };
-  }, [selectedImage]);
+
+    // Add the paste event listener
+    document.addEventListener("paste", handlePaste);
+
+    // Cleanup function to remove the event listener
+    return () => {
+      document.removeEventListener("paste", handlePaste);
+    };
+  }, [convertShow, handleChange]);
 
   const throttleCallOneDownload = (url, name) => {
     if (doubleClicks === true) {
