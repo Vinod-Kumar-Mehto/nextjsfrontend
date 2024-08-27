@@ -302,7 +302,7 @@ const ImgToText = () => {
     return () => {
       document.removeEventListener("paste", handlePaste);
     };
-  }, [convertShow, handleChange]);
+  }, [convertShow, handleChange, isProcessing]);
 
   const throttleCallOneDownload = (url, name) => {
     if (doubleClicks === true) {
