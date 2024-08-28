@@ -22,6 +22,9 @@ const paths = [
   "/wordtopdf",
   "/faq",
   "/about",
+  "/termsncondition",
+  "/privacypolicy",
+  "/contactus",
 ];
 
 const generateSitemap = () => {
@@ -31,7 +34,7 @@ const generateSitemap = () => {
         url: `${process.env.NEXT_PUBLIC_BASE_URL}${
           lang.code === "en" ? "" : `/${lang.code}`
         }${path}`,
-        lastModified: new Date(2024, 7, 11),
+        lastModified: new Date(2024, 7, 25),
         alternates: {
           languages: languages.reduce((acc, l) => {
             acc[l.code] = `${process.env.NEXT_PUBLIC_BASE_URL}${
