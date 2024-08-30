@@ -6,7 +6,6 @@ import { ToastContainer } from "react-toastify";
 import "react-toastify/ReactToastify.min.css";
 import { NextIntlClientProvider } from "next-intl";
 import { getMessages } from "next-intl/server";
-import CookieConsent from "@/components/CookieConsent";
 import { getTranslations } from "next-intl/server";
 const inter = Inter({ subsets: ["latin"] });
 
@@ -51,7 +50,6 @@ export default async function RootLayout({ children, params }) {
         <NextIntlClientProvider messages={messages}>
           <Header />
           {children}
-          <CookieConsent />
           <Footer />
           <ToastContainer />
         </NextIntlClientProvider>

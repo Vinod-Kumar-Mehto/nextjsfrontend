@@ -170,7 +170,7 @@ const PdfToWord = () => {
               ...preValue,
               {
                 fileData: e.target.files[i],
-                filename: e.target.files[i].name,
+                filename: e.target.files[i].name.slice(0, 10),
                 filetype: e.target.files[i].type,
                 filesize: e.target.files[i].size / (1024 * 1024),
                 id: uuidv4(),
@@ -301,7 +301,7 @@ const PdfToWord = () => {
                           className={styles.pdffileicon}
                         />
                         <div className={styles.pdffileNameIma}>
-                          <h5>{pdffile.filename.split(/[_\-.]/)[0]}</h5>
+                          <h5>{pdffile.filename.split(/[_\-.]/)}.doc</h5>
 
                           <p className={styles.paragraphsize}>
                             {pdffile.filesize.toFixed(1)}MB
@@ -369,7 +369,7 @@ const PdfToWord = () => {
                           className={styles.pdffileicon2}
                         />
 
-                        <h6>{res.WordName}</h6>
+                        <h6>{res.WordName.slice(0, 10)}.doc</h6>
                       </div>
                       <br />
                       <div className={styles.pdfbuttonDC}>

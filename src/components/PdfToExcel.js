@@ -161,7 +161,7 @@ const PdfToExcel = () => {
               ...preValue,
               {
                 fileData: e.target.files[i],
-                filename: e.target.files[i].name,
+                filename: e.target.files[i].name.slice(0, 10),
                 filetype: e.target.files[i].type,
                 filesize: e.target.files[i].size / (1024 * 1024),
                 id: uuidv4(),
@@ -262,7 +262,10 @@ const PdfToExcel = () => {
                           className={styles.pdffileicon}
                         />
                         <div className={styles.pdffilenameima}>
-                          <h5>{pdffile.filename.split(/[_\-.]/)[0]}</h5>
+                          <h5>
+                            {pdffile.filename.split(/[_\-.]/)}.
+                            {pdffile.filetype.split("/")[1]}
+                          </h5>
                           <p>{pdffile.filesize.toFixed(1)}MB</p>
                         </div>
                       </div>
@@ -325,7 +328,10 @@ const PdfToExcel = () => {
                           alt="thumb"
                           className={styles.pdffileicon2}
                         />
-                        <h6>{res.WordName}</h6>
+                        <h6>
+                          {res.name[index].filename.split(/[_\-.]/)}.
+                          {res.name[index].filetype.split("/")[1]}
+                        </h6>
                       </div>
                       <br />
                       <div className={styles.pdfbuttonDC}>

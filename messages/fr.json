@@ -551,7 +551,6 @@
         "title": "1. Informations que Nous Collectons",
         "personalData": {
           "title": "Données Personnelles",
-          "paragraph1": "Vous serez invité à autoriser les cookies lorsque vous visiterez ImageOCR.info, mais le choix de le faire vous appartient entièrement.",
           "paragraph2": "Nous ne visualisons pas les fichiers que vous téléchargez en utilisant le service ImageOCR.info. Cependant, nous pouvons consulter les métadonnées de votre fichier (extensions de fichier, tailles, etc., mais pas le contenu) pour fournir un support technique."
         },
         "cookies": {
@@ -610,12 +609,5 @@
       "title": "Confidentialité et Politiques",
       "description": "Cette page décrit nos politiques en matière de confidentialité."
     }
-  },
-  "cookieconsentpage": {
-    "header": "CE SITE UTILISE DES COOKIES",
-    "paragraph1": "Nous utilisons des cookies pour améliorer votre expérience, personnaliser le contenu et les publicités, fournir des fonctionnalités sur les réseaux sociaux et analyser notre trafic. Les cookies sont de petits fichiers de données placés sur votre appareil qui nous aident à améliorer la fonctionnalité et l'expérience utilisateur de notre site web. Vous consentez à l'utilisation de nos cookies si vous continuez à utiliser notre site web.",
-    "link": "Politique de Confidentialité",
-    "Name1": "Accepter",
-    "Name2": "Refuser"
   }
 }

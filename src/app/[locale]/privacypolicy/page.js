@@ -39,9 +39,6 @@ const PrivacyPolicy = async () => {
             {t("sections.informationWeCollect.personalData.title")}
           </h3>
           <p className={styles.paragraph}>
-            {t("sections.informationWeCollect.personalData.paragraph1")}
-          </p>
-          <p className={styles.paragraph}>
             {t("sections.informationWeCollect.personalData.paragraph2")}
           </p>
 
