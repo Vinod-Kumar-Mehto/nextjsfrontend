@@ -1,671 +1,403 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url>
-  <loc>https://imageocr.info/</loc>
-  <lastmod>2024-08-29T06:25:34+00:00</lastmod>
-  <priority>1.00</priority>
+  <loc>https://imageocr.info/</loc>  
 </url>
 <url>
   <loc>https://imageocr.info/pdftoimage</loc>
-  <lastmod>2024-08-29T06:25:34+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/pdftoword</loc>
-  <lastmod>2024-08-29T06:25:34+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/imagetotext</loc>
-  <lastmod>2024-08-29T06:25:34+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/pdftoexcel</loc>
-  <lastmod>2024-08-29T06:25:34+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/imagetopdf</loc>
-  <lastmod>2024-08-29T06:25:34+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/wordtopdf</loc>
-  <lastmod>2024-08-29T06:25:34+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/about</loc>
-  <lastmod>2024-08-29T06:25:34+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/faq</loc>
-  <lastmod>2024-08-29T06:25:34+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/termsncondition</loc>
-  <lastmod>2024-08-29T06:25:34+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/privacypolicy</loc>
-  <lastmod>2024-08-29T06:25:34+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/contactus</loc>
-  <lastmod>2024-08-29T06:25:34+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/de</loc>
-  <lastmod>2024-08-29T06:27:51+00:00</lastmod>
-  <priority>1.00</priority>
 </url>
 <url>
   <loc>https://imageocr.info/de/pdftoimage</loc>
-  <lastmod>2024-08-29T06:27:51+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/de/pdftoword</loc>
-  <lastmod>2024-08-29T06:27:51+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/de/imagetotext</loc>
-  <lastmod>2024-08-29T06:27:51+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/de/pdftoexcel</loc>
-  <lastmod>2024-08-29T06:27:51+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/de/imagetopdf</loc>
-  <lastmod>2024-08-29T06:27:51+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/de/wordtopdf</loc>
-  <lastmod>2024-08-29T06:27:51+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/de/about</loc>
-  <lastmod>2024-08-29T06:27:51+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/de/faq</loc>
-  <lastmod>2024-08-29T06:27:51+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/de/termsncondition</loc>
-  <lastmod>2024-08-29T06:27:51+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/de/privacypolicy</loc>
-  <lastmod>2024-08-29T06:27:51+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/de/contactus</loc>
-  <lastmod>2024-08-29T06:27:51+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/es</loc>
-  <lastmod>2024-08-29T06:28:28+00:00</lastmod>
-  <priority>1.00</priority>
 </url>
 <url>
   <loc>https://imageocr.info/es/pdftoimage</loc>
-  <lastmod>2024-08-29T06:28:28+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/es/pdftoword</loc>
-  <lastmod>2024-08-29T06:28:28+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/es/imagetotext</loc>
-  <lastmod>2024-08-29T06:28:28+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/es/pdftoexcel</loc>
-  <lastmod>2024-08-29T06:28:28+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/es/imagetopdf</loc>
-  <lastmod>2024-08-29T06:28:28+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/es/wordtopdf</loc>
-  <lastmod>2024-08-29T06:28:28+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/es/about</loc>
-  <lastmod>2024-08-29T06:28:28+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/es/faq</loc>
-  <lastmod>2024-08-29T06:28:28+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/es/termsncondition</loc>
-  <lastmod>2024-08-29T06:28:28+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/es/privacypolicy</loc>
-  <lastmod>2024-08-29T06:28:28+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/es/contactus</loc>
-  <lastmod>2024-08-29T06:28:28+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/fr</loc>
-  <lastmod>2024-08-29T06:28:50+00:00</lastmod>
-  <priority>1.00</priority>
 </url>
 <url>
   <loc>https://imageocr.info/fr/pdftoimage</loc>
-  <lastmod>2024-08-29T06:28:50+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/fr/pdftoword</loc>
-  <lastmod>2024-08-29T06:28:50+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/fr/imagetotext</loc>
-  <lastmod>2024-08-29T06:28:50+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/fr/pdftoexcel</loc>
-  <lastmod>2024-08-29T06:28:50+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/fr/imagetopdf</loc>
-  <lastmod>2024-08-29T06:28:50+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/fr/wordtopdf</loc>
-  <lastmod>2024-08-29T06:28:50+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/fr/about</loc>
-  <lastmod>2024-08-29T06:28:50+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/fr/faq</loc>
-  <lastmod>2024-08-29T06:28:50+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/fr/termsncondition</loc>
-  <lastmod>2024-08-29T06:28:50+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/fr/privacypolicy</loc>
-  <lastmod>2024-08-29T06:28:50+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/fr/contactus</loc>
-  <lastmod>2024-08-29T06:28:50+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/it</loc>
-  <lastmod>2024-08-29T06:29:11+00:00</lastmod>
-  <priority>1.00</priority>
 </url>
 <url>
   <loc>https://imageocr.info/it/pdftoimage</loc>
-  <lastmod>2024-08-29T06:29:11+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/it/pdftoword</loc>
-  <lastmod>2024-08-29T06:29:11+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/it/imagetotext</loc>
-  <lastmod>2024-08-29T06:29:11+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/it/pdftoexcel</loc>
-  <lastmod>2024-08-29T06:29:11+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/it/imagetopdf</loc>
-  <lastmod>2024-08-29T06:29:11+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/it/wordtopdf</loc>
-  <lastmod>2024-08-29T06:29:11+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/it/about</loc>
-  <lastmod>2024-08-29T06:29:11+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/it/faq</loc>
-  <lastmod>2024-08-29T06:29:11+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/it/termsncondition</loc>
-  <lastmod>2024-08-29T06:29:11+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/it/privacypolicy</loc>
-  <lastmod>2024-08-29T06:29:11+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/it/contactus</loc>
-  <lastmod>2024-08-29T06:29:11+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/ja</loc>
-  <lastmod>2024-08-29T06:29:37+00:00</lastmod>
-  <priority>1.00</priority>
 </url>
 <url>
   <loc>https://imageocr.info/ja/pdftoimage</loc>
-  <lastmod>2024-08-29T06:29:37+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/ja/pdftoword</loc>
-  <lastmod>2024-08-29T06:29:37+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/ja/imagetotext</loc>
-  <lastmod>2024-08-29T06:29:37+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/ja/pdftoexcel</loc>
-  <lastmod>2024-08-29T06:29:37+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/ja/imagetopdf</loc>
-  <lastmod>2024-08-29T06:29:37+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/ja/wordtopdf</loc>
-  <lastmod>2024-08-29T06:29:37+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/ja/about</loc>
-  <lastmod>2024-08-29T06:29:37+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/ja/faq</loc>
-  <lastmod>2024-08-29T06:29:37+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/ja/termsncondition</loc>
-  <lastmod>2024-08-29T06:29:37+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/ja/privacypolicy</loc>
-  <lastmod>2024-08-29T06:29:37+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/ja/contactus</loc>
-  <lastmod>2024-08-29T06:29:37+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
-
 <url>
   <loc>https://imageocr.info/ko</loc>
-  <lastmod>2024-08-29T06:30:25+00:00</lastmod>
-  <priority>1.00</priority>
 </url>
 <url>
   <loc>https://imageocr.info/ko/pdftoimage</loc>
-  <lastmod>2024-08-29T06:30:25+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/ko/pdftoword</loc>
-  <lastmod>2024-08-29T06:30:25+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/ko/imagetotext</loc>
-  <lastmod>2024-08-29T06:30:25+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/ko/pdftoexcel</loc>
-  <lastmod>2024-08-29T06:30:25+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/ko/imagetopdf</loc>
-  <lastmod>2024-08-29T06:30:25+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/ko/wordtopdf</loc>
-  <lastmod>2024-08-29T06:30:25+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/ko/about</loc>
-  <lastmod>2024-08-29T06:30:25+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/ko/faq</loc>
-  <lastmod>2024-08-29T06:30:25+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/ko/termsncondition</loc>
-  <lastmod>2024-08-29T06:30:25+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/ko/privacypolicy</loc>
-  <lastmod>2024-08-29T06:30:25+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/ko/contactus</loc>
-  <lastmod>2024-08-29T06:30:25+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
-
 <url>
   <loc>https://imageocr.info/pl</loc>
-  <lastmod>2024-08-29T06:30:48+00:00</lastmod>
-  <priority>1.00</priority>
 </url>
 <url>
   <loc>https://imageocr.info/pl/pdftoimage</loc>
-  <lastmod>2024-08-29T06:30:48+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/pl/pdftoword</loc>
-  <lastmod>2024-08-29T06:30:48+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/pl/imagetotext</loc>
-  <lastmod>2024-08-29T06:30:48+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/pl/pdftoexcel</loc>
-  <lastmod>2024-08-29T06:30:48+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/pl/imagetopdf</loc>
-  <lastmod>2024-08-29T06:30:48+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/pl/wordtopdf</loc>
-  <lastmod>2024-08-29T06:30:48+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/pl/about</loc>
-  <lastmod>2024-08-29T06:30:48+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/pl/faq</loc>
-  <lastmod>2024-08-29T06:30:48+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/pl/termsncondition</loc>
-  <lastmod>2024-08-29T06:30:48+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/pl/privacypolicy</loc>
-  <lastmod>2024-08-29T06:30:48+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/pl/contactus</loc>
-  <lastmod>2024-08-29T06:30:48+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
-
 <url>
   <loc>https://imageocr.info/pt</loc>
-  <lastmod>2024-08-29T06:31:14+00:00</lastmod>
-  <priority>1.00</priority>
 </url>
 <url>
   <loc>https://imageocr.info/pt/pdftoimage</loc>
-  <lastmod>2024-08-29T06:31:14+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/pt/pdftoword</loc>
-  <lastmod>2024-08-29T06:31:14+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/pt/imagetotext</loc>
-  <lastmod>2024-08-29T06:31:14+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/pt/pdftoexcel</loc>
-  <lastmod>2024-08-29T06:31:14+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/pt/imagetopdf</loc>
-  <lastmod>2024-08-29T06:31:14+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/pt/wordtopdf</loc>
-  <lastmod>2024-08-29T06:31:14+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/pt/about</loc>
-  <lastmod>2024-08-29T06:31:14+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/pt/faq</loc>
-  <lastmod>2024-08-29T06:31:14+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/pt/termsncondition</loc>
-  <lastmod>2024-08-29T06:31:14+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/pt/privacypolicy</loc>
-  <lastmod>2024-08-29T06:31:14+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/pt/contactus</loc>
-  <lastmod>2024-08-29T06:31:14+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
-
 <url>
   <loc>https://imageocr.info/ru</loc>
-  <lastmod>2024-08-29T06:31:32+00:00</lastmod>
-  <priority>1.00</priority>
 </url>
 <url>
   <loc>https://imageocr.info/ru/pdftoimage</loc>
-  <lastmod>2024-08-29T06:31:32+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/ru/pdftoword</loc>
-  <lastmod>2024-08-29T06:31:32+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/ru/imagetotext</loc>
-  <lastmod>2024-08-29T06:31:32+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/ru/pdftoexcel</loc>
-  <lastmod>2024-08-29T06:31:32+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/ru/imagetopdf</loc>
-  <lastmod>2024-08-29T06:31:32+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/ru/wordtopdf</loc>
-  <lastmod>2024-08-29T06:31:32+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/ru/about</loc>
-  <lastmod>2024-08-29T06:31:32+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/ru/faq</loc>
-  <lastmod>2024-08-29T06:31:32+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/ru/termsncondition</loc>
-  <lastmod>2024-08-29T06:31:32+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/ru/privacypolicy</loc>
-  <lastmod>2024-08-29T06:31:32+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/ru/contactus</loc>
-  <lastmod>2024-08-29T06:31:32+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/zh</loc>
-  <lastmod>2024-08-29T06:31:57+00:00</lastmod>
-  <priority>1.00</priority>
 </url>
 <url>
   <loc>https://imageocr.info/zh/pdftoimage</loc>
-  <lastmod>2024-08-29T06:31:57+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/zh/pdftoword</loc>
-  <lastmod>2024-08-29T06:31:57+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/zh/imagetotext</loc>
-  <lastmod>2024-08-29T06:31:57+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/zh/pdftoexcel</loc>
-  <lastmod>2024-08-29T06:31:57+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/zh/imagetopdf</loc>
-  <lastmod>2024-08-29T06:31:57+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/zh/wordtopdf</loc>
-  <lastmod>2024-08-29T06:31:57+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/zh/about</loc>
-  <lastmod>2024-08-29T06:31:57+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/zh/faq</loc>
-  <lastmod>2024-08-29T06:31:57+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/zh/termsncondition</loc>
-  <lastmod>2024-08-29T06:31:57+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/zh/privacypolicy</loc>
-  <lastmod>2024-08-29T06:31:57+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://imageocr.info/zh/contactus</loc>
-  <lastmod>2024-08-29T06:31:57+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 </urlset>
