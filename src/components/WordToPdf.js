@@ -301,7 +301,7 @@ const PdfToWord = () => {
                           className={styles.pdffileicon}
                         />
                         <div className={styles.pdffileNameIma}>
-                          <h5>{pdffile.filename.split(/[_\-.]/)}.doc</h5>
+                          <h5>{pdffile.filename.split(/[_\-.]/)}</h5>
 
                           <p className={styles.paragraphsize}>
                             {pdffile.filesize.toFixed(1)}MB
@@ -369,7 +369,7 @@ const PdfToWord = () => {
                           className={styles.pdffileicon2}
                         />
 
-                        <h6>{res.WordName.slice(0, 10)}.doc</h6>
+                        <h6>{res.WordName.slice(0, 10)}</h6>
                       </div>
                       <br />
                       <div className={styles.pdfbuttonDC}>
