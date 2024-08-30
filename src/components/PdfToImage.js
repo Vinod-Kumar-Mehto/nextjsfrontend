@@ -158,7 +158,7 @@ const PdfToImage = () => {
               ...preValue,
               {
                 fileData: e.target.files[i],
-                filename: e.target.files[i].name,
+                filename: e.target.files[i].name.slice(0, 10),
                 filetype: e.target.files[i].type,
                 filesize: e.target.files[i].size / (1024 * 1024),
                 fileImage: URL.createObjectURL(e.target.files[i]),
@@ -279,7 +279,10 @@ const PdfToImage = () => {
                           className={styles.pdffileicon}
                         />
                         <div className={styles.pdffilenameima}>
-                          <h5>{img.filename.split(/[_\-.]/)[0]}</h5>
+                          <h5>
+                            {img.filename.split(/[_\-.]/)}.
+                            {img.filetype.split("/")[1]}
+                          </h5>
                           <p>{img.filesize.toFixed(1)}MB</p>
                         </div>
                       </div>
