@@ -553,7 +553,6 @@
         "title": "1. 我们收集的信息",
         "personalData": {
           "title": "个人数据",
-          "paragraph1": "当您访问 imageocr.info 时，会提示您允许使用 cookies，但是否允许完全由您决定。",
           "paragraph2": "我们不会查看您使用 imageocr.info 服务上传的文件。然而，我们可能会查看您文件的元数据（如文件扩展名、大小等，但不包括内容）以提供技术支持。"
         },
         "cookies": {
@@ -612,12 +611,5 @@
       "title": "隐私和政策",
       "description": "本页概述了我们的隐私政策。"
     }
-  },
-  "cookieconsentpage": {
-    "header": "本网站使用 Cookies",
-    "paragraph1": "我们使用 Cookies 来提升您的体验、个性化内容和广告、提供社交媒体功能，并分析我们的流量。Cookies 是放置在您的设备上的小型数据文件，帮助我们改善网站功能和用户体验。如果您继续使用我们的网站，即表示您同意我们的 Cookies。",
-    "link": "隐私政策",
-    "Name1": "接受",
-    "Name2": "拒绝"
   }
 }

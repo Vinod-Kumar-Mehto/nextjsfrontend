@@ -558,7 +558,6 @@
         "title": "1. Information We Collect",
         "personalData": {
           "title": "Personal Data",
-          "paragraph1": "You will be prompted to allow cookies when you visit imageocr.info, but the choice to do so is entirely yours.",
           "paragraph2": "We do not view the files that you upload using the imageocr.info service. However, we may view your file's metadata (file extensions, sizes, etc., but not the content) to provide technical support."
         },
         "cookies": {
@@ -617,12 +616,5 @@
       "title": "Privacy and Policy",
       "description": "This page outlines our policies on privacy."
     }
-  },
-  "cookieconsentpage": {
-    "header": "THIS WEBSITE USES COOKIES",
-    "paragraph1": "We use cookies to enhance your experience, personalize content and ads, provide social media features, and analyze our traffic. Cookies are small data files placed on your device that help us improve our website's functionality and user experience. You consent to our cookies if you continue to use our website.",
-    "link": "PrivacyPolicy",
-    "Name1": "Accept",
-    "Name2": "Decline"
   }
 }

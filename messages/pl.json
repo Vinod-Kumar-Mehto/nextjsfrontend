@@ -550,7 +550,6 @@
         "title": "1. Informacje, które zbieramy",
         "personalData": {
           "title": "Dane osobowe",
-          "paragraph1": "Podczas odwiedzania imageocr.info zostaniesz poproszony o zgodę na używanie plików cookie, ale decyzja o ich akceptacji należy wyłącznie do Ciebie.",
           "paragraph2": "Nie przeglądamy plików, które przesyłasz za pomocą usługi imageocr.info. Możemy jednak przeglądać metadane Twojego pliku (rozszerzenia plików, rozmiary itp., ale nie zawartość), aby zapewnić wsparcie techniczne."
         },
         "cookies": {
@@ -609,12 +608,5 @@
       "title": "Polityka prywatności",
       "description": "Ta strona opisuje naszą politykę prywatności."
     }
-  },
-  "cookieconsentpage": {
-    "header": "TA STRONA UŻYWA PLIKÓW COOKIE",
-    "paragraph1": "Używamy plików cookie, aby poprawić Twoje doświadczenia, spersonalizować treści i reklamy, zapewnić funkcje mediów społecznościowych oraz analizować nasz ruch. Pliki cookie to małe pliki danych umieszczane na Twoim urządzeniu, które pomagają nam poprawić funkcjonalność i doświadczenie użytkownika naszej strony internetowej. Kontynuując korzystanie z naszej strony, wyrażasz zgodę na używanie plików cookie.",
-    "link": "Polityka Prywatności",
-    "Name1": "Akceptuj",
-    "Name2": "Odrzuć"
   }
 }
