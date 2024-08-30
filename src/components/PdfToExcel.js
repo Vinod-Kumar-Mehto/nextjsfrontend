@@ -328,10 +328,7 @@ const PdfToExcel = () => {
                           alt="thumb"
                           className={styles.pdffileicon2}
                         />
-                        <h6>
-                          {res.name[index].filename.split(/[_\-.]/)}.
-                          {res.name[index].filetype.split("/")[1]}
-                        </h6>
+                        <h6>{res.WordName}</h6>
                       </div>
                       <br />
                       <div className={styles.pdfbuttonDC}>

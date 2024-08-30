@@ -369,7 +369,7 @@ const PdfToWord = () => {
                           className={styles.pdffileicon2}
                         />
 
-                        <h6>{res.WordName.slice(0, 10)}</h6>
+                        <h6>{res.WordName}</h6>
                       </div>
                       <br />
                       <div className={styles.pdfbuttonDC}>
