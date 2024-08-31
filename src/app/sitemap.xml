@@ -4,400 +4,402 @@
       xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
 <url>
-  <loc>https://imageocr.info/</loc>  
+  <loc>https://www.imageocr.info/</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/pdftoimage</loc>
+  <loc>https://www.imageocr.info/de</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/pdftoword</loc>
+  <loc>https://www.imageocr.info/es</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/imagetotext</loc>
+  <loc>https://www.imageocr.info/fr</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/pdftoexcel</loc>
+  <loc>https://www.imageocr.info/it</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/imagetopdf</loc>
+  <loc>https://www.imageocr.info/ja</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/wordtopdf</loc>
+  <loc>https://www.imageocr.info/ko</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/about</loc>
+  <loc>https://www.imageocr.info/pl</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/faq</loc>
+  <loc>https://www.imageocr.info/pt</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/termsncondition</loc>
+  <loc>https://www.imageocr.info/ru</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/privacypolicy</loc>
+  <loc>https://www.imageocr.info/zh</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/contactus</loc>
+  <loc>https://www.imageocr.info/pdftoimage</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/de</loc>
+  <loc>https://www.imageocr.info/de/pdftoimage</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/de/pdftoimage</loc>
+  <loc>https://www.imageocr.info/es/pdftoimage</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/de/pdftoword</loc>
+  <loc>https://www.imageocr.info/fr/pdftoimage</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/de/imagetotext</loc>
+  <loc>https://www.imageocr.info/it/pdftoimage</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/de/pdftoexcel</loc>
+  <loc>https://www.imageocr.info/ja/pdftoimage</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/de/imagetopdf</loc>
+  <loc>https://www.imageocr.info/ko/pdftoimage</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/de/wordtopdf</loc>
+  <loc>https://www.imageocr.info/pl/pdftoimage</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/de/about</loc>
+  <loc>https://www.imageocr.info/pt/pdftoimage</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/de/faq</loc>
+  <loc>https://www.imageocr.info/ru/pdftoimage</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/de/termsncondition</loc>
+  <loc>https://www.imageocr.info/zh/pdftoimage</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/de/privacypolicy</loc>
+  <loc>https://www.imageocr.info/pdftoword</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/de/contactus</loc>
+  <loc>https://www.imageocr.info/de/pdftoword</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/es</loc>
+  <loc>https://www.imageocr.info/es/pdftoword</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/es/pdftoimage</loc>
+  <loc>https://www.imageocr.info/fr/pdftoword</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/es/pdftoword</loc>
+  <loc>https://www.imageocr.info/it/pdftoword</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/es/imagetotext</loc>
+  <loc>https://www.imageocr.info/ja/pdftoword</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/es/pdftoexcel</loc>
+  <loc>https://www.imageocr.info/ko/pdftoword</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/es/imagetopdf</loc>
+  <loc>https://www.imageocr.info/pl/pdftoword</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/es/wordtopdf</loc>
+  <loc>https://www.imageocr.info/pt/pdftoword</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/es/about</loc>
+  <loc>https://www.imageocr.info/ru/pdftoword</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/es/faq</loc>
+  <loc>https://www.imageocr.info/zh/pdftoword</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/es/termsncondition</loc>
+  <loc>https://www.imageocr.info/imagetotext</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/es/privacypolicy</loc>
+  <loc>https://www.imageocr.info/de/imagetotext</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/es/contactus</loc>
+  <loc>https://www.imageocr.info/es/imagetotext</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/fr</loc>
+  <loc>https://www.imageocr.info/fr/imagetotext</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/fr/pdftoimage</loc>
+  <loc>https://www.imageocr.info/it/imagetotext</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/fr/pdftoword</loc>
+  <loc>https://www.imageocr.info/ja/imagetotext</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/fr/imagetotext</loc>
+  <loc>https://www.imageocr.info/ko/imagetotext</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/fr/pdftoexcel</loc>
+  <loc>https://www.imageocr.info/pl/imagetotext</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/fr/imagetopdf</loc>
+  <loc>https://www.imageocr.info/pt/imagetotext</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/fr/wordtopdf</loc>
+  <loc>https://www.imageocr.info/ru/imagetotext</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/fr/about</loc>
+  <loc>https://www.imageocr.info/zh/imagetotext</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/fr/faq</loc>
+  <loc>https://www.imageocr.info/pdftoexcel</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/fr/termsncondition</loc>
+  <loc>https://www.imageocr.info/de/pdftoexcel</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/fr/privacypolicy</loc>
+  <loc>https://www.imageocr.info/es/pdftoexcel</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/fr/contactus</loc>
+  <loc>https://www.imageocr.info/fr/pdftoexcel</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/it</loc>
+  <loc>https://www.imageocr.info/it/pdftoexcel</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/it/pdftoimage</loc>
+  <loc>https://www.imageocr.info/ja/pdftoexcel</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/it/pdftoword</loc>
+  <loc>https://www.imageocr.info/ko/pdftoexcel</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/it/imagetotext</loc>
+  <loc>https://www.imageocr.info/pl/pdftoexcel</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/it/pdftoexcel</loc>
+  <loc>https://www.imageocr.info/pt/pdftoexcel</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/it/imagetopdf</loc>
+  <loc>https://www.imageocr.info/ru/pdftoexcel</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/it/wordtopdf</loc>
+  <loc>https://www.imageocr.info/zh/pdftoexcel</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/it/about</loc>
+  <loc>https://www.imageocr.info/imagetopdf</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/it/faq</loc>
+  <loc>https://www.imageocr.info/de/imagetopdf</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/it/termsncondition</loc>
+  <loc>https://www.imageocr.info/es/imagetopdf</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/it/privacypolicy</loc>
+  <loc>https://www.imageocr.info/fr/imagetopdf</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/it/contactus</loc>
+  <loc>https://www.imageocr.info/it/imagetopdf</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/ja</loc>
+  <loc>https://www.imageocr.info/ja/imagetopdf</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/ja/pdftoimage</loc>
+  <loc>https://www.imageocr.info/ko/imagetopdf</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/ja/pdftoword</loc>
+  <loc>https://www.imageocr.info/pl/imagetopdf</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/ja/imagetotext</loc>
+  <loc>https://www.imageocr.info/pt/imagetopdf</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/ja/pdftoexcel</loc>
+  <loc>https://www.imageocr.info/ru/imagetopdf</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/ja/imagetopdf</loc>
+  <loc>https://www.imageocr.info/zh/imagetopdf</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/ja/wordtopdf</loc>
+  <loc>https://www.imageocr.info/wordtopdf</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/ja/about</loc>
+  <loc>https://www.imageocr.info/de/wordtopdf</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/ja/faq</loc>
+  <loc>https://www.imageocr.info/es/wordtopdf</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/ja/termsncondition</loc>
+  <loc>https://www.imageocr.info/fr/wordtopdf</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/ja/privacypolicy</loc>
+  <loc>https://www.imageocr.info/it/wordtopdf</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/ja/contactus</loc>
+  <loc>https://www.imageocr.info/ja/wordtopdf</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/ko</loc>
+  <loc>https://www.imageocr.info/ko/wordtopdf</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/ko/pdftoimage</loc>
+  <loc>https://www.imageocr.info/pl/wordtopdf</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/ko/pdftoword</loc>
+  <loc>https://www.imageocr.info/pt/wordtopdf</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/ko/imagetotext</loc>
+  <loc>https://www.imageocr.info/ru/wordtopdf</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/ko/pdftoexcel</loc>
+  <loc>https://www.imageocr.info/zh/wordtopdf</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/ko/imagetopdf</loc>
+  <loc>https://www.imageocr.info/about</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/ko/wordtopdf</loc>
+  <loc>https://www.imageocr.info/de/about</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/ko/about</loc>
+  <loc>https://www.imageocr.info/es/about</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/ko/faq</loc>
+  <loc>https://www.imageocr.info/fr/about</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/ko/termsncondition</loc>
+  <loc>https://www.imageocr.info/it/about</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/ko/privacypolicy</loc>
+  <loc>https://www.imageocr.info/ja/about</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/ko/contactus</loc>
+  <loc>https://www.imageocr.info/ko/about</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/pl</loc>
+  <loc>https://www.imageocr.info/pl/about</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/pl/pdftoimage</loc>
+  <loc>https://www.imageocr.info/pt/about</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/pl/pdftoword</loc>
+  <loc>https://www.imageocr.info/ru/about</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/pl/imagetotext</loc>
+  <loc>https://www.imageocr.info/zh/about</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/pl/pdftoexcel</loc>
+  <loc>https://www.imageocr.info/faq</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/pl/imagetopdf</loc>
+  <loc>https://www.imageocr.info/de/faq</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/pl/wordtopdf</loc>
+  <loc>https://www.imageocr.info/es/faq</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/pl/about</loc>
+  <loc>https://www.imageocr.info/fr/faq</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/pl/faq</loc>
+  <loc>https://www.imageocr.info/it/faq</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/pl/termsncondition</loc>
+  <loc>https://www.imageocr.info/ja/faq</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/pl/privacypolicy</loc>
+  <loc>https://www.imageocr.info/ko/faq</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/pl/contactus</loc>
+  <loc>https://www.imageocr.info/pl/faq</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/pt</loc>
+  <loc>https://www.imageocr.info/pt/faq</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/pt/pdftoimage</loc>
+  <loc>https://www.imageocr.info/ru/faq</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/pt/pdftoword</loc>
+  <loc>https://www.imageocr.info/zh/faq</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/pt/imagetotext</loc>
+  <loc>https://www.imageocr.info/termsncondition</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/pt/pdftoexcel</loc>
+  <loc>https://www.imageocr.info/de/termsncondition</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/pt/imagetopdf</loc>
+  <loc>https://www.imageocr.info/es/termsncondition</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/pt/wordtopdf</loc>
+  <loc>https://www.imageocr.info/fr/termsncondition</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/pt/about</loc>
+  <loc>https://www.imageocr.info/it/termsncondition</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/pt/faq</loc>
+  <loc>https://www.imageocr.info/ja/termsncondition</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/pt/termsncondition</loc>
+  <loc>https://www.imageocr.info/ko/termsncondition</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/pt/privacypolicy</loc>
+  <loc>https://www.imageocr.info/pl/termsncondition</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/pt/contactus</loc>
+  <loc>https://www.imageocr.info/pt/termsncondition</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/ru</loc>
+  <loc>https://www.imageocr.info/ru/termsncondition</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/ru/pdftoimage</loc>
+  <loc>https://www.imageocr.info/zh/termsncondition</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/ru/pdftoword</loc>
+  <loc>https://www.imageocr.info/privacypolicy</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/ru/imagetotext</loc>
+  <loc>https://www.imageocr.info/de/privacypolicy</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/ru/pdftoexcel</loc>
+  <loc>https://www.imageocr.info/es/privacypolicy</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/ru/imagetopdf</loc>
+  <loc>https://www.imageocr.info/fr/privacypolicy</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/ru/wordtopdf</loc>
+  <loc>https://www.imageocr.info/it/privacypolicy</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/ru/about</loc>
+  <loc>https://www.imageocr.info/ja/privacypolicy</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/ru/faq</loc>
+  <loc>https://www.imageocr.info/ko/privacypolicy</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/ru/termsncondition</loc>
+  <loc>https://www.imageocr.info/pl/privacypolicy</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/ru/privacypolicy</loc>
+  <loc>https://www.imageocr.info/pt/privacypolicy</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/ru/contactus</loc>
+  <loc>https://www.imageocr.info/ru/privacypolicy</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/zh</loc>
+  <loc>https://www.imageocr.info/zh/privacypolicy</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/zh/pdftoimage</loc>
+  <loc>https://www.imageocr.info/contactus</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/zh/pdftoword</loc>
+  <loc>https://www.imageocr.info/de/contactus</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/zh/imagetotext</loc>
+  <loc>https://www.imageocr.info/es/contactus</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/zh/pdftoexcel</loc>
+  <loc>https://www.imageocr.info/fr/contactus</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/zh/imagetopdf</loc>
+  <loc>https://www.imageocr.info/it/contactus</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/zh/wordtopdf</loc>
+  <loc>https://www.imageocr.info/ja/contactus</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/zh/about</loc>
+  <loc>https://www.imageocr.info/ko/contactus</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/zh/faq</loc>
+  <loc>https://www.imageocr.info/pl/contactus</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/zh/termsncondition</loc>
+  <loc>https://www.imageocr.info/pt/contactus</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/zh/privacypolicy</loc>
+  <loc>https://www.imageocr.info/ru/contactus</loc>
 </url>
 <url>
-  <loc>https://imageocr.info/zh/contactus</loc>
+  <loc>https://www.imageocr.info/zh/contactus</loc>
 </url>
 </urlset>
