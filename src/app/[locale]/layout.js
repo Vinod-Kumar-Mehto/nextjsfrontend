@@ -38,6 +38,7 @@ export async function generateMetadata({ params }) {
       "pdf to jpg",
       "doc to pdf",
       "pdf to image converter",
+      "pdf to docx converter",
     ],
     openGraph: {
       title: t("metadata.title"),
