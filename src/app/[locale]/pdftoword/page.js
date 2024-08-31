@@ -10,6 +10,11 @@ export async function generateMetadata() {
   return {
     title: { absolute: t("metadata.title") },
     description: t("metadata.description"),
+    openGraph: {
+      title: { absolute: t("metadata.title") },
+      description: t("metadata.description"),
+      URL: "https://www.imageocr.info/pdftoword",
+    },
   };
 }
 

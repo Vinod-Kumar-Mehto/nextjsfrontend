@@ -13,7 +13,7 @@ export async function generateMetadata({ params }) {
   const t = await getTranslations("imgtotext");
 
   return {
-    title: { default: t("metadata.title"), template: t("metadata.title") },
+    title: t("metadata.title"),
     description: t("metadata.description"),
     keywords: [
       "imageocr",
@@ -39,6 +39,11 @@ export async function generateMetadata({ params }) {
       "doc to pdf",
       "pdf to image converter",
     ],
+    openGraph: {
+      title: t("metadata.title"),
+      description: t("metadata.description"),
+      URL: "https://www.imageocr.info",
+    },
   };
 }
 

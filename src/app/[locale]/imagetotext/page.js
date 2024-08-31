@@ -9,6 +9,20 @@ import ImgToText from "@/components/ImgToText";
 import feature from "@/assets/images/feature.png";
 import { getTranslations } from "next-intl/server";
 
+export async function generateMetadata() {
+  const t = await getTranslations("imgtotext");
+
+  return {
+    title: { absolute: t("metadata.title") },
+    description: t("metadata.description"),
+    openGraph: {
+      title: { absolute: t("metadata.title") },
+      description: t("metadata.description"),
+      URL: "https://www.imageocr.info/imagetotext",
+    },
+  };
+}
+
 const ImageToText = async () => {
   const t = await getTranslations("imgtotext");
 
