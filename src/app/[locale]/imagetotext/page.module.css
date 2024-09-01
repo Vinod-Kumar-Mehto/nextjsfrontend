@@ -577,4 +577,14 @@
     width: 100px;
     height: 100px;
   }
+  .spinner {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 65%;
+    left: 50%;
+    width: 60%;
+    height: 100px;
+    text-align: center;
+    font-size: 50px;
+  }
 }

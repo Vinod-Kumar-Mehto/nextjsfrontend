@@ -107,8 +107,8 @@
       }
     },
     "metadata": {
-      "title": "图像转文本转换器 - 免费从图像中提取文本",
-      "description": "图像转文本转换器是一个免费的工具，可以将图片转换为文本。"
+      "title": "免费在线图像转文本工具 - 快速将图像转换为文本",
+      "description": "使用我们的免费图像转文本工具轻松将图像转换为文本。此工具可以快速准确地从图像中提取文本。立即尝试，将任何图像转换为可编辑文本！"
     }
   },
 
@@ -155,8 +155,8 @@
       "all": "下载所有"
     },
     "metadata": {
-      "title": "图片转PDF转换器 - 将图片转换为PDF",
-      "description": "使用此JPG转PDF转换器，您可以一次将多达四张照片转换为PDF文件。"
+      "title": "免费图像转PDF转换器 - 轻松将图像转换为PDF文件",
+      "description": "使用我们的免费JPG转PDF转换器，快速轻松地将最多四张图像转换为PDF文件。在线图像到PDF转换，快速简便。"
     }
   },
 
@@ -208,8 +208,8 @@
       "over": "重新开始"
     },
     "metadata": {
-      "title": "PDF 转 Excel 转换器 - 轻松将 PDF 文件转换为 Excel 文件",
-      "description": "我们的 PDF 转换器使将 PDF 文件转换为 Excel 文件变得简单且无需费用。"
+      "title": "轻松免费将 PDF 转换为 Excel - 最佳在线 PDF 到 Excel 转换工具",
+      "description": "我们的 PDF 到 Excel 转换器使得将 PDF 文件转换为 Excel 表格变得轻松且完全免费。使用我们易于操作的工具，您可以快速将 PDF 文档转换为可编辑的 Excel 文件，无需任何费用。享受快速、准确的转换，无隐藏费用！"
     }
   },
   "pdfToImageConverter": {
@@ -264,8 +264,8 @@
       "over": "重新开始"
     },
     "metadata": {
-      "title": "PDF转图片转换器 - 立即将PDF文件转换为图像",
-      "description": "您可以使用这个PDF转图片转换器快速将PDF文件转换为JPG图片。"
+      "title": "免费 PDF 转图片工具 - 立即将 PDF 转换为 JPG 文件",
+      "description": "使用我们易于使用的 PDF 转图片工具，立即将 PDF 文件转换为 JPG 图像。快速、高效且免费。"
     }
   },
   "pdfToWordConverter": {
@@ -322,10 +322,9 @@
       "over": "重新开始",
       "allDownload": "全部下载"
     },
-
     "metadata": {
-      "title": "PDF转Word文件转换器 - 将PDF文件转换为Word文件",
-      "description": "使用此PDF到Docx转换器，您可以快速轻松地将PDF文件转换为可编辑的Docx文件。"
+      "title": "免费PDF转Word文件转换器 - 免费即时将PDF转换为Docx文件",
+      "description": "使用我们用户友好的PDF转Word转换器轻松将PDF文件转换为完全可编辑的DOCX文件。快速准确地转换文档，同时保持格式和布局。"
     }
   },
 
@@ -378,8 +377,8 @@
       "allDownload": "全部下载"
     },
     "metadata": {
-      "title": "Word转PDF转换器 - 将您的Docx文件转换为PDF",
-      "description": "您可以使用Word转PDF转换器将Docx文件转换为PDF文件。"
+      "title": "免费Word转PDF转换器 - 在线将Docx文件转换为PDF",
+      "description": "此Word转PDF转换器用于将Docx文件转换为PDF文件。只需几次点击，即可免费将文件转换为高质量的PDF。"
     }
   },
 
