@@ -69,13 +69,21 @@ export async function generateMetadata({ params }) {
     ],
     twitter: {
       card: "summary_large_image",
+      image: "https://www.imageocr.info/opengraph-image.png",
     },
     openGraph: {
       title: t("metadata.title"),
       description: t("metadata.description"),
       URL: "https://www.imageocr.info",
       siteName: "ImageOCR",
-      image: "./opengraph-image.png",
+      images: [
+        {
+          url: "https://www.imageocr.info/opengraph-image.png",
+          width: 1200,
+          height: 630,
+          alt: "Open Graph Image",
+        },
+      ],
     },
   };
 }

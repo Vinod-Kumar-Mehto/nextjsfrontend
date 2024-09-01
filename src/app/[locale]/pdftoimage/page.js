@@ -41,6 +41,14 @@ export async function generateMetadata() {
       description: t("metadata.description"),
       URL: "https://www.imageocr.info/pdftoimage",
       siteName: "ImageOCR",
+      images: [
+        {
+          url: "https://www.imageocr.info/opengraph-image.png",
+          width: 1200,
+          height: 630,
+          alt: "Open Graph Image",
+        },
+      ],
     },
   };
 }
