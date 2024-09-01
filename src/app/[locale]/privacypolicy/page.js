@@ -7,10 +7,37 @@ export async function generateMetadata() {
   return {
     title: { absolute: t("metadata.title") },
     description: t("metadata.description"),
+    robots: {
+      index: true,
+      follow: true,
+      nocache: false,
+      googleBot: {
+        index: true,
+        follow: true,
+        noimageindex: false,
+      },
+    },
+    alternates: {
+      canonical: "/",
+      languages: {
+        en: "/en/privacypolicy",
+        de: "/de/privacypolicy",
+        es: "/es/privacypolicy",
+        fr: "/fr/privacypolicy",
+        it: "/it/privacypolicy",
+        ja: "/ja/privacypolicy",
+        ko: "/ko/privacypolicy",
+        pl: "/pl/privacypolicy",
+        pt: "/pt/privacypolicy",
+        ru: "/ru/privacypolicy",
+        zh: "/zh/privacypolicy",
+      },
+    },
     openGraph: {
       title: { absolute: t("metadata.title") },
       description: t("metadata.description"),
       URL: "https://www.imageocr.info/privacypolicy",
+      siteName: "ImageOCR",
     },
   };
 }

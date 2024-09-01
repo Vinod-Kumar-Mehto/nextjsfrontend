@@ -10,10 +10,37 @@ export async function generateMetadata() {
   return {
     title: { absolute: t("metadata.title") },
     description: t("metadata.description"),
+    robots: {
+      index: true,
+      follow: true,
+      nocache: false,
+      googleBot: {
+        index: true,
+        follow: true,
+        noimageindex: false,
+      },
+    },
+    alternates: {
+      canonical: "/",
+      languages: {
+        en: "/en/pdftoexcel",
+        de: "/de/pdftoexcel",
+        es: "/es/pdftoexcel",
+        fr: "/fr/pdftoexcel",
+        it: "/it/pdftoexcel",
+        ja: "/ja/pdftoexcel",
+        ko: "/ko/pdftoexcel",
+        pl: "/pl/pdftoexcel",
+        pt: "/pt/pdftoexcel",
+        ru: "/ru/pdftoexcel",
+        zh: "/zh/pdftoexcel",
+      },
+    },
     openGraph: {
       title: { absolute: t("metadata.title") },
       description: t("metadata.description"),
       URL: "https://www.imageocr.info/pdftoexcel",
+      siteName: "ImageOCR",
     },
   };
 }

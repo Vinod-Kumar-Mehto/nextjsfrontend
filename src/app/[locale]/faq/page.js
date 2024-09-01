@@ -7,10 +7,37 @@ export async function generateMetadata() {
   return {
     title: { absolute: t("metadata.title") },
     description: t("metadata.description"),
+    robots: {
+      index: true,
+      follow: true,
+      nocache: false,
+      googleBot: {
+        index: true,
+        follow: true,
+        noimageindex: false,
+      },
+    },
+    alternates: {
+      canonical: "/",
+      languages: {
+        en: "/en/faq",
+        de: "/de/faq",
+        es: "/es/faq",
+        fr: "/fr/faq",
+        it: "/it/faq",
+        ja: "/ja/faq",
+        ko: "/ko/faq",
+        pl: "/pl/faq",
+        pt: "/pt/faq",
+        ru: "/ru/faq",
+        zh: "/zh/faq",
+      },
+    },
     openGraph: {
       title: { absolute: t("metadata.title") },
       description: t("metadata.description"),
       URL: "https://www.imageocr.info/faq",
+      siteName: "ImageOCR",
     },
   };
 }

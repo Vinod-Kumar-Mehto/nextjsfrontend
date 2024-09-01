@@ -15,6 +15,33 @@ export async function generateMetadata({ params }) {
   return {
     title: t("metadata.title"),
     description: t("metadata.description"),
+    metadataBase: new URL("https://www.imageocr.info"),
+    robots: {
+      index: true,
+      follow: true,
+      nocache: false,
+      googleBot: {
+        index: true,
+        follow: true,
+        noimageindex: false,
+      },
+    },
+    alternates: {
+      canonical: "/",
+      languages: {
+        en: "/en",
+        de: "/de",
+        es: "/es",
+        fr: "/fr",
+        it: "/it",
+        ja: "/ja",
+        ko: "/ko",
+        pl: "/pl",
+        pt: "/pt",
+        ru: "/ru",
+        zh: "/zh",
+      },
+    },
     keywords: [
       "imageocr",
       "image to text",
@@ -40,10 +67,15 @@ export async function generateMetadata({ params }) {
       "pdf to image converter",
       "pdf to docx converter",
     ],
+    twitter: {
+      card: "summary_large_image",
+    },
     openGraph: {
       title: t("metadata.title"),
       description: t("metadata.description"),
       URL: "https://www.imageocr.info",
+      siteName: "ImageOCR",
+      image: "./opengraph-image.png",
     },
   };
 }

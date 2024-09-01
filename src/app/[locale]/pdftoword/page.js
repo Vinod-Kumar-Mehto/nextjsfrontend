@@ -10,10 +10,38 @@ export async function generateMetadata() {
   return {
     title: { absolute: t("metadata.title") },
     description: t("metadata.description"),
+    robots: {
+      index: true,
+      follow: true,
+      nocache: false,
+      googleBot: {
+        index: true,
+        follow: true,
+        noimageindex: false,
+      },
+    },
+    alternates: {
+      canonical: "/",
+      languages: {
+        en: "/en/pdftoword",
+        de: "/de/pdftoword",
+        es: "/es/pdftoword",
+        fr: "/fr/pdftoword",
+        it: "/it/pdftoword",
+        ja: "/ja/pdftoword",
+        ko: "/ko/pdftoword",
+        pl: "/pl/pdftoword",
+        pt: "/pt/pdftoword",
+        ru: "/ru/pdftoword",
+        zh: "/zh/pdftoword",
+      },
+    },
+
     openGraph: {
       title: { absolute: t("metadata.title") },
       description: t("metadata.description"),
       URL: "https://www.imageocr.info/pdftoword",
+      siteName: "ImageOCR",
     },
   };
 }

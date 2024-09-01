@@ -7,10 +7,37 @@ export async function generateMetadata() {
   return {
     title: { absolute: t("metadata.title") },
     description: t("metadata.description"),
+    robots: {
+      index: true,
+      follow: true,
+      nocache: false,
+      googleBot: {
+        index: true,
+        follow: true,
+        noimageindex: false,
+      },
+    },
+    alternates: {
+      canonical: "/",
+      languages: {
+        en: "/en/contactus",
+        de: "/de/contactus",
+        es: "/es/contactus",
+        fr: "/fr/contactus",
+        it: "/it/contactus",
+        ja: "/ja/contactus",
+        ko: "/ko/contactus",
+        pl: "/pl/contactus",
+        pt: "/pt/contactus",
+        ru: "/ru/contactus",
+        zh: "/zh/contactus",
+      },
+    },
     openGraph: {
       title: { absolute: t("metadata.title") },
       description: t("metadata.description"),
       URL: "https://www.imageocr.info/contactus",
+      siteName: "ImageOCR",
     },
   };
 }

@@ -10,10 +10,37 @@ export async function generateMetadata() {
   return {
     title: { absolute: t("metadata.title") },
     description: t("metadata.description"),
+    robots: {
+      index: true,
+      follow: true,
+      nocache: false,
+      googleBot: {
+        index: true,
+        follow: true,
+        noimageindex: false,
+      },
+    },
+    alternates: {
+      canonical: "/",
+      languages: {
+        en: "/en/pdftoimage",
+        de: "/de/pdftoimage",
+        es: "/es/pdftoimage",
+        fr: "/fr/pdftoimage",
+        it: "/it/pdftoimage",
+        ja: "/ja/pdftoimage",
+        ko: "/ko/pdftoimage",
+        pl: "/pl/pdftoimage",
+        pt: "/pt/pdftoimage",
+        ru: "/ru/pdftoimage",
+        zh: "/zh/pdftoimage",
+      },
+    },
     openGraph: {
       title: { absolute: t("metadata.title") },
       description: t("metadata.description"),
       URL: "https://www.imageocr.info/pdftoimage",
+      siteName: "ImageOCR",
     },
   };
 }

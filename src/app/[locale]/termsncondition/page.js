@@ -7,10 +7,37 @@ export async function generateMetadata() {
   return {
     title: { absolute: t("metadata.title") },
     description: t("metadata.description"),
+    robots: {
+      index: true,
+      follow: true,
+      nocache: false,
+      googleBot: {
+        index: true,
+        follow: true,
+        noimageindex: false,
+      },
+    },
+    alternates: {
+      canonical: "/",
+      languages: {
+        en: "/en/termsncondition",
+        de: "/de/termsncondition",
+        es: "/es/termsncondition",
+        fr: "/fr/termsncondition",
+        it: "/it/termsncondition",
+        ja: "/ja/termsncondition",
+        ko: "/ko/termsncondition",
+        pl: "/pl/termsncondition",
+        pt: "/pt/termsncondition",
+        ru: "/ru/termsncondition",
+        zh: "/zh/termsncondition",
+      },
+    },
     openGraph: {
       title: { absolute: t("metadata.title") },
       description: t("metadata.description"),
       URL: "https://www.imageocr.info/termsncondition",
+      siteName: "ImageOCR",
     },
   };
 }
