@@ -21,7 +21,6 @@ export async function generateMetadata() {
       },
     },
     alternates: {
-      canonical: "/",
       languages: {
         en: "/en/pdftoexcel",
         de: "/de/pdftoexcel",

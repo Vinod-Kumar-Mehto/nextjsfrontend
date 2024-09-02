@@ -18,7 +18,6 @@ export async function generateMetadata() {
       },
     },
     alternates: {
-      canonical: "/",
       languages: {
         en: "/en/contactus",
         de: "/de/contactus",

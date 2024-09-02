@@ -26,7 +26,6 @@ export async function generateMetadata() {
       },
     },
     alternates: {
-      canonical: "/",
       languages: {
         en: "/en/imagetotext",
         de: "/de/imagetotext",

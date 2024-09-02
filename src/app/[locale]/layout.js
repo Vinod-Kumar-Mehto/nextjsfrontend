@@ -27,7 +27,6 @@ export async function generateMetadata({ params }) {
       },
     },
     alternates: {
-      canonical: "/",
       languages: {
         en: "/en",
         de: "/de",

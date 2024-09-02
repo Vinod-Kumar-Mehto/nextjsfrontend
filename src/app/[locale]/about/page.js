@@ -22,7 +22,6 @@ export async function generateMetadata() {
       },
     },
     alternates: {
-      canonical: "/",
       languages: {
         en: "/en/about",
         de: "/de/about",

@@ -18,7 +18,6 @@ export async function generateMetadata() {
       },
     },
     alternates: {
-      canonical: "/",
       languages: {
         en: "/en/privacypolicy",
         de: "/de/privacypolicy",
