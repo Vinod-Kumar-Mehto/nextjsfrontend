@@ -5,11 +5,15 @@ import multilingual from "@/assets/images/multilingual.png";
 import Image from "next/image";
 import { getTranslations } from "next-intl/server";
 
-export async function generateMetadata() {
+export async function generateMetadata({ params }) {
   const t = await getTranslations("aboutUs");
+  const lang = params.locale || "en";
+  const baseURL = "https://www.imageocr.info";
+  const pagePath = "/about";
+  const canonicalURL = `${baseURL}/${lang}${pagePath}`;
 
   return {
-    title: { absolute: t("metadata.title") },
+    title: t("metadata.title"),
     description: t("metadata.description"),
     robots: {
       index: true,
@@ -22,24 +26,26 @@ export async function generateMetadata() {
       },
     },
     alternates: {
+      canonical: canonicalURL,
       languages: {
-        en: "/en/about",
-        de: "/de/about",
-        es: "/es/about",
-        fr: "/fr/about",
-        it: "/it/about",
-        ja: "/ja/about",
-        ko: "/ko/about",
-        pl: "/pl/about",
-        pt: "/pt/about",
-        ru: "/ru/about",
-        zh: "/zh/about",
+        "x-default": `${baseURL}/en/about`,
+        en: `${baseURL}/en/about`,
+        de: `${baseURL}/de/about`,
+        es: `${baseURL}/es/about`,
+        fr: `${baseURL}/fr/about`,
+        it: `${baseURL}/it/about`,
+        ja: `${baseURL}/ja/about`,
+        ko: `${baseURL}/ko/about`,
+        pl: `${baseURL}/pl/about`,
+        pt: `${baseURL}/pt/about`,
+        ru: `${baseURL}/ru/about`,
+        zh: `${baseURL}/zh/about`,
       },
     },
     openGraph: {
-      title: { absolute: t("metadata.title") },
+      title: t("metadata.title"),
       description: t("metadata.description"),
-      URL: "https://www.imageocr.info/about",
+      url: canonicalURL,
       siteName: "ImageOCR",
       images: [
         {

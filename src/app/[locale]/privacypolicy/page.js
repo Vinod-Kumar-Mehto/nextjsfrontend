@@ -1,11 +1,15 @@
 import styles from "@/app/[locale]/privacypolicy/page.module.css";
 import { getTranslations } from "next-intl/server";
 
-export async function generateMetadata() {
+export async function generateMetadata({ params }) {
   const t = await getTranslations("privacyPolicy");
+  const lang = params.locale || "en";
+  const baseURL = "https://www.imageocr.info";
+  const pagePath = "/privacypolicy";
+  const canonicalURL = `${baseURL}/${lang}${pagePath}`;
 
   return {
-    title: { absolute: t("metadata.title") },
+    title: t("metadata.title"),
     description: t("metadata.description"),
     robots: {
       index: true,
@@ -18,24 +22,26 @@ export async function generateMetadata() {
       },
     },
     alternates: {
+      canonical: canonicalURL,
       languages: {
-        en: "/en/privacypolicy",
-        de: "/de/privacypolicy",
-        es: "/es/privacypolicy",
-        fr: "/fr/privacypolicy",
-        it: "/it/privacypolicy",
-        ja: "/ja/privacypolicy",
-        ko: "/ko/privacypolicy",
-        pl: "/pl/privacypolicy",
-        pt: "/pt/privacypolicy",
-        ru: "/ru/privacypolicy",
-        zh: "/zh/privacypolicy",
+        "x-default": `${baseURL}/en/privacypolicy`,
+        en: `${baseURL}/en/privacypolicy`,
+        de: `${baseURL}/de/privacypolicy`,
+        es: `${baseURL}/es/privacypolicy`,
+        fr: `${baseURL}/fr/privacypolicy`,
+        it: `${baseURL}/it/privacypolicy`,
+        ja: `${baseURL}/ja/privacypolicy`,
+        ko: `${baseURL}/ko/privacypolicy`,
+        pl: `${baseURL}/pl/privacypolicy`,
+        pt: `${baseURL}/pt/privacypolicy`,
+        ru: `${baseURL}/ru/privacypolicy`,
+        zh: `${baseURL}/zh/privacypolicy`,
       },
     },
     openGraph: {
-      title: { absolute: t("metadata.title") },
+      title: t("metadata.title"),
       description: t("metadata.description"),
-      URL: "https://www.imageocr.info/privacypolicy",
+      url: canonicalURL,
       siteName: "ImageOCR",
       images: [
         {

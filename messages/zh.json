@@ -109,6 +109,18 @@
     "metadata": {
       "title": "免费在线图像转文本工具 - 快速将图像转换为文本",
       "description": "使用我们的免费图像转文本工具轻松将图像转换为文本。此工具可以快速准确地从图像中提取文本。立即尝试，将任何图像转换为可编辑文本！"
+    },
+    "keyWords": {
+      "onek": "图像OCR",
+      "twok": "图像转文本",
+      "threek": "图像转文本转换器",
+      "fourk": "照片转文本",
+      "fivek": "将图像转换为文本",
+      "sixk": "JPG转文本",
+      "sevenk": "OCR",
+      "eightk": "免费OCR",
+      "ninek": "OCR软件",
+      "tenk": "光学字符识别"
     }
   },
 
@@ -157,6 +169,14 @@
     "metadata": {
       "title": "免费图像转PDF转换器 - 轻松将图像转换为PDF文件",
       "description": "使用我们的免费JPG转PDF转换器，快速轻松地将最多四张图像转换为PDF文件。在线图像到PDF转换，快速简便。"
+    },
+
+    "keyWords": {
+      "onek": "图像OCR",
+      "twok": "jpeg转pdf",
+      "threek": "jpg转pdf",
+      "fourk": "图像转pdf",
+      "fivek": "jpg转pdf转换器"
     }
   },
 
@@ -210,8 +230,16 @@
     "metadata": {
       "title": "轻松免费将 PDF 转换为 Excel - 最佳在线 PDF 到 Excel 转换工具",
       "description": "我们的 PDF 到 Excel 转换器使得将 PDF 文件转换为 Excel 表格变得轻松且完全免费。使用我们易于操作的工具，您可以快速将 PDF 文档转换为可编辑的 Excel 文件，无需任何费用。享受快速、准确的转换，无隐藏费用！"
+    },
+    "keyWords": {
+      "onek": "图像OCR",
+      "twok": "pdf转excel",
+      "threek": "pdf转excel转换器",
+      "fourk": "pdf转csv",
+      "fivek": "将pdf转换为excel"
     }
   },
+
   "pdfToImageConverter": {
     "title": "PDF 转图像转换器",
     "description": "使用 PDF 转图像转换器，您可以免费将 PDF 转换为 JPG，只需点击一下即可完成。",
@@ -266,8 +294,16 @@
     "metadata": {
       "title": "免费 PDF 转图片工具 - 立即将 PDF 转换为 JPG 文件",
       "description": "使用我们易于使用的 PDF 转图片工具，立即将 PDF 文件转换为 JPG 图像。快速、高效且免费。"
+    },
+    "keyWords": {
+      "onek": "图像OCR",
+      "twok": "pdf转图片转换器",
+      "threek": "pdf转jpg",
+      "fourk": "pdf转图片",
+      "fivek": "将pdf转换为图片"
     }
   },
+
   "pdfToWordConverter": {
     "title": "PDF 转 Word 转换器",
     "description": "使用 PDF 转 Word 转换器，您可以免费将 PDF 文件转换为 Docx 文档。要将 PDF 转换为可编辑的 Word 文档，只需点击转换按钮。",
@@ -325,6 +361,14 @@
     "metadata": {
       "title": "免费PDF转Word文件转换器 - 免费即时将PDF转换为Docx文件",
       "description": "使用我们用户友好的PDF转Word转换器轻松将PDF文件转换为完全可编辑的DOCX文件。快速准确地转换文档，同时保持格式和布局。"
+    },
+    "keyWords": {
+      "onek": "图像OCR",
+      "twok": "pdf OCR",
+      "threek": "pdf转word转换器",
+      "fourk": "将pdf转换为word",
+      "fivek": "pdf转docx转换器",
+      "sixk": "pdf转doc"
     }
   },
 
@@ -379,6 +423,14 @@
     "metadata": {
       "title": "免费Word转PDF转换器 - 在线将Docx文件转换为PDF",
       "description": "此Word转PDF转换器用于将Docx文件转换为PDF文件。只需几次点击，即可免费将文件转换为高质量的PDF。"
+    },
+    "keyWords": {
+      "onek": "图像OCR",
+      "twok": "docx转pdf",
+      "threek": "doc转pdf",
+      "fourk": "将word转换为pdf",
+      "fivek": "word转pdf转换器",
+      "sixk": "word转pdf工具"
     }
   },
 

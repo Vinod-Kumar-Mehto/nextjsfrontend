@@ -4,12 +4,23 @@ import Image from "next/image";
 import feature from "@/assets/images/feature.png";
 import { getTranslations } from "next-intl/server";
 
-export async function generateMetadata() {
+export async function generateMetadata({ params }) {
   const t = await getTranslations("imageToPdfConverter");
+  const lang = params.locale || "en";
+  const baseURL = "https://www.imageocr.info";
+  const pagePath = "/imagetopdf";
+  const canonicalURL = `${baseURL}/${lang}${pagePath}`;
 
   return {
-    title: { absolute: t("metadata.title") },
+    title: t("metadata.title"),
     description: t("metadata.description"),
+    keywords: [
+      t("keyWords.onek"),
+      t("keyWords.twok"),
+      t("keyWords.threek"),
+      t("keyWords.fourk"),
+      t("keyWords.fivek"),
+    ],
     robots: {
       index: true,
       follow: true,
@@ -21,24 +32,26 @@ export async function generateMetadata() {
       },
     },
     alternates: {
+      canonical: canonicalURL,
       languages: {
-        en: "/en/imagetopdf",
-        de: "/de/imagetopdf",
-        es: "/es/imagetopdf",
-        fr: "/fr/imagetopdf",
-        it: "/it/imagetopdf",
-        ja: "/ja/imagetopdf",
-        ko: "/ko/imagetopdf",
-        pl: "/pl/imagetopdf",
-        pt: "/pt/imagetopdf",
-        ru: "/ru/imagetopdf",
-        zh: "/zh/imagetopdf",
+        "x-default": `${baseURL}/en/imagetopdf`,
+        en: `${baseURL}/en/imagetopdf`,
+        de: `${baseURL}/de/imagetopdf`,
+        es: `${baseURL}/es/imagetopdf`,
+        fr: `${baseURL}/fr/imagetopdf`,
+        it: `${baseURL}/it/imagetopdf`,
+        ja: `${baseURL}/ja/imagetopdf`,
+        ko: `${baseURL}/ko/imagetopdf`,
+        pl: `${baseURL}/pl/imagetopdf`,
+        pt: `${baseURL}/pt/imagetopdf`,
+        ru: `${baseURL}/ru/imagetopdf`,
+        zh: `${baseURL}/zh/imagetopdf`,
       },
     },
     openGraph: {
-      title: { absolute: t("metadata.title") },
+      title: t("metadata.title"),
       description: t("metadata.description"),
-      URL: "https://www.imageocr.info/imagetopdf",
+      url: canonicalURL,
       siteName: "ImageOCR",
       images: [
         {

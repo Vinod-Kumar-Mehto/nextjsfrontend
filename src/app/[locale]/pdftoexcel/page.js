@@ -4,12 +4,23 @@ import Image from "next/image";
 import feature from "@/assets/images/feature.png";
 import { getTranslations } from "next-intl/server";
 
-export async function generateMetadata() {
+export async function generateMetadata({ params }) {
   const t = await getTranslations("pdfToExcelConverter");
+  const lang = params.locale || "en";
+  const baseURL = "https://www.imageocr.info";
+  const pagePath = "/pdftoexcel";
+  const canonicalURL = `${baseURL}/${lang}${pagePath}`;
 
   return {
-    title: { absolute: t("metadata.title") },
+    title: t("metadata.title"),
     description: t("metadata.description"),
+    keywords: [
+      t("keyWords.onek"),
+      t("keyWords.twok"),
+      t("keyWords.threek"),
+      t("keyWords.fourk"),
+      t("keyWords.fivek"),
+    ],
     robots: {
       index: true,
       follow: true,
@@ -21,24 +32,26 @@ export async function generateMetadata() {
       },
     },
     alternates: {
+      canonical: canonicalURL,
       languages: {
-        en: "/en/pdftoexcel",
-        de: "/de/pdftoexcel",
-        es: "/es/pdftoexcel",
-        fr: "/fr/pdftoexcel",
-        it: "/it/pdftoexcel",
-        ja: "/ja/pdftoexcel",
-        ko: "/ko/pdftoexcel",
-        pl: "/pl/pdftoexcel",
-        pt: "/pt/pdftoexcel",
-        ru: "/ru/pdftoexcel",
-        zh: "/zh/pdftoexcel",
+        "x-default": `${baseURL}/en/pdftoexcel`,
+        en: `${baseURL}/en/pdftoexcel`,
+        de: `${baseURL}/de/pdftoexcel`,
+        es: `${baseURL}/es/pdftoexcel`,
+        fr: `${baseURL}/fr/pdftoexcel`,
+        it: `${baseURL}/it/pdftoexcel`,
+        ja: `${baseURL}/ja/pdftoexcel`,
+        ko: `${baseURL}/ko/pdftoexcel`,
+        pl: `${baseURL}/pl/pdftoexcel`,
+        pt: `${baseURL}/pt/pdftoexcel`,
+        ru: `${baseURL}/ru/pdftoexcel`,
+        zh: `${baseURL}/zh/pdftoexcel`,
       },
     },
     openGraph: {
-      title: { absolute: t("metadata.title") },
+      title: t("metadata.title"),
       description: t("metadata.description"),
-      URL: "https://www.imageocr.info/pdftoexcel",
+      url: canonicalURL,
       siteName: "ImageOCR",
       images: [
         {

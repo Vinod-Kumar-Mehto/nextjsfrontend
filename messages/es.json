@@ -110,6 +110,18 @@
     "metadata": {
       "title": "Convertidor de Imagen a Texto Gratis en Línea - Convierte Imágenes a Texto Rápidamente",
       "description": "Convierte imágenes a texto fácilmente con nuestro Convertidor de Imagen a Texto gratis. Esta herramienta te permite extraer texto de imágenes de forma rápida y precisa. ¡Pruébalo ahora para convertir cualquier imagen en texto editable!"
+    },
+    "keyWords": {
+      "onek": "ocr de imagen",
+      "twok": "imagen a texto",
+      "threek": "convertidor de imagen a texto",
+      "fourk": "foto a texto",
+      "fivek": "convertir imagen a texto",
+      "sixk": "jpg a texto",
+      "sevenk": "ocr",
+      "eightk": "ocr gratuito",
+      "ninek": "software de ocr",
+      "tenk": "reconocimiento óptico de caracteres"
     }
   },
 
@@ -157,6 +169,13 @@
     "metadata": {
       "title": "Convertidor de Imágenes a PDF Gratis - Convierte Imágenes a PDFs en Línea",
       "description": "Utiliza nuestro convertidor de JPG a PDF gratuito para convertir rápida y fácilmente hasta cuatro imágenes en archivos PDF. Conversión de imágenes a PDF en línea, rápida y sencilla."
+    },
+    "keyWords": {
+      "onek": "ocr de imagen",
+      "twok": "jpeg a pdf",
+      "threek": "jpg a pdf",
+      "fourk": "imagen a pdf",
+      "fivek": "convertidor de jpg a pdf"
     }
   },
 
@@ -209,6 +228,13 @@
     "metadata": {
       "title": "Convierte PDF a Excel Fácilmente y Gratis - Mejor Herramienta Online para Convertir PDF a Excel",
       "description": "Nuestro convertidor de PDF a Excel hace que sea fácil y completamente gratis convertir archivos PDF en hojas de cálculo de Excel. Con nuestra herramienta fácil de usar, puedes transformar rápidamente tus documentos PDF en archivos de Excel editables sin ningún costo. Disfruta de conversiones rápidas y precisas sin cargos ocultos."
+    },
+    "keyWords": {
+      "onek": "ocr de imagen",
+      "twok": "pdf a excel",
+      "threek": "convertidor de pdf a excel",
+      "fourk": "pdf a csv",
+      "fivek": "convertir pdf a excel"
     }
   },
 
@@ -265,6 +291,13 @@
     "metadata": {
       "title": "Convertidor de PDF a Imagen Gratuito - Convierte PDFs a archivos JPG al instante",
       "description": "Convierte archivos PDF a imágenes JPG al instante con nuestro fácil de usar convertidor de PDF a imagen. Rápido, eficiente y gratuito."
+    },
+    "keyWords": {
+      "onek": "ocr de imagen",
+      "twok": "convertidor de pdf a imagen",
+      "threek": "pdf a jpg",
+      "fourk": "pdf a imágenes",
+      "fivek": "convertir pdf a imagen"
     }
   },
 
@@ -325,8 +358,17 @@
     "metadata": {
       "title": "Conversor gratuito de PDF a Word - Convierte tus PDFs a archivos Docx de forma gratuita e instantánea",
       "description": "Convierte tus PDFs a archivos DOCX totalmente editables de manera fácil con nuestro conversor de PDF a Word. Transforma documentos rápida y precisamente, manteniendo el formato y diseño."
+    },
+    "keyWords": {
+      "onek": "ocr de imagen",
+      "twok": "ocr de pdf",
+      "threek": "convertidor de pdf a word",
+      "fourk": "convertir pdf a word",
+      "fivek": "convertidor de pdf a docx",
+      "sixk": "pdf a doc"
     }
   },
+
   "wordToPdfConverter": {
     "title": "Convertidor de Word a PDF",
     "description": "Puedes convertir documentos Doc|Docx a PDF de forma gratuita utilizando el convertidor de Word a PDF. Con solo un clic, convierte un documento Word editable en un PDF searchable.",
@@ -378,6 +420,15 @@
     "metadata": {
       "title": "Conversor de Word a PDF Gratis - Convierte tu archivo Docx a PDF en línea",
       "description": "Este conversor de Word a PDF se utiliza para convertir archivos Docx a archivos PDF. Con solo unos pocos clics y de forma gratuita, puedes usar este conversor para transformar tus archivos en PDFs de alta calidad."
+    },
+
+    "keyWords": {
+      "onek": "ocr de imagen",
+      "twok": "docx a pdf",
+      "threek": "doc a pdf",
+      "fourk": "convertir word a pdf",
+      "fivek": "convertidor de word a pdf",
+      "sixk": "convertidor de word a pdf"
     }
   },
   "faq": {

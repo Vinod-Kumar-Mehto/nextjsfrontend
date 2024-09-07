@@ -1,11 +1,15 @@
 import styles from "@/app/[locale]/faq/page.module.css";
 import { getTranslations } from "next-intl/server";
 
-export async function generateMetadata() {
+export async function generateMetadata({ params }) {
   const t = await getTranslations("faq");
+  const lang = params.locale || "en";
+  const baseURL = "https://www.imageocr.info";
+  const pagePath = "/faq";
+  const canonicalURL = `${baseURL}/${lang}${pagePath}`;
 
   return {
-    title: { absolute: t("metadata.title") },
+    title: t("metadata.title"),
     description: t("metadata.description"),
     robots: {
       index: true,
@@ -18,24 +22,26 @@ export async function generateMetadata() {
       },
     },
     alternates: {
+      canonical: canonicalURL,
       languages: {
-        en: "/en/faq",
-        de: "/de/faq",
-        es: "/es/faq",
-        fr: "/fr/faq",
-        it: "/it/faq",
-        ja: "/ja/faq",
-        ko: "/ko/faq",
-        pl: "/pl/faq",
-        pt: "/pt/faq",
-        ru: "/ru/faq",
-        zh: "/zh/faq",
+        "x-default": `${baseURL}/en/faq`,
+        en: `${baseURL}/en/faq`,
+        de: `${baseURL}/de/faq`,
+        es: `${baseURL}/es/faq`,
+        fr: `${baseURL}/fr/faq`,
+        it: `${baseURL}/it/faq`,
+        ja: `${baseURL}/ja/faq`,
+        ko: `${baseURL}/ko/faq`,
+        pl: `${baseURL}/pl/faq`,
+        pt: `${baseURL}/pt/faq`,
+        ru: `${baseURL}/ru/faq`,
+        zh: `${baseURL}/zh/faq`,
       },
     },
     openGraph: {
-      title: { absolute: t("metadata.title") },
+      title: t("metadata.title"),
       description: t("metadata.description"),
-      URL: "https://www.imageocr.info/faq",
+      url: canonicalURL,
       siteName: "ImageOCR",
       images: [
         {

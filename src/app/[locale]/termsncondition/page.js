@@ -1,11 +1,15 @@
 import styles from "@/app/[locale]/termsncondition/page.module.css";
 import { getTranslations } from "next-intl/server";
 
-export async function generateMetadata() {
+export async function generateMetadata({ params }) {
   const t = await getTranslations("termsandcondition");
+  const lang = params.locale || "en";
+  const baseURL = "https://www.imageocr.info";
+  const pagePath = "/termsncondition";
+  const canonicalURL = `${baseURL}/${lang}${pagePath}`;
 
   return {
-    title: { absolute: t("metadata.title") },
+    title: t("metadata.title"),
     description: t("metadata.description"),
     robots: {
       index: true,
@@ -18,24 +22,26 @@ export async function generateMetadata() {
       },
     },
     alternates: {
+      canonical: canonicalURL,
       languages: {
-        en: "/en/termsncondition",
-        de: "/de/termsncondition",
-        es: "/es/termsncondition",
-        fr: "/fr/termsncondition",
-        it: "/it/termsncondition",
-        ja: "/ja/termsncondition",
-        ko: "/ko/termsncondition",
-        pl: "/pl/termsncondition",
-        pt: "/pt/termsncondition",
-        ru: "/ru/termsncondition",
-        zh: "/zh/termsncondition",
+        "x-default": `${baseURL}/en/termsncondition`,
+        en: `${baseURL}/en/termsncondition`,
+        de: `${baseURL}/de/termsncondition`,
+        es: `${baseURL}/es/termsncondition`,
+        fr: `${baseURL}/fr/termsncondition`,
+        it: `${baseURL}/it/termsncondition`,
+        ja: `${baseURL}/ja/termsncondition`,
+        ko: `${baseURL}/ko/termsncondition`,
+        pl: `${baseURL}/pl/termsncondition`,
+        pt: `${baseURL}/pt/termsncondition`,
+        ru: `${baseURL}/ru/termsncondition`,
+        zh: `${baseURL}/zh/termsncondition`,
       },
     },
     openGraph: {
-      title: { absolute: t("metadata.title") },
+      title: t("metadata.title"),
       description: t("metadata.description"),
-      URL: "https://www.imageocr.info/termsncondition",
+      url: canonicalURL,
       siteName: "ImageOCR",
       images: [
         {

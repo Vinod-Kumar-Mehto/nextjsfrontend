@@ -6,7 +6,7 @@ import { createWorker } from "tesseract.js";
 import { FcDownload, FcLock, FcCopyright } from "react-icons/fc";
 import { RiDeleteBin5Line } from "react-icons/ri";
 import { VscDebugRestart } from "react-icons/vsc";
-import styles from "@/app/[locale]/imagetotext/page.module.css";
+import styles from "@/styles/page.module.css";
 import Image from "next/image";
 import { useTranslations } from "next-intl";
 

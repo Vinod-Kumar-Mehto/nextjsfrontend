@@ -60,7 +60,7 @@ const Header = () => {
             </Link>
           </li>
           <li className={styles.listitem}>
-            <Link as="imagetotext" href="/imagetotext">
+            <Link as="/" href="/">
               {t("items.labelthree")}
             </Link>
           </li>

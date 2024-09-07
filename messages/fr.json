@@ -110,6 +110,18 @@
     "metadata": {
       "title": "Convertisseur d'Image en Texte en Ligne Gratuit - Convertissez Rapidement les Images en Texte",
       "description": "Convertissez des images en texte facilement avec notre convertisseur d'image en texte gratuit. Cet outil vous permet d'extraire du texte des images rapidement et avec précision. Essayez-le maintenant pour transformer n'importe quelle image en texte modifiable !"
+    },
+    "keyWords": {
+      "onek": "ocr d'image",
+      "twok": "image en texte",
+      "threek": "convertisseur image en texte",
+      "fourk": "photo en texte",
+      "fivek": "convertir image en texte",
+      "sixk": "jpg en texte",
+      "sevenk": "ocr",
+      "eightk": "ocr gratuit",
+      "ninek": "logiciel ocr",
+      "tenk": "reconnaissance optique de caractères"
     }
   },
   "imageToPdfConverter": {
@@ -158,6 +170,13 @@
     "metadata": {
       "title": "Convertisseur d'Image en PDF Gratuit - Convertir des Images en PDFs en Ligne",
       "description": "Utilisez notre convertisseur JPG en PDF gratuit pour convertir rapidement et facilement jusqu'à quatre images en fichiers PDF. Conversion d'images en PDF en ligne, rapide et simple."
+    },
+    "keyWords": {
+      "onek": "ocr d'image",
+      "twok": "jpeg en pdf",
+      "threek": "jpg en pdf",
+      "fourk": "image en pdf",
+      "fivek": "convertisseur jpg en pdf"
     }
   },
 
@@ -211,8 +230,16 @@
     "metadata": {
       "title": "Convertir PDF en Excel Facilement et Gratuitement - Meilleur Outil en Ligne pour Convertir PDF en Excel",
       "description": "Notre convertisseur PDF en Excel rend la conversion des fichiers PDF en feuilles de calcul Excel simple et entièrement gratuite. Avec notre outil facile à utiliser, vous pouvez transformer rapidement vos documents PDF en fichiers Excel modifiables sans aucun coût. Profitez de conversions rapides et précises sans frais cachés !"
+    },
+    "keyWords": {
+      "onek": "ocr d'image",
+      "twok": "pdf en excel",
+      "threek": "convertisseur pdf en excel",
+      "fourk": "pdf en csv",
+      "fivek": "convertir pdf en excel"
     }
   },
+
   "pdfToImageConverter": {
     "title": "Convertisseur PDF en Image",
     "description": "Avec le convertisseur PDF en image, vous pouvez convertir un PDF en JPG gratuitement en un seul clic.",
@@ -267,6 +294,13 @@
     "metadata": {
       "title": "Convertisseur PDF en Image Gratuit - Convertissez les PDF en fichiers JPG instantanément",
       "description": "Convertissez les fichiers PDF en images JPG instantanément avec notre convertisseur PDF en image facile à utiliser. Rapide, efficace et gratuit."
+    },
+    "keyWords": {
+      "onek": "ocr d'image",
+      "twok": "convertisseur pdf en image",
+      "threek": "pdf en jpg",
+      "fourk": "pdf en images",
+      "fivek": "convertir pdf en image"
     }
   },
 
@@ -327,8 +361,17 @@
     "metadata": {
       "title": "Convertisseur gratuit de PDF en Word - Convertissez vos PDFs en fichiers Docx gratuitement et instantanément",
       "description": "Convertissez vos PDFs en fichiers DOCX entièrement modifiables avec notre convertisseur PDF en Word facile à utiliser. Transformez vos documents rapidement et avec précision tout en préservant le format et la mise en page."
+    },
+    "keyWords": {
+      "onek": "ocr d'image",
+      "twok": "ocr de pdf",
+      "threek": "convertisseur pdf en word",
+      "fourk": "convertir pdf en word",
+      "fivek": "convertisseur pdf en docx",
+      "sixk": "pdf en doc"
     }
   },
+
   "wordToPdfConverter": {
     "title": "Convertisseur Word en PDF",
     "description": "Vous pouvez convertir des fichiers Doc|Docx en documents PDF gratuitement en utilisant le convertisseur Word en PDF. Avec un seul clic, convertissez un document Word éditable en un PDF consultable.",
@@ -380,6 +423,15 @@
     "metadata": {
       "title": "Convertisseur Word en PDF Gratuit - Convertissez votre fichier Docx en PDF en ligne",
       "description": "Ce convertisseur Word en PDF permet de convertir des fichiers Docx en fichiers PDF. En seulement quelques clics et gratuitement, vous pouvez utiliser ce convertisseur pour transformer vos fichiers en PDF de haute qualité."
+    },
+
+    "keyWords": {
+      "onek": "ocr d'image",
+      "twok": "docx en pdf",
+      "threek": "doc en pdf",
+      "fourk": "convertir word en pdf",
+      "fivek": "convertisseur word en pdf",
+      "sixk": "convertisseur de word en pdf"
     }
   },
   "faq": {

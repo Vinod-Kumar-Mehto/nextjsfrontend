@@ -1,11 +1,15 @@
 import styles from "@/app/[locale]/contactus/page.module.css";
 import { getTranslations } from "next-intl/server";
 
-export async function generateMetadata() {
+export async function generateMetadata({ params }) {
   const t = await getTranslations("contactus");
+  const lang = params.locale || "en";
+  const baseURL = "https://www.imageocr.info";
+  const pagePath = "/contactus";
+  const canonicalURL = `${baseURL}/${lang}${pagePath}`;
 
   return {
-    title: { absolute: t("metadata.title") },
+    title: t("metadata.title"),
     description: t("metadata.description"),
     robots: {
       index: true,
@@ -18,24 +22,26 @@ export async function generateMetadata() {
       },
     },
     alternates: {
+      canonical: canonicalURL,
       languages: {
-        en: "/en/contactus",
-        de: "/de/contactus",
-        es: "/es/contactus",
-        fr: "/fr/contactus",
-        it: "/it/contactus",
-        ja: "/ja/contactus",
-        ko: "/ko/contactus",
-        pl: "/pl/contactus",
-        pt: "/pt/contactus",
-        ru: "/ru/contactus",
-        zh: "/zh/contactus",
+        "x-default": `${baseURL}/en/contactus`,
+        en: `${baseURL}/en/contactus`,
+        de: `${baseURL}/de/contactus`,
+        es: `${baseURL}/es/contactus`,
+        fr: `${baseURL}/fr/contactus`,
+        it: `${baseURL}/it/contactus`,
+        ja: `${baseURL}/ja/contactus`,
+        ko: `${baseURL}/ko/contactus`,
+        pl: `${baseURL}/pl/contactus`,
+        pt: `${baseURL}/pt/contactus`,
+        ru: `${baseURL}/ru/contactus`,
+        zh: `${baseURL}/zh/contactus`,
       },
     },
     openGraph: {
-      title: { absolute: t("metadata.title") },
+      title: t("metadata.title"),
       description: t("metadata.description"),
-      URL: "https://www.imageocr.info/contactus",
+      url: canonicalURL,
       siteName: "ImageOCR",
       images: [
         {

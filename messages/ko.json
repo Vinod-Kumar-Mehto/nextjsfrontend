@@ -109,6 +109,18 @@
     "metadata": {
       "title": "무료 온라인 이미지 텍스트 변환기 - 이미지를 빠르게 텍스트로 변환",
       "description": "우리의 무료 이미지 텍스트 변환기를 사용하여 이미지를 쉽게 텍스트로 변환하세요. 이 도구를 사용하면 이미지를 빠르고 정확하게 텍스트로 추출할 수 있습니다. 지금 바로 시도하여 어떤 이미지든 편집 가능한 텍스트로 변환하세요!"
+    },
+    "keyWords": {
+      "onek": "이미지 OCR",
+      "twok": "이미지에서 텍스트",
+      "threek": "이미지에서 텍스트 변환기",
+      "fourk": "사진에서 텍스트",
+      "fivek": "이미지를 텍스트로 변환",
+      "sixk": "JPG에서 텍스트",
+      "sevenk": "OCR",
+      "eightk": "무료 OCR",
+      "ninek": "OCR 소프트웨어",
+      "tenk": "광학 문자 인식"
     }
   },
 
@@ -157,8 +169,16 @@
     "metadata": {
       "title": "무료 이미지에서 PDF로 변환기 - 이미지를 쉽게 PDF로 변환",
       "description": "무료 JPG에서 PDF로 변환기를 사용하여 최대 4개의 이미지를 빠르고 쉽게 PDF 파일로 변환하세요. 온라인 이미지에서 PDF로의 변환이 빠르고 간편합니다."
+    },
+    "keyWords": {
+      "onek": "이미지 OCR",
+      "twok": "jpeg에서 pdf로",
+      "threek": "jpg에서 pdf로",
+      "fourk": "이미지에서 pdf로",
+      "fivek": "jpg에서 pdf로 변환기"
     }
   },
+
   "pdfToExcelConverter": {
     "title": "PDF에서 Excel로 변환기",
     "description": "PDF를 Excel 파일로 무료로 변환할 수 있는 PDF에서 Excel로 변환기를 사용해 보세요. 클릭 한 번으로 PDF를 편집 가능한 Excel 파일로 변환할 수 있습니다.",
@@ -208,6 +228,13 @@
     "metadata": {
       "title": "PDF를 쉽게 무료로 Excel로 변환 - 최고의 PDF to Excel 온라인 도구",
       "description": "우리의 PDF to Excel 변환기를 사용하면 PDF 파일을 Excel 스프레드시트로 쉽게 그리고 완전히 무료로 변환할 수 있습니다. 사용하기 쉬운 도구로 PDF 문서를 빠르게 편집 가능한 Excel 파일로 변환하고 추가 비용 없이 이용하세요. 빠르고 정확한 변환을 숨겨진 요금 없이 즐기세요!"
+    },
+    "keyWords": {
+      "onek": "이미지 OCR",
+      "twok": "pdf에서 excel로",
+      "threek": "pdf에서 excel 변환기",
+      "fourk": "pdf에서 csv로",
+      "fivek": "pdf를 excel로 변환"
     }
   },
 
@@ -266,6 +293,13 @@
     "metadata": {
       "title": "무료 PDF에서 이미지 변환기 - PDF를 JPG 파일로 즉시 변환",
       "description": "사용하기 쉬운 PDF에서 이미지로 변환기를 통해 PDF 파일을 즉시 JPG 이미지로 변환하세요. 빠르고 효율적이며 무료입니다."
+    },
+    "keyWords": {
+      "onek": "이미지 OCR",
+      "twok": "pdf에서 이미지 변환기",
+      "threek": "pdf에서 jpg",
+      "fourk": "pdf에서 이미지",
+      "fivek": "pdf를 이미지로 변환"
     }
   },
 
@@ -326,6 +360,14 @@
     "metadata": {
       "title": "무료 PDF에서 Word 파일로 변환 - PDF를 무료로 즉시 Docx 파일로 변환",
       "description": "사용하기 쉬운 PDF에서 Word로 변환 도구를 통해 PDF를 완전히 편집 가능한 DOCX 파일로 쉽게 변환할 수 있습니다. 문서의 형식과 레이아웃을 유지하면서 빠르고 정확하게 변환하세요."
+    },
+    "keyWords": {
+      "onek": "이미지 OCR",
+      "twok": "pdf OCR",
+      "threek": "pdf에서 word로 변환기",
+      "fourk": "pdf를 word로 변환",
+      "fivek": "pdf에서 docx로 변환기",
+      "sixk": "pdf를 doc로 변환"
     }
   },
 
@@ -380,6 +422,14 @@
     "metadata": {
       "title": "무료 Word에서 PDF로 변환기 - Docx 파일을 온라인에서 PDF로 변환",
       "description": "이 Word에서 PDF로 변환기는 Docx 파일을 PDF 파일로 변환하는 데 사용됩니다. 몇 번의 클릭만으로 무료로 파일을 고품질 PDF로 변환할 수 있습니다."
+    },
+    "keyWords": {
+      "onek": "이미지 OCR",
+      "twok": "docx에서 pdf로",
+      "threek": "doc에서 pdf로",
+      "fourk": "word를 pdf로 변환",
+      "fivek": "word에서 pdf로 변환기",
+      "sixk": "word를 pdf로 변환하는 도구"
     }
   },
 

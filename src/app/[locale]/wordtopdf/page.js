@@ -4,12 +4,24 @@ import feature from "@/assets/images/feature.png";
 import Image from "next/image";
 import { getTranslations } from "next-intl/server";
 
-export async function generateMetadata() {
+export async function generateMetadata({ params }) {
   const t = await getTranslations("wordToPdfConverter");
+  const lang = params.locale || "en";
+  const baseURL = "https://www.imageocr.info";
+  const pagePath = "/wordtopdf"; // Adjust this if you have dynamic paths
+  const canonicalURL = `${baseURL}/${lang}${pagePath}`;
 
   return {
-    title: { absolute: t("metadata.title") },
+    title: t("metadata.title"),
     description: t("metadata.description"),
+    keywords: [
+      t("keyWords.onek"),
+      t("keyWords.twok"),
+      t("keyWords.threek"),
+      t("keyWords.fourk"),
+      t("keyWords.fivek"),
+      t("keyWords.sixk"),
+    ],
     robots: {
       index: true,
       follow: true,
@@ -21,24 +33,26 @@ export async function generateMetadata() {
       },
     },
     alternates: {
+      canonical: canonicalURL,
       languages: {
-        en: "/en/wordtopdf",
-        de: "/de/wordtopdf",
-        es: "/es/wordtopdf",
-        fr: "/fr/wordtopdf",
-        it: "/it/wordtopdf",
-        ja: "/ja/wordtopdf",
-        ko: "/ko/wordtopdf",
-        pl: "/pl/wordtopdf",
-        pt: "/pt/wordtopdf",
-        ru: "/ru/wordtopdf",
-        zh: "/zh/wordtopdf",
+        "x-default": `${baseURL}/en/wordtopdf`,
+        en: `${baseURL}/en/wordtopdf`,
+        de: `${baseURL}/de/wordtopdf`,
+        es: `${baseURL}/es/wordtopdf`,
+        fr: `${baseURL}/fr/wordtopdf`,
+        it: `${baseURL}/it/wordtopdf`,
+        ja: `${baseURL}/ja/wordtopdf`,
+        ko: `${baseURL}/ko/wordtopdf`,
+        pl: `${baseURL}/pl/wordtopdf`,
+        pt: `${baseURL}/pt/wordtopdf`,
+        ru: `${baseURL}/ru/wordtopdf`,
+        zh: `${baseURL}/zh/wordtopdf`,
       },
     },
     openGraph: {
-      title: { absolute: t("metadata.title") },
+      title: t("metadata.title"),
       description: t("metadata.description"),
-      URL: "https://www.imageocr.info/wordtopdf",
+      url: canonicalURL, // Canonical URL
       siteName: "ImageOCR",
       images: [
         {

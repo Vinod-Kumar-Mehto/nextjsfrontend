@@ -108,6 +108,18 @@
     "metadata": {
       "title": "Darmowy internetowy konwerter obrazu na tekst - Szybko konwertuj obrazy na tekst",
       "description": "Łatwo konwertuj obrazy na tekst za pomocą naszego darmowego konwertera obrazu na tekst. To narzędzie pozwala szybko i dokładnie wyodrębniać tekst z obrazów. Wypróbuj teraz, aby przekształcić dowolny obraz w edytowalny tekst!"
+    },
+    "keyWords": {
+      "onek": "ocr obrazu",
+      "twok": "obraz na tekst",
+      "threek": "konwerter obrazu na tekst",
+      "fourk": "zdjęcie na tekst",
+      "fivek": "konwertuj obraz na tekst",
+      "sixk": "jpg na tekst",
+      "sevenk": "ocr",
+      "eightk": "darmowe ocr",
+      "ninek": "oprogramowanie ocr",
+      "tenk": "optyczne rozpoznawanie znaków"
     }
   },
 
@@ -156,6 +168,13 @@
     "metadata": {
       "title": "Darmowy Konwerter Obrazów na PDF - Łatwe Przekształcanie Obrazów na PDF Online",
       "description": "Skorzystaj z naszego darmowego konwertera JPG na PDF, aby szybko i łatwo przekształcić do czterech obrazów w pliki PDF. Konwersja obrazów na PDF online, szybka i prosta."
+    },
+    "keyWords": {
+      "onek": "ocr obrazu",
+      "twok": "jpeg do pdf",
+      "threek": "jpg do pdf",
+      "fourk": "obraz do pdf",
+      "fivek": "konwerter jpg do pdf"
     }
   },
 
@@ -208,8 +227,16 @@
     "metadata": {
       "title": "Konwertuj PDF na Excel Łatwo i Bezpłatnie - Najlepsze Narzędzie Online do Konwersji PDF na Excel",
       "description": "Nasz konwerter PDF na Excel umożliwia łatwe i całkowicie bezpłatne konwertowanie plików PDF na arkusze kalkulacyjne Excel. Dzięki naszemu łatwemu w użyciu narzędziu możesz szybko przekształcić dokumenty PDF w edytowalne pliki Excel bez żadnych kosztów. Ciesz się szybką i dokładną konwersją bez ukrytych opłat!"
+    },
+    "keyWords": {
+      "onek": "ocr obrazu",
+      "twok": "pdf do excel",
+      "threek": "konwerter pdf do excel",
+      "fourk": "pdf do csv",
+      "fivek": "konwertuj pdf do excel"
     }
   },
+
   "pdfToImageConverter": {
     "title": "Konwerter PDF na Obraz",
     "description": "Za pomocą konwertera PDF na Obraz możesz bezpłatnie konwertować PDF na JPG jednym kliknięciem.",
@@ -263,6 +290,13 @@
     "metadata": {
       "title": "Bezpłatny konwerter PDF na obraz - Natychmiastowa konwersja PDF na pliki JPG",
       "description": "Natychmiastowo konwertuj pliki PDF na obrazy JPG za pomocą naszego łatwego w użyciu konwertera PDF na obraz. Szybko, efektywnie i za darmo."
+    },
+    "keyWords": {
+      "onek": "ocr obrazu",
+      "twok": "konwerter pdf na obraz",
+      "threek": "pdf na jpg",
+      "fourk": "pdf na obrazy",
+      "fivek": "konwertuj pdf na obraz"
     }
   },
 
@@ -323,6 +357,14 @@
     "metadata": {
       "title": "Bezpłatny konwerter PDF na Word - Konwertuj swoje PDF-y na pliki Docx za darmo i natychmiast",
       "description": "Przekształć swoje PDF-y w w pełni edytowalne pliki DOCX dzięki naszemu łatwemu w użyciu konwerterowi PDF na Word. Szybko i dokładnie zmień dokumenty, zachowując formatowanie i układ."
+    },
+    "keyWords": {
+      "onek": "ocr obrazu",
+      "twok": "ocr pdf",
+      "threek": "konwerter pdf na word",
+      "fourk": "konwertuj pdf na word",
+      "fivek": "konwerter pdf na docx",
+      "sixk": "pdf na doc"
     }
   },
 
@@ -377,6 +419,14 @@
     "metadata": {
       "title": "Bezpłatny Konwerter Word na PDF - Przekonwertuj swój plik Docx na PDF online",
       "description": "Ten konwerter Word na PDF służy do konwersji plików Docx na pliki PDF. Wystarczy kilka kliknięć, aby bezpłatnie przekonwertować pliki na wysokiej jakości PDF."
+    },
+    "keyWords": {
+      "onek": "ocr obrazu",
+      "twok": "docx na pdf",
+      "threek": "doc na pdf",
+      "fourk": "konwertuj word na pdf",
+      "fivek": "konwerter word na pdf",
+      "sixk": "konwerter word na pdf"
     }
   },
 

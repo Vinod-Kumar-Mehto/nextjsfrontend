@@ -100,6 +100,18 @@
     "metadata": {
       "title": "Kostenloser Online-Bild-zu-Text-Konverter - Bilder schnell in Text umwandeln",
       "description": "Wandeln Sie Bilder mühelos in Text um mit unserem kostenlosen Bild-zu-Text-Konverter. Dieses Tool ermöglicht es Ihnen, Text schnell und genau aus Bildern zu extrahieren. Probieren Sie es jetzt aus, um jedes Bild in bearbeitbaren Text zu verwandeln!"
+    },
+    "keyWords": {
+      "onek": "Bild-OCR",
+      "twok": "Bild zu Text",
+      "threek": "Bild zu Text Konverter",
+      "fourk": "Foto zu Text",
+      "fivek": "Bild in Text umwandeln",
+      "sixk": "JPG zu Text",
+      "sevenk": "OCR",
+      "eightk": "kostenlose OCR",
+      "ninek": "OCR-Software",
+      "tenk": "optische Zeichenerkennung"
     }
   },
 
@@ -149,6 +161,13 @@
     "metadata": {
       "title": "Kostenloser Bild-zu-PDF-Konverter - Bilder einfach online in PDFs umwandeln",
       "description": "Verwenden Sie unseren kostenlosen JPG-zu-PDF-Konverter, um bis zu vier Bilder schnell und einfach in PDF-Dateien umzuwandeln. Online-Bild-zu-PDF-Konvertierung, die schnell und einfach ist."
+    },
+    "keyWords": {
+      "onek": "Bild-OCR",
+      "twok": "jpeg zu pdf",
+      "threek": "jpg zu pdf",
+      "fourk": "Bild zu pdf",
+      "fivek": "jpg zu pdf Konverter"
     }
   },
 
@@ -202,6 +221,13 @@
     "metadata": {
       "title": "PDF in Excel konvertieren – Einfach und kostenlos – Bester PDF zu Excel Konverter Online-Tool",
       "description": "Unser PDF zu Excel Konverter macht es mühelos und völlig kostenlos, PDF-Dateien in Excel-Tabellen zu konvertieren. Mit unserem benutzerfreundlichen Tool können Sie Ihre PDF-Dokumente schnell in bearbeitbare Excel-Dateien umwandeln, ohne zusätzliche Kosten. Genießen Sie schnelle, präzise Konvertierungen ohne versteckte Gebühren!"
+    },
+    "keyWords": {
+      "onek": "Bild-OCR",
+      "twok": "pdf zu excel",
+      "threek": "pdf zu excel Konverter",
+      "fourk": "pdf zu csv",
+      "fivek": "pdf in excel umwandeln"
     }
   },
 
@@ -259,6 +285,13 @@
     "metadata": {
       "title": "Kostenloser PDF zu Bild Konverter - PDF-Dateien sofort in JPG-Dateien umwandeln",
       "description": "Wandeln Sie PDF-Dateien sofort in JPG-Bilder um mit unserem einfach zu bedienenden PDF zu Bild Konverter. Schnell, effizient und kostenlos."
+    },
+    "keyWords": {
+      "onek": "Bild-OCR",
+      "twok": "pdf zu Bild Konverter",
+      "threek": "pdf zu jpg",
+      "fourk": "pdf zu Bildern",
+      "fivek": "pdf in Bild umwandeln"
     }
   },
 
@@ -320,8 +353,17 @@
     "metadata": {
       "title": "Kostenloser PDF zu Word-Dateikonverter - Konvertieren Sie Ihre PDFs kostenlos und sofort in Docx-Dateien",
       "description": "Konvertieren Sie Ihre PDFs mühelos in vollständig bearbeitbare DOCX-Dateien mit unserem benutzerfreundlichen PDF zu Word-Konverter. Transformieren Sie Dokumente schnell und genau, während Sie Formatierung und Layout beibehalten."
+    },
+    "keyWords": {
+      "onek": "Bild-OCR",
+      "twok": "pdf ocr",
+      "threek": "pdf zu Word Konverter",
+      "fourk": "pdf in Word umwandeln",
+      "fivek": "pdf zu docx Konverter",
+      "sixk": "pdf zu doc"
     }
   },
+
   "wordToPdfConverter": {
     "title": "Word-zu-PDF-Konverter",
     "description": "Mit dem Word-zu-PDF-Konverter können Sie Doc|Docx-Dateien kostenlos in PDF-Dokumente umwandeln. Mit nur einem Klick können Sie ein bearbeitbares Word-Dokument in ein durchsuchbares PDF konvertieren.",
@@ -373,6 +415,14 @@
     "metadata": {
       "title": "Kostenloser Word zu PDF Konverter - Konvertieren Sie Ihre Docx-Datei online in PDFs",
       "description": "Dieser Word zu PDF Konverter wird verwendet, um Docx-Dateien in PDF-Dateien umzuwandeln. Mit nur wenigen Klicks kostenlos können Sie diesen Konverter verwenden, um Dateien in hochwertige PDFs zu konvertieren."
+    },
+    "keyWords": {
+      "onek": "Bild-OCR",
+      "twok": "docx zu pdf",
+      "threek": "doc zu pdf",
+      "fourk": "Word in pdf umwandeln",
+      "fivek": "Word zu pdf Konverter",
+      "sixk": "Word Konverter zu pdf"
     }
   },
 
