@@ -316,56 +316,6 @@
 	<priority>0.8</priority>
 </url>
 <url>
-	<loc>https://www.imageocr.info/de/imagetotext</loc>
-	<lastmod>2024-09-07T12:13:27+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://www.imageocr.info/es/imagetotext</loc>
-	<lastmod>2024-09-07T12:13:27+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://www.imageocr.info/fr/imagetotext</loc>
-	<lastmod>2024-09-07T12:13:27+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://www.imageocr.info/it/imagetotext</loc>
-	<lastmod>2024-09-07T12:13:27+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://www.imageocr.info/ja/imagetotext</loc>
-	<lastmod>2024-09-07T12:13:27+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://www.imageocr.info/ko/imagetotext</loc>
-	<lastmod>2024-09-07T12:13:27+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://www.imageocr.info/pl/imagetotext</loc>
-	<lastmod>2024-09-07T12:13:27+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://www.imageocr.info/pt/imagetotext</loc>
-	<lastmod>2024-09-07T12:13:27+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://www.imageocr.info/ru/imagetotext</loc>
-	<lastmod>2024-09-07T12:13:27+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://www.imageocr.info/zh/imagetotext</loc>
-	<lastmod>2024-09-07T12:13:27+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
 	<loc>https://www.imageocr.info/de/wordtopdf</loc>
 	<lastmod>2024-09-07T12:13:27+01:00</lastmod>
 	<priority>0.8</priority>
