@@ -31,7 +31,7 @@ const Header = () => {
       document.removeEventListener("mousedown", handleClickOutside);
       window.removeEventListener("scroll", handleScroll);
     };
-  }, [t]);
+  }, []);
 
   return (
     <>
