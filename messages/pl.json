@@ -70,6 +70,7 @@
       },
       "keyFeatures": {
         "heading": "Kluczowe funkcje konwertera obrazów na tekst",
+        "headinghref": "Nasze inne narzędzia",
         "features": {
           "titleone": "Darmowe w użyciu",
           "descriptionone": "To narzędzie jest dostępne za darmo dla każdego.",
@@ -141,6 +142,7 @@
     },
     "mainBenefits": {
       "heading": "Główne Korzyści z Konwertera Obrazów",
+      "headinghref": "Nasze inne narzędzia",
       "benefits": {
         "titleM": "Wsparcie dla Wiele Formatów",
         "descriptionM": "Nasze narzędzie obsługuje szeroką gamę formatów obrazów, umożliwiając użytkownikom konwersję JPEG, PNG, GIF na dokument PDF. Ta elastyczność odpowiada różnym potrzebom, zarówno w dokumentach profesjonalnych, projektach osobistych, jak i celach archiwalnych.",
@@ -196,6 +198,7 @@
     },
     "keyFeatures": {
       "heading": "Główne Funkcje Konwertera PDF",
+      "headinghref": "Nasze inne narzędzia",
       "features": {
         "titleF": "Darmowy Dostęp",
         "descriptionF": "Nasz konwerter PDF jest całkowicie darmowy, zapewniając dostęp dla wszystkich użytkowników bez kosztów lub subskrypcji.",
@@ -255,6 +258,7 @@
     },
     "keyFeatures": {
       "heading": "Główne Funkcje Konwertera PDF",
+      "headinghref": "Nasze inne narzędzia",
       "features": {
         "titleF": "Darmowy w Użyciu",
         "descriptionF": "Nasz konwerter PDF na JPG jest całkowicie darmowy dla wszystkich użytkowników. Nie ma ukrytych opłat ani subskrypcji, co zapewnia dostępność dla każdego.",
@@ -318,6 +322,7 @@
     },
     "keyFeatures": {
       "heading": "Główne Funkcje Konwertera PDF",
+      "headinghref": "Nasze inne narzędzia",
       "features": {
         "titleF": "Darmowy w Użyciu",
         "descriptionF": "Nasz konwerter PDF na Word jest całkowicie darmowy dla wszystkich. Niezależnie od tego, czy jesteś studentem, profesjonalistą, czy kimś, kto potrzebuje konwertować dokumenty, możesz korzystać z tego narzędzia bez ukrytych opłat czy subskrypcji. To zapewnia wszystkim dostęp do usług konwersji wysokiej jakości bez obaw o koszty.",
@@ -386,6 +391,7 @@
     },
     "keyFeatures": {
       "heading": "Funkcje Konwertera Docx",
+      "headinghref": "Nasze inne narzędzia",
       "features": {
         "titleU": "Przyjazny Interfejs",
         "descriptionU": "Ciesz się czystym i intuicyjnym interfejsem, który upraszcza proces konwersji dla użytkowników na każdym poziomie umiejętności.",

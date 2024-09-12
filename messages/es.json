@@ -72,6 +72,7 @@
       },
       "keyFeatures": {
         "heading": "Características Clave del Convertidor de Imagen a Texto",
+        "headinghref": "Nuestras otras herramientas",
         "features": {
           "titleone": "Gratis para Usar",
           "descriptionone": "Esta herramienta está disponible de forma gratuita para todos.",
@@ -143,6 +144,7 @@
     },
     "mainBenefits": {
       "heading": "Principales Beneficios del Convertidor de Imágenes",
+      "headinghref": "Nuestras otras herramientas",
       "benefits": {
         "titleM": "Soporte para Múltiples Formatos",
         "descriptionM": "Nuestra herramienta admite una amplia gama de formatos de imagen, permitiendo a los usuarios convertir JPEG, PNG y GIF en un documento PDF. Esta flexibilidad satisface diversas necesidades, ya sea para documentos profesionales, proyectos personales o fines de archivo.",
@@ -197,6 +199,7 @@
     },
     "keyFeatures": {
       "heading": "Características Clave del Convertidor de PDF",
+      "headinghref": "Nuestras otras herramientas",
       "features": {
         "titleF": "Acceso Gratuito",
         "descriptionF": "Nuestro convertidor de PDF es completamente gratuito, asegurando accesibilidad para todos los usuarios sin costos ni suscripciones.",
@@ -256,6 +259,7 @@
     },
     "keyFeatures": {
       "heading": "Características Clave del Convertidor de PDF",
+      "headinghref": "Nuestras otras herramientas",
       "features": {
         "titleF": "Gratis para Usar",
         "descriptionF": "Nuestro convertidor de PDF a JPG es completamente gratuito para todos los usuarios. No hay cargos ocultos ni suscripciones, garantizando accesibilidad para todos.",
@@ -319,6 +323,7 @@
     },
     "keyFeatures": {
       "heading": "Características Clave del Convertidor de PDF",
+      "headinghref": "Nuestras otras herramientas",
       "features": {
         "titleF": "Gratis para Usar",
         "descriptionF": "Nuestro convertidor de PDF a Word es completamente gratuito para todos. Ya seas estudiante, profesional o cualquier persona que necesite convertir documentos, puedes usar esta herramienta sin cargos ocultos ni tarifas de suscripción. Esto asegura que todos tengan acceso a servicios de conversión de alta calidad sin preocuparse por los costos.",
@@ -387,6 +392,7 @@
     },
     "keyFeatures": {
       "heading": "Características del Convertidor de Docx",
+      "headinghref": "Nuestras otras herramientas",
       "features": {
         "titleU": "Interfaz Amigable",
         "descriptionU": "Disfruta de una interfaz limpia e intuitiva que simplifica el proceso de conversión para usuarios de todos los niveles de habilidad.",

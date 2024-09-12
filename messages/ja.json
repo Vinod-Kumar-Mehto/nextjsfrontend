@@ -71,6 +71,7 @@
       },
       "keyFeatures": {
         "heading": "画像からテキストへ変換ツールの主な機能",
+        "headinghref": "その他のツール",
         "features": {
           "titleone": "無料で使用可能",
           "descriptionone": "このツールは、すべてのユーザーに無料で提供されています。",
@@ -142,6 +143,7 @@
     },
     "mainBenefits": {
       "heading": "画像変換ツールの主な利点",
+      "headinghref": "その他のツール",
       "benefits": {
         "titleM": "多形式対応",
         "descriptionM": "当社のツールは幅広い画像フォーマットに対応しており、JPEG、PNG、GIFをPDF文書に変換できます。この柔軟性は、プロフェッショナルな文書、個人プロジェクト、アーカイブ目的など、さまざまなニーズに対応します。",
@@ -196,6 +198,7 @@
     },
     "keyFeatures": {
       "heading": "PDF変換ツールの主な機能",
+      "headinghref": "その他のツール",
       "features": {
         "titleF": "無料アクセス",
         "descriptionF": "当社のPDF変換ツールは完全に無料で、ユーザー全員がコストやサブスクリプションなしでアクセスできます。",
@@ -255,6 +258,7 @@
     },
     "keyFeatures": {
       "heading": "PDF変換ツールの主な機能",
+      "headinghref": "その他のツール",
       "features": {
         "titleF": "無料で使用可能",
         "descriptionF": "当社のPDFからJPGへの変換ツールは完全に無料で提供されています。隠れた料金やサブスクリプションはなく、すべてのユーザーがアクセスできます。",
@@ -320,6 +324,7 @@
     },
     "keyFeatures": {
       "heading": "PDF変換ツールの主な機能",
+      "headinghref": "その他のツール",
       "features": {
         "titleF": "無料で使用可能",
         "descriptionF": "当社のPDFからWordへの変換ツールは完全に無料です。学生、プロフェッショナル、または文書の変換が必要なすべての方が、隠れた料金やサブスクリプションなしで使用できます。これにより、コストを心配することなく、高品質な変換サービスにアクセスできます。",
@@ -388,6 +393,7 @@
     },
     "keyFeatures": {
       "heading": "Docx変換ツールの機能",
+      "headinghref": "その他のツール",
       "features": {
         "titleU": "ユーザーフレンドリーなインターフェース",
         "descriptionU": "すべてのスキルレベルのユーザーに対応する、クリーンで直感的なUIをお楽しみください。変換プロセスが簡素化されています。",

@@ -8,6 +8,7 @@ import Image from "next/image";
 import ImgToText from "@/components/ImgToText";
 import feature from "@/assets/images/feature.png";
 import { getTranslations } from "next-intl/server";
+import Link from "next/link";
 
 export async function generateMetadata({ params }) {
   const t = await getTranslations("imgtotext");
@@ -97,7 +98,6 @@ const ImageToText = async () => {
           <h2 className={styles.textheading}>
             {t("imageToTextConverter.whatIs.heading")}
           </h2>
-
           <p className={styles.textcontentpara}>
             {t("imageToTextConverter.whatIs.contentone")} <br />
             <br />
@@ -133,6 +133,33 @@ const ImageToText = async () => {
             </li>
           </ul>
         </div>
+        <h2 className={styles.textheading}>
+          {t("imageToTextConverter.keyFeatures.headinghref")}
+        </h2>
+        <div className={styles.hrefcontainer}>
+          <div className={styles.box}>
+            <Link href="https://www.imageocr.info/pdftoimage">
+              PDF To Image
+            </Link>
+          </div>
+          <div className={styles.box}>
+            <Link href="https://www.imageocr.info/pdftoword">PDF To Word</Link>
+          </div>
+          <div className={styles.box}>
+            <Link href="https://www.imageocr.info/pdftoexcel">
+              PDF To Excel
+            </Link>
+          </div>
+          <div className={styles.box}>
+            <Link href="https://www.imageocr.info/imagetopdf">
+              Image To PDF
+            </Link>
+          </div>
+          <div className={styles.box}>
+            <Link href="https://www.imageocr.info/wordtopdf">Word To PDF</Link>
+          </div>
+        </div>
+
         <div className={styles.textcontentdiv}>
           <Image alt="keyfeature" src={feature} className={styles.featureimg} />
           <h2 className={styles.textheading}>

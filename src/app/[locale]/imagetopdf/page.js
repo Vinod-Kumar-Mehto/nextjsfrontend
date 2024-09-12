@@ -3,6 +3,7 @@ import ImageToPdf from "@/components/ImageToPdf";
 import Image from "next/image";
 import feature from "@/assets/images/feature.png";
 import { getTranslations } from "next-intl/server";
+import Link from "next/link";
 
 export async function generateMetadata({ params }) {
   const t = await getTranslations("imageToPdfConverter");
@@ -110,6 +111,29 @@ const Imagetopdf = async () => {
             </li>
           </ul>
         </div>
+        <h2 className={styles.textheading1}>{t("mainBenefits.headinghref")}</h2>
+        <div className={styles.hrefcontainer}>
+          <div className={styles.box}>
+            <Link href="https://www.imageocr.info/pdftoimage">
+              PDF TO Image
+            </Link>
+          </div>
+          <div className={styles.box}>
+            <Link href="https://www.imageocr.info/pdftoword">PDF To Word</Link>
+          </div>
+          <div className={styles.box}>
+            <Link href="https://www.imageocr.info/pdftoexcel">
+              PDF To Excel
+            </Link>
+          </div>
+          <div className={styles.box}>
+            <Link href="https://www.imageocr.info">Image To Text</Link>
+          </div>
+          <div className={styles.box}>
+            <Link href="https://www.imageocr.info/wordtopdf">Word To PDF</Link>
+          </div>
+        </div>
+
         <div className={styles.textcontentdiv}>
           <Image
             src={feature}

@@ -71,6 +71,7 @@
       },
       "keyFeatures": {
         "heading": "Key Features of the Image to Text Converter",
+        "headinghref": "Our Other Tools",
         "features": {
           "titleone": "Free to Use",
           "descriptionone": "This tool is available for free for everyone.",
@@ -142,6 +143,7 @@
     },
     "mainBenefits": {
       "heading": "Main Benefits of the Image Converter",
+      "headinghref": "Our Other Tools",
       "benefits": {
         "titleM": "Multi-Format Support",
         "descriptionM": "Our tool supports a wide range of image formats, allowing users to convert JPEG, PNG, GIF into a PDF document. This flexibility caters to diverse needs, whether for professional documents, personal projects, or archival purposes.",
@@ -197,6 +199,7 @@
     },
     "keyFeatures": {
       "heading": "Key Features of PDF Converter",
+      "headinghref": "Our Other Tools",
       "features": {
         "titleF": "Free Access",
         "descriptionF": "Our PDF converter is completely free, ensuring accessibility for all users without any costs or subscriptions.",
@@ -257,6 +260,7 @@
     },
     "keyFeatures": {
       "heading": "Key Features of the PDF Converter",
+      "headinghref": "Our Other Tools",
       "features": {
         "titleF": "Free to Use",
         "descriptionF": "Our PDF to JPG converter is entirely free for all users. There are no hidden charges or subscriptions, ensuring accessibility for everyone.",
@@ -322,6 +326,7 @@
     },
     "keyFeatures": {
       "heading": "Key Features of the PDF Converter",
+      "headinghref": "Our Other Tools",
       "features": {
         "titleF": "Free to Use",
         "descriptionF": "Our PDF to Word converter is completely free for everyone. Whether you are a student, professional, or anyone needing to convert documents, you can use this tool without any hidden charges or subscription fees. This ensures that everyone has access to high-quality conversion services without worrying about costs.",
@@ -391,6 +396,7 @@
     },
     "keyFeatures": {
       "heading": "Features of the Docx Converter",
+      "headinghref": "Our Other Tools",
       "features": {
         "titleU": "User-Friendly Interface",
         "descriptionU": "Enjoy a clean and intuitive UI that simplifies the conversion process for users of all skill levels.",

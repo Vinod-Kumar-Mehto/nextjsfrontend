@@ -71,6 +71,7 @@
       },
       "keyFeatures": {
         "heading": "图像转文本转换器的主要功能",
+        "headinghref": "我們的其他工具",
         "features": {
           "titleone": "免费使用",
           "descriptionone": "此工具可供所有人免费使用。",
@@ -142,6 +143,7 @@
     },
     "mainBenefits": {
       "heading": "图像转换器的主要优势",
+      "headinghref": "我們的其他工具",
       "benefits": {
         "titleM": "多格式支持",
         "descriptionM": "我们的工具支持多种图像格式，允许用户将 JPEG、PNG、GIF 转换为 PDF 文档。无论是专业文件、个人项目还是存档目的，这种灵活性都能满足多样化的需求。",
@@ -198,6 +200,7 @@
     },
     "keyFeatures": {
       "heading": "PDF 转换器的关键功能",
+      "headinghref": "我們的其他工具",
       "features": {
         "titleF": "免费访问",
         "descriptionF": "我们的 PDF 转换器完全免费，确保所有用户无需支付任何费用或订阅即可访问。",
@@ -258,6 +261,7 @@
     },
     "keyFeatures": {
       "heading": "PDF 转换器的关键功能",
+      "headinghref": "我們的其他工具",
       "features": {
         "titleF": "免费使用",
         "descriptionF": "我们的 PDF 转 JPG 转换器完全免费，适用于所有用户。没有隐藏费用或订阅，确保每个人都可以访问。",
@@ -322,6 +326,7 @@
     },
     "keyFeatures": {
       "heading": "PDF 转换器的关键功能",
+      "headinghref": "我們的其他工具",
       "features": {
         "titleF": "免费使用",
         "descriptionF": "我们的 PDF 转 Word 转换器对所有人完全免费。无论您是学生、专业人士还是任何需要转换文档的人，您都可以使用此工具，无需任何隐藏费用或订阅费用。这确保每个人都可以访问高质量的转换服务，而无需担心费用。",
@@ -390,6 +395,7 @@
     },
     "keyFeatures": {
       "heading": "Docx 转换器的功能",
+      "headinghref": "我們的其他工具",
       "features": {
         "titleU": "用户友好的界面",
         "descriptionU": "享受干净直观的用户界面，简化了各个技能水平用户的转换过程。",

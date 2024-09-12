@@ -72,6 +72,7 @@
       },
       "keyFeatures": {
         "heading": "Fonctionnalités Clés du Convertisseur d'Image en Texte",
+        "headinghref": "Nos autres outils",
         "features": {
           "titleone": "Gratuit à Utiliser",
           "descriptionone": "Cet outil est disponible gratuitement pour tout le monde.",
@@ -142,6 +143,7 @@
     },
     "mainBenefits": {
       "heading": "Principaux Avantages du Convertisseur d'Image",
+      "headinghref": "Nos autres outils",
       "benefits": {
         "titleM": "Support Multi-Format",
         "descriptionM": "Notre outil prend en charge une large gamme de formats d'image, permettant aux utilisateurs de convertir JPEG, PNG, GIF en un document PDF. Cette flexibilité répond à divers besoins, qu'il s'agisse de documents professionnels, de projets personnels ou de fins d'archivage.",
@@ -198,6 +200,7 @@
     },
     "keyFeatures": {
       "heading": "Caractéristiques Clés du Convertisseur PDF",
+      "headinghref": "Nos autres outils",
       "features": {
         "titleF": "Accès Gratuit",
         "descriptionF": "Notre convertisseur PDF est entièrement gratuit, assurant l'accessibilité pour tous les utilisateurs sans frais ni abonnements.",
@@ -258,6 +261,7 @@
     },
     "keyFeatures": {
       "heading": "Caractéristiques Clés du Convertisseur PDF",
+      "headinghref": "Nos autres outils",
       "features": {
         "titleF": "Gratuit à Utiliser",
         "descriptionF": "Notre convertisseur PDF en JPG est entièrement gratuit pour tous les utilisateurs. Il n'y a pas de frais cachés ni d'abonnements, garantissant l'accessibilité pour tout le monde.",
@@ -322,6 +326,7 @@
     },
     "keyFeatures": {
       "heading": "Caractéristiques Clés du Convertisseur PDF",
+      "headinghref": "Nos autres outils",
       "features": {
         "titleF": "Gratuit à Utiliser",
         "descriptionF": "Notre convertisseur PDF en Word est entièrement gratuit pour tout le monde. Que vous soyez étudiant, professionnel ou simplement quelqu'un ayant besoin de convertir des documents, vous pouvez utiliser cet outil sans frais cachés ni abonnement. Cela garantit que tout le monde a accès à des services de conversion de haute qualité sans se soucier des coûts.",
@@ -390,6 +395,7 @@
     },
     "keyFeatures": {
       "heading": "Fonctionnalités du Convertisseur Docx",
+      "headinghref": "Nos autres outils",
       "features": {
         "titleU": "Interface Conviviale",
         "descriptionU": "Profitez d'une interface claire et intuitive qui simplifie le processus de conversion pour les utilisateurs de tous niveaux de compétence.",
