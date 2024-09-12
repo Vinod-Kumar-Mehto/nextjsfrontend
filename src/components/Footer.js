@@ -50,12 +50,12 @@ const Footer = () => {
           </Link>
         </li>
         <li className={styles.listitem}>
-          <Link as="termsncondition" href="/termsncondition">
+          <Link as="terms-and-condition" href="/terms-and-condition">
             {t("links.labelthree")}
           </Link>
         </li>
         <li className={styles.listitem}>
-          <Link as="privacypolicy" href="/privacypolicy">
+          <Link as="privacy-policy" href="/privacy-policy">
             {t("links.labelfour")}
           </Link>
         </li>

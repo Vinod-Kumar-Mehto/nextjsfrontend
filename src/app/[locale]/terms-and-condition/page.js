@@ -1,11 +1,11 @@
-import styles from "@/app/[locale]/termsncondition/page.module.css";
+import styles from "@/app/[locale]/terms-and-condition/page.module.css";
 import { getTranslations } from "next-intl/server";
 
 export async function generateMetadata({ params }) {
   const t = await getTranslations("termsandcondition");
   const lang = params.locale || "en";
   const baseURL = "https://www.imageocr.info";
-  const pagePath = "/termsncondition";
+  const pagePath = "/terms-and-condition";
   const canonicalURL = `${baseURL}/${lang}${pagePath}`;
 
   return {
@@ -24,18 +24,18 @@ export async function generateMetadata({ params }) {
     alternates: {
       canonical: canonicalURL,
       languages: {
-        "x-default": `${baseURL}/en/termsncondition`,
-        en: `${baseURL}/en/termsncondition`,
-        de: `${baseURL}/de/termsncondition`,
-        es: `${baseURL}/es/termsncondition`,
-        fr: `${baseURL}/fr/termsncondition`,
-        it: `${baseURL}/it/termsncondition`,
-        ja: `${baseURL}/ja/termsncondition`,
-        ko: `${baseURL}/ko/termsncondition`,
-        pl: `${baseURL}/pl/termsncondition`,
-        pt: `${baseURL}/pt/termsncondition`,
-        ru: `${baseURL}/ru/termsncondition`,
-        zh: `${baseURL}/zh/termsncondition`,
+        "x-default": `${baseURL}/en/terms-and-condition`,
+        en: `${baseURL}/en/terms-and-condition`,
+        de: `${baseURL}/de/terms-and-condition`,
+        es: `${baseURL}/es/terms-and-condition`,
+        fr: `${baseURL}/fr/terms-and-condition`,
+        it: `${baseURL}/it/terms-and-condition`,
+        ja: `${baseURL}/ja/terms-and-condition`,
+        ko: `${baseURL}/ko/terms-and-condition`,
+        pl: `${baseURL}/pl/terms-and-condition`,
+        pt: `${baseURL}/pt/terms-and-condition`,
+        ru: `${baseURL}/ru/terms-and-condition`,
+        zh: `${baseURL}/zh/terms-and-condition`,
       },
     },
     openGraph: {

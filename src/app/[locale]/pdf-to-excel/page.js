@@ -1,14 +1,14 @@
 import styles from "@/styles/all.module.css";
-import WordToPdf from "@/components/WordToPdf";
-import feature from "@/assets/images/feature.png";
+import PdfToExcel from "@/components/PdfToExcel";
 import Image from "next/image";
+import feature from "@/assets/images/feature.png";
 import { getTranslations } from "next-intl/server";
 
 export async function generateMetadata({ params }) {
-  const t = await getTranslations("wordToPdfConverter");
+  const t = await getTranslations("pdfToExcelConverter");
   const lang = params.locale || "en";
   const baseURL = "https://www.imageocr.info";
-  const pagePath = "/wordtopdf"; // Adjust this if you have dynamic paths
+  const pagePath = "/pdf-to-excel";
   const canonicalURL = `${baseURL}/${lang}${pagePath}`;
 
   return {
@@ -20,7 +20,6 @@ export async function generateMetadata({ params }) {
       t("keyWords.threek"),
       t("keyWords.fourk"),
       t("keyWords.fivek"),
-      t("keyWords.sixk"),
     ],
     robots: {
       index: true,
@@ -35,24 +34,24 @@ export async function generateMetadata({ params }) {
     alternates: {
       canonical: canonicalURL,
       languages: {
-        "x-default": `${baseURL}/en/wordtopdf`,
-        en: `${baseURL}/en/wordtopdf`,
-        de: `${baseURL}/de/wordtopdf`,
-        es: `${baseURL}/es/wordtopdf`,
-        fr: `${baseURL}/fr/wordtopdf`,
-        it: `${baseURL}/it/wordtopdf`,
-        ja: `${baseURL}/ja/wordtopdf`,
-        ko: `${baseURL}/ko/wordtopdf`,
-        pl: `${baseURL}/pl/wordtopdf`,
-        pt: `${baseURL}/pt/wordtopdf`,
-        ru: `${baseURL}/ru/wordtopdf`,
-        zh: `${baseURL}/zh/wordtopdf`,
+        "x-default": `${baseURL}/en/pdf-to-excel`,
+        en: `${baseURL}/en/pdf-to-excel`,
+        de: `${baseURL}/de/pdf-to-excel`,
+        es: `${baseURL}/es/pdf-to-excel`,
+        fr: `${baseURL}/fr/pdf-to-excel`,
+        it: `${baseURL}/it/pdf-to-excel`,
+        ja: `${baseURL}/ja/pdf-to-excel`,
+        ko: `${baseURL}/ko/pdf-to-excel`,
+        pl: `${baseURL}/pl/pdf-to-excel`,
+        pt: `${baseURL}/pt/pdf-to-excel`,
+        ru: `${baseURL}/ru/pdf-to-excel`,
+        zh: `${baseURL}/zh/pdf-to-excel`,
       },
     },
     openGraph: {
       title: t("metadata.title"),
       description: t("metadata.description"),
-      url: canonicalURL, // Canonical URL
+      url: canonicalURL,
       siteName: "ImageOCR",
       images: [
         {
@@ -66,25 +65,26 @@ export async function generateMetadata({ params }) {
   };
 }
 
-const Wordtopdf = async () => {
-  const t = await getTranslations("wordToPdfConverter");
+const Pdftoexcel = async () => {
+  const t = await getTranslations("pdfToExcelConverter");
   return (
     <>
       <div className={styles.pdfformcontainer}>
         <div className={styles.pdfheading}>
-          <h1 className={styles.heading1}>{t("title")}</h1>
+          <h1 className={styles.heading1}> {t("title")}</h1>
           <br />
           <h4 className={styles.heading4}>{t("description")}</h4>
         </div>
-        <WordToPdf />
+        <PdfToExcel />
       </div>
+
       <div className={styles.textContent}>
         <div className={styles.textcontentdiv}>
           <h2 className={styles.textheading1}>{t("onlineConvert.heading")}</h2>
           <p className={styles.textcontentpara}>{t("onlineConvert.content")}</p>
         </div>
         <div className={styles.textcontentdiv}>
-          <h2 className={styles.textheading1}>{t("howToConvert.heading")} </h2>
+          <h2 className={styles.textheading1}>{t("howToConvert.heading")}</h2>
           <br />
           <ul className={styles.textcontentul}>
             <li className={styles.textcontentli}>
@@ -116,25 +116,27 @@ const Wordtopdf = async () => {
             alt="featureimage"
           />
           <h2 className={styles.textheading1}>{t("keyFeatures.heading")} </h2>
-          <div>
+          <div className={styles.textcontentdiv}>
             <h3 className={styles.textheading3}>
-              {t("keyFeatures.features.titleU")}{" "}
+              {t("keyFeatures.features.titleF")}{" "}
             </h3>
             <p className={styles.textcontentpara}>
-              {t("keyFeatures.features.descriptionU")}
+              {t("keyFeatures.features.descriptionF")}
             </p>
             <h3 className={styles.textheading3}>
-              {t("keyFeatures.features.titleS")}
+              {t("keyFeatures.features.titleB")}
             </h3>
             <p className={styles.textcontentpara}>
-              {t("keyFeatures.features.descriptionS")}
+              {t("keyFeatures.features.descriptionB")}{" "}
             </p>
 
             <h3 className={styles.textheading3}>
-              {t("keyFeatures.features.titleM")}
+              {t("keyFeatures.features.titleE")}
             </h3>
             <p className={styles.textcontentpara}>
-              {t("keyFeatures.features.descriptionM")}
+              {t("keyFeatures.features.descriptiononeE")}
+              <br />
+              {t("keyFeatures.features.descriptiontwoE")}
             </p>
           </div>
         </div>
@@ -143,4 +145,4 @@ const Wordtopdf = async () => {
   );
 };
 
-export default Wordtopdf;
+export default Pdftoexcel;

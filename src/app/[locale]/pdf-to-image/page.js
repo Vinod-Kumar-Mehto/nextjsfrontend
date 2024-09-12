@@ -1,14 +1,14 @@
 import styles from "@/styles/all.module.css";
-import PdfToExcel from "@/components/PdfToExcel";
+import PdfToImage from "@/components/PdfToImage";
 import Image from "next/image";
 import feature from "@/assets/images/feature.png";
 import { getTranslations } from "next-intl/server";
 
 export async function generateMetadata({ params }) {
-  const t = await getTranslations("pdfToExcelConverter");
+  const t = await getTranslations("pdfToImageConverter");
   const lang = params.locale || "en";
   const baseURL = "https://www.imageocr.info";
-  const pagePath = "/pdftoexcel";
+  const pagePath = "/pdf-to-image";
   const canonicalURL = `${baseURL}/${lang}${pagePath}`;
 
   return {
@@ -34,18 +34,18 @@ export async function generateMetadata({ params }) {
     alternates: {
       canonical: canonicalURL,
       languages: {
-        "x-default": `${baseURL}/en/pdftoexcel`,
-        en: `${baseURL}/en/pdftoexcel`,
-        de: `${baseURL}/de/pdftoexcel`,
-        es: `${baseURL}/es/pdftoexcel`,
-        fr: `${baseURL}/fr/pdftoexcel`,
-        it: `${baseURL}/it/pdftoexcel`,
-        ja: `${baseURL}/ja/pdftoexcel`,
-        ko: `${baseURL}/ko/pdftoexcel`,
-        pl: `${baseURL}/pl/pdftoexcel`,
-        pt: `${baseURL}/pt/pdftoexcel`,
-        ru: `${baseURL}/ru/pdftoexcel`,
-        zh: `${baseURL}/zh/pdftoexcel`,
+        "x-default": `${baseURL}/en/pdf-to-image`,
+        en: `${baseURL}/en/pdf-to-image`,
+        de: `${baseURL}/de/pdf-to-image`,
+        es: `${baseURL}/es/pdf-to-image`,
+        fr: `${baseURL}/fr/pdf-to-image`,
+        it: `${baseURL}/it/pdf-to-image`,
+        ja: `${baseURL}/ja/pdf-to-image`,
+        ko: `${baseURL}/ko/pdf-to-image`,
+        pl: `${baseURL}/pl/pdf-to-image`,
+        pt: `${baseURL}/pt/pdf-to-image`,
+        ru: `${baseURL}/ru/pdf-to-image`,
+        zh: `${baseURL}/zh/pdf-to-image`,
       },
     },
     openGraph: {
@@ -65,8 +65,8 @@ export async function generateMetadata({ params }) {
   };
 }
 
-const Pdftoexcel = async () => {
-  const t = await getTranslations("pdfToExcelConverter");
+const PdfToimage = async () => {
+  const t = await getTranslations("pdfToImageConverter");
   return (
     <>
       <div className={styles.pdfformcontainer}>
@@ -75,9 +75,8 @@ const Pdftoexcel = async () => {
           <br />
           <h4 className={styles.heading4}>{t("description")}</h4>
         </div>
-        <PdfToExcel />
+        <PdfToImage />
       </div>
-
       <div className={styles.textContent}>
         <div className={styles.textcontentdiv}>
           <h2 className={styles.textheading1}>{t("onlineConvert.heading")}</h2>
@@ -115,7 +114,8 @@ const Pdftoexcel = async () => {
             className={styles.featureimg}
             alt="featureimage"
           />
-          <h2 className={styles.textheading1}>{t("keyFeatures.heading")} </h2>
+
+          <h2 className={styles.textheading1}>{t("keyFeatures.heading")}</h2>
           <div className={styles.textcontentdiv}>
             <h3 className={styles.textheading3}>
               {t("keyFeatures.features.titleF")}{" "}
@@ -124,19 +124,23 @@ const Pdftoexcel = async () => {
               {t("keyFeatures.features.descriptionF")}
             </p>
             <h3 className={styles.textheading3}>
-              {t("keyFeatures.features.titleB")}
+              {t("keyFeatures.features.titleS1")}
             </h3>
             <p className={styles.textcontentpara}>
-              {t("keyFeatures.features.descriptionB")}{" "}
+              {t("keyFeatures.features.descriptionS1")}
+            </p>
+            <h3 className={styles.textheading3}>
+              {t("keyFeatures.features.titleS2")}
+            </h3>
+            <p className={styles.textcontentpara}>
+              {t("keyFeatures.features.descriptionS2")}
             </p>
 
             <h3 className={styles.textheading3}>
-              {t("keyFeatures.features.titleE")}
+              {t("keyFeatures.features.titleS3")}
             </h3>
             <p className={styles.textcontentpara}>
-              {t("keyFeatures.features.descriptiononeE")}
-              <br />
-              {t("keyFeatures.features.descriptiontwoE")}
+              {t("keyFeatures.features.descriptionS3")}
             </p>
           </div>
         </div>
@@ -145,4 +149,4 @@ const Pdftoexcel = async () => {
   );
 };
 
-export default Pdftoexcel;
+export default PdfToimage;

@@ -1,14 +1,14 @@
 import styles from "@/styles/all.module.css";
-import PdfToImage from "@/components/PdfToImage";
-import Image from "next/image";
+import WordToPdf from "@/components/WordToPdf";
 import feature from "@/assets/images/feature.png";
+import Image from "next/image";
 import { getTranslations } from "next-intl/server";
 
 export async function generateMetadata({ params }) {
-  const t = await getTranslations("pdfToImageConverter");
+  const t = await getTranslations("wordToPdfConverter");
   const lang = params.locale || "en";
   const baseURL = "https://www.imageocr.info";
-  const pagePath = "/pdftoimage";
+  const pagePath = "/word-to-pdf"; // Adjust this if you have dynamic paths
   const canonicalURL = `${baseURL}/${lang}${pagePath}`;
 
   return {
@@ -20,6 +20,7 @@ export async function generateMetadata({ params }) {
       t("keyWords.threek"),
       t("keyWords.fourk"),
       t("keyWords.fivek"),
+      t("keyWords.sixk"),
     ],
     robots: {
       index: true,
@@ -34,24 +35,24 @@ export async function generateMetadata({ params }) {
     alternates: {
       canonical: canonicalURL,
       languages: {
-        "x-default": `${baseURL}/en/pdftoimage`,
-        en: `${baseURL}/en/pdftoimage`,
-        de: `${baseURL}/de/pdftoimage`,
-        es: `${baseURL}/es/pdftoimage`,
-        fr: `${baseURL}/fr/pdftoimage`,
-        it: `${baseURL}/it/pdftoimage`,
-        ja: `${baseURL}/ja/pdftoimage`,
-        ko: `${baseURL}/ko/pdftoimage`,
-        pl: `${baseURL}/pl/pdftoimage`,
-        pt: `${baseURL}/pt/pdftoimage`,
-        ru: `${baseURL}/ru/pdftoimage`,
-        zh: `${baseURL}/zh/pdftoimage`,
+        "x-default": `${baseURL}/en/word-to-pdf`,
+        en: `${baseURL}/en/word-to-pdf`,
+        de: `${baseURL}/de/word-to-pdf`,
+        es: `${baseURL}/es/word-to-pdf`,
+        fr: `${baseURL}/fr/word-to-pdf`,
+        it: `${baseURL}/it/word-to-pdf`,
+        ja: `${baseURL}/ja/word-to-pdf`,
+        ko: `${baseURL}/ko/word-to-pdf`,
+        pl: `${baseURL}/pl/word-to-pdf`,
+        pt: `${baseURL}/pt/word-to-pdf`,
+        ru: `${baseURL}/ru/word-to-pdf`,
+        zh: `${baseURL}/zh/word-to-pdf`,
       },
     },
     openGraph: {
       title: t("metadata.title"),
       description: t("metadata.description"),
-      url: canonicalURL,
+      url: canonicalURL, // Canonical URL
       siteName: "ImageOCR",
       images: [
         {
@@ -65,17 +66,17 @@ export async function generateMetadata({ params }) {
   };
 }
 
-const PdfToimage = async () => {
-  const t = await getTranslations("pdfToImageConverter");
+const Wordtopdf = async () => {
+  const t = await getTranslations("wordToPdfConverter");
   return (
     <>
       <div className={styles.pdfformcontainer}>
         <div className={styles.pdfheading}>
-          <h1 className={styles.heading1}> {t("title")}</h1>
+          <h1 className={styles.heading1}>{t("title")}</h1>
           <br />
           <h4 className={styles.heading4}>{t("description")}</h4>
         </div>
-        <PdfToImage />
+        <WordToPdf />
       </div>
       <div className={styles.textContent}>
         <div className={styles.textcontentdiv}>
@@ -83,7 +84,7 @@ const PdfToimage = async () => {
           <p className={styles.textcontentpara}>{t("onlineConvert.content")}</p>
         </div>
         <div className={styles.textcontentdiv}>
-          <h2 className={styles.textheading1}>{t("howToConvert.heading")}</h2>
+          <h2 className={styles.textheading1}>{t("howToConvert.heading")} </h2>
           <br />
           <ul className={styles.textcontentul}>
             <li className={styles.textcontentli}>
@@ -114,33 +115,26 @@ const PdfToimage = async () => {
             className={styles.featureimg}
             alt="featureimage"
           />
-
-          <h2 className={styles.textheading1}>{t("keyFeatures.heading")}</h2>
-          <div className={styles.textcontentdiv}>
+          <h2 className={styles.textheading1}>{t("keyFeatures.heading")} </h2>
+          <div>
             <h3 className={styles.textheading3}>
-              {t("keyFeatures.features.titleF")}{" "}
+              {t("keyFeatures.features.titleU")}{" "}
             </h3>
             <p className={styles.textcontentpara}>
-              {t("keyFeatures.features.descriptionF")}
+              {t("keyFeatures.features.descriptionU")}
             </p>
             <h3 className={styles.textheading3}>
-              {t("keyFeatures.features.titleS1")}
+              {t("keyFeatures.features.titleS")}
             </h3>
             <p className={styles.textcontentpara}>
-              {t("keyFeatures.features.descriptionS1")}
-            </p>
-            <h3 className={styles.textheading3}>
-              {t("keyFeatures.features.titleS2")}
-            </h3>
-            <p className={styles.textcontentpara}>
-              {t("keyFeatures.features.descriptionS2")}
+              {t("keyFeatures.features.descriptionS")}
             </p>
 
             <h3 className={styles.textheading3}>
-              {t("keyFeatures.features.titleS3")}
+              {t("keyFeatures.features.titleM")}
             </h3>
             <p className={styles.textcontentpara}>
-              {t("keyFeatures.features.descriptionS3")}
+              {t("keyFeatures.features.descriptionM")}
             </p>
           </div>
         </div>
@@ -149,4 +143,4 @@ const PdfToimage = async () => {
   );
 };
 
-export default PdfToimage;
+export default Wordtopdf;
