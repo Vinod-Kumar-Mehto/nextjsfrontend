@@ -50,12 +50,12 @@ const Header = () => {
 
         <ul className={`${styles.listnavbar} ${show ? styles.active : ""}`}>
           <li className={styles.listitem}>
-            <Link as="pdf-to-image" href="/pdf-to-image">
+            <Link as="pdftoimage" href="/pdftoimage">
               {t("items.labelone")}
             </Link>
           </li>
           <li className={styles.listitem}>
-            <Link as="pdf-to-word" href="/pdf-to-word">
+            <Link as="pdftoword" href="/pdftoword">
               {t("items.labeltwo")}
             </Link>
           </li>
@@ -65,17 +65,17 @@ const Header = () => {
             </Link>
           </li>
           <li className={styles.listitem}>
-            <Link as="pdf-to-excel" href="/pdf-to-excel">
+            <Link as="pdftoexcel" href="/pdftoexcel">
               {t("items.labelfour")}
             </Link>
           </li>
           <li className={styles.listitem}>
-            <Link as="image-to-pdf" href="/image-to-pdf">
+            <Link as="imagetopdf" href="/imagetopdf">
               {t("items.labelfive")}
             </Link>
           </li>
           <li className={styles.listitem}>
-            <Link as="word-to-pdf" href="/word-to-pdf">
+            <Link as="wordtopdf" href="/wordtopdf">
               {t("items.labelsix")}
             </Link>
           </li>
