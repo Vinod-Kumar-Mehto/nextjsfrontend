@@ -54,7 +54,7 @@ export async function generateMetadata({ params }) {
       title: t("metadata.title"),
       description: t("metadata.description"),
       url: canonicalURL, // Canonical URL
-      siteName: "ImageOCR",
+      siteName: t("metadata.title"),
       images: [
         {
           url: "https://www.imageocr.info/opengraph-image.png",
