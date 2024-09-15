@@ -102,6 +102,49 @@ const ImageToText = async () => {
             {t("imageToTextConverter.whatIs.contentone")} <br />
             <br />
             {t("imageToTextConverter.whatIs.contenttwo")}
+            <br />
+            <br />
+            {t("imageToTextConverter.whatIs.contentthree")}
+            <span className={styles.seolink}>
+              <Link href="https://www.imageocr.info/de">German</Link>
+            </span>
+            ,
+            <span className={styles.seolink}>
+              <Link href="https://www.imageocr.info/es">Spanish</Link>
+            </span>
+            ,
+            <span className={styles.seolink}>
+              <Link href="https://www.imageocr.info/fr">French</Link>
+            </span>
+            ,
+            <span className={styles.seolink}>
+              <Link href="https://www.imageocr.info/it">Italian</Link>
+            </span>
+            ,
+            <span className={styles.seolink}>
+              <Link href="https://www.imageocr.info/ja">Japanese</Link>
+            </span>
+            <br />,
+            <span className={styles.seolink}>
+              <Link href="https://www.imageocr.info/ko">Korean</Link>
+            </span>
+            ,
+            <span className={styles.seolink}>
+              <Link href="https://www.imageocr.info/pl">Polish</Link>
+            </span>
+            ,
+            <span className={styles.seolink}>
+              <Link href="https://www.imageocr.info/pt">Portuguese</Link>
+            </span>
+            ,
+            <span className={styles.seolink}>
+              <Link href="https://www.imageocr.info/ru">Russian</Link>
+            </span>
+            ,
+            <span className={styles.seolink}>
+              <Link href="https://www.imageocr.info/zh">Chinese</Link>
+            </span>
+            ,{t("imageToTextConverter.whatIs.contentfour")}
           </p>
         </div>
         <div className={styles.textcontentdiv}>

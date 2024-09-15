@@ -84,6 +84,61 @@ const Imagetopdf = async () => {
         <div className={styles.textcontentdiv}>
           <h2 className={styles.textheading1}>{t("onlineConvert.heading")}</h2>
           <p className={styles.textcontentpara}>{t("onlineConvert.content")}</p>
+          <p className={styles.textcontentpara}>
+            {t("onlineConvert.contentone")}
+            <span className={styles.seolink}>
+              <Link href="https://www.imageocr.info/de/imagetopdf">German</Link>
+            </span>
+            ,
+            <span className={styles.seolink}>
+              <Link href="https://www.imageocr.info/es/imagetopdf">
+                Spanish
+              </Link>
+            </span>
+            ,
+            <span className={styles.seolink}>
+              <Link href="https://www.imageocr.info/fr/imagetopdf">French</Link>
+            </span>
+            <br />,
+            <span className={styles.seolink}>
+              <Link href="https://www.imageocr.info/it/imagetopdf">
+                Italian
+              </Link>
+            </span>
+            ,
+            <span className={styles.seolink}>
+              <Link href="https://www.imageocr.info/ja/imagetopdf">
+                Japanese
+              </Link>
+            </span>
+            ,
+            <span className={styles.seolink}>
+              <Link href="https://www.imageocr.info/ko/imagetopdf">Korean</Link>
+            </span>
+            ,
+            <span className={styles.seolink}>
+              <Link href="https://www.imageocr.info/pl/imagetopdf">Polish</Link>
+            </span>
+            ,
+            <span className={styles.seolink}>
+              <Link href="https://www.imageocr.info/pt/imagetopdf">
+                Portuguese
+              </Link>
+            </span>
+            ,
+            <span className={styles.seolink}>
+              <Link href="https://www.imageocr.info/ru/imagetopdf">
+                Russian
+              </Link>
+            </span>
+            ,
+            <span className={styles.seolink}>
+              <Link href="https://www.imageocr.info/zh/imagetopdf">
+                Chinese
+              </Link>
+            </span>
+            {t("onlineConvert.contenttwo")}
+          </p>
         </div>
         <div className={styles.textcontentdiv}>
           <h2 className={styles.textheading1}>{t("howToConvert.heading")}</h2>
@@ -115,7 +170,7 @@ const Imagetopdf = async () => {
         <div className={styles.hrefcontainer}>
           <div className={styles.box}>
             <Link href="https://www.imageocr.info/pdftoimage">
-              PDF TO Image
+              PDF To Image
             </Link>
           </div>
           <div className={styles.box}>

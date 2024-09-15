@@ -86,6 +86,53 @@ const PdfToword = async () => {
           <h2 className={styles.textheading1}>{t("onlineConvert.heading")}</h2>
 
           <p className={styles.textcontentpara}>{t("onlineConvert.content")}</p>
+          <p className={styles.textcontentpara}>
+            {t("onlineConvert.contentone")}
+            <span className={styles.seolink}>
+              <Link href="https://www.imageocr.info/de/pdftoword">German</Link>
+            </span>
+            ,
+            <span className={styles.seolink}>
+              <Link href="https://www.imageocr.info/es/pdftoword">Spanish</Link>
+            </span>
+            ,
+            <span className={styles.seolink}>
+              <Link href="https://www.imageocr.info/fr/pdftoword">French</Link>
+            </span>
+            <br />,
+            <span className={styles.seolink}>
+              <Link href="https://www.imageocr.info/it/pdftoword">Italian</Link>
+            </span>
+            ,
+            <span className={styles.seolink}>
+              <Link href="https://www.imageocr.info/ja/pdftoword">
+                Japanese
+              </Link>
+            </span>
+            ,
+            <span className={styles.seolink}>
+              <Link href="https://www.imageocr.info/ko/pdftoword">Korean</Link>
+            </span>
+            ,
+            <span className={styles.seolink}>
+              <Link href="https://www.imageocr.info/pl/pdftoword">Polish</Link>
+            </span>
+            ,
+            <span className={styles.seolink}>
+              <Link href="https://www.imageocr.info/pt/pdftoword">
+                Portuguese
+              </Link>
+            </span>
+            ,
+            <span className={styles.seolink}>
+              <Link href="https://www.imageocr.info/ru/pdftoword">Russian</Link>
+            </span>
+            ,
+            <span className={styles.seolink}>
+              <Link href="https://www.imageocr.info/zh/pdftoword">Chinese</Link>
+            </span>
+            ,{t("onlineConvert.contenttwo")}
+          </p>
         </div>
         <div className={styles.textcontentdiv}>
           <h2 className={styles.textheading1}>{t("howToConvert.heading")}</h2>

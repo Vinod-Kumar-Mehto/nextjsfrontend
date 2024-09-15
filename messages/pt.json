@@ -58,7 +58,9 @@
       "whatIs": {
         "heading": "O que é um Conversor de Imagem para Texto?",
         "contentone": "Esta ferramenta OCR é um conversor de imagem para texto. Com ela, você pode extrair texto e caracteres de imagens e fotos. Se você deseja extrair texto de uma fotografia, experimente nosso conversor de imagem para texto.",
-        "contenttwo": "Se você tem um livro digitalizado em formato PDF e deseja torná-lo pesquisável, nosso serviço de conversão de PDF para Word ou Excel é ideal para isso! Para conversão de imagem para texto, basta enviar o arquivo e converter a imagem em texto. Nosso serviço extrai o texto de suas fotografias usando algoritmos modernos de pré-processamento de imagem e tecnologias OCR e salva-o em qualquer formato editável."
+        "contenttwo": "Se você tem um livro digitalizado em formato PDF e deseja torná-lo pesquisável, nosso serviço de conversão de PDF para Word ou Excel é ideal para isso! Para conversão de imagem para texto, basta enviar o arquivo e converter a imagem em texto. Nosso serviço extrai o texto de suas fotografias usando algoritmos modernos de pré-processamento de imagem e tecnologias OCR e salva-o em qualquer formato editável.",
+        "contentthree": "Esta ferramenta está disponível em vários idiomas, incluindo: ",
+        "contentfour": "Você pode escolher seu idioma preferido clicando nas opções de idioma ou usando o seletor de idioma fornecido abaixo."
       },
       "howItWorks": {
         "heading": "Como Funciona Nosso Conversor de Imagem para Texto?",
@@ -130,7 +132,9 @@
     "description": "Você pode converter arquivos JPG em documentos PDF gratuitamente usando o Conversor de Imagem para PDF. Com apenas um clique, você pode converter imagem para PDF.",
     "onlineConvert": {
       "heading": "Conversão Online de Imagem para PDF Gratuitamente",
-      "content": "O Conversor Online de Imagem para PDF é uma ferramenta versátil que converte imagens de qualquer tamanho em documentos PDF sem custo. Seja com fotografias, gráficos ou documentos escaneados, esta ferramenta transforma-os eficientemente em formato PDF. Você pode converter até quatro imagens em arquivos PDF simultaneamente, facilitando seu fluxo de trabalho. Aproveite a facilidade de converter várias imagens em PDFs. Nosso conversor garante precisão e preserva a qualidade das suas imagens nos arquivos PDF resultantes, tornando-o ideal para uso pessoal, acadêmico ou profissional com sua interface simples e amigável."
+      "content": "O Conversor Online de Imagem para PDF é uma ferramenta versátil que converte imagens de qualquer tamanho em documentos PDF sem custo. Seja com fotografias, gráficos ou documentos escaneados, esta ferramenta transforma-os eficientemente em formato PDF. Você pode converter até quatro imagens em arquivos PDF simultaneamente, facilitando seu fluxo de trabalho. Aproveite a facilidade de converter várias imagens em PDFs. Nosso conversor garante precisão e preserva a qualidade das suas imagens nos arquivos PDF resultantes, tornando-o ideal para uso pessoal, acadêmico ou profissional com sua interface simples e amigável.",
+      "contentone": "Esta ferramenta de conversão de JPG para PDF está disponível em vários idiomas, incluindo: ",
+      "contenttwo": "Você pode escolher seu idioma preferido clicando nas opções de idioma ou usando o seletor de idioma abaixo."
     },
     "howToConvert": {
       "heading": "Como Converter uma Imagem em PDF?",
@@ -185,7 +189,9 @@
     "description": "Você pode converter um PDF em um arquivo Excel gratuitamente usando o conversor de PDF para Excel. Basta clicar para converter um PDF em um arquivo Excel editável.",
     "onlineConvert": {
       "heading": "Conversão Online de PDF para Excel Gratuitamente",
-      "content": "Este programa de conversão de PDF converte PDF para Excel. Esta ferramenta permite converter PDFs de até 5MB em Excel gratuitamente. Você pode converter um arquivo PDF por vez, no entanto, se o arquivo tiver mais de 10 páginas, pode levar algum tempo. Tenha paciência."
+      "content": "Este programa de conversão de PDF converte PDF para Excel. Esta ferramenta permite converter PDFs de até 5MB em Excel gratuitamente. Você pode converter um arquivo PDF por vez, no entanto, se o arquivo tiver mais de 10 páginas, pode levar algum tempo. Tenha paciência.",
+      "contentone": "Esta ferramenta de conversão de PDF para Excel está disponível em vários idiomas, incluindo:",
+      "contenttwo": "Você pode escolher o seu idioma preferido clicando nas seleções de idioma ou usando o seletor de idioma fornecido abaixo."
     },
     "howToConvert": {
       "heading": "Como Converter PDF para Excel?",
@@ -245,7 +251,9 @@
     "description": "Com o conversor de PDF para Imagem, você pode converter PDF em JPG gratuitamente com apenas um clique.",
     "onlineConvert": {
       "heading": "Conversão Online de PDF para Imagem Gratuita",
-      "content": "Este Conversor Online de PDF para Imagem é uma aplicação gratuita que converte rapidamente documentos PDF em fotos de qualquer tamanho. Você pode converter dois arquivos PDF ao mesmo tempo, no entanto, arquivos maiores com mais de dez páginas podem levar mais tempo para serem concluídos. Nós focamos na precisão e eficiência, garantindo que suas fotografias convertidas mantenham sua qualidade e layout originais. Seja para relatórios, apresentações ou outros documentos, nossa ferramenta oferece uma experiência suave que não requer downloads ou assinaturas. Converta PDFs em imagens de forma simples e segura diretamente do seu navegador."
+      "content": "Este Conversor Online de PDF para Imagem é uma aplicação gratuita que converte rapidamente documentos PDF em fotos de qualquer tamanho. Você pode converter dois arquivos PDF ao mesmo tempo, no entanto, arquivos maiores com mais de dez páginas podem levar mais tempo para serem concluídos. Nós focamos na precisão e eficiência, garantindo que suas fotografias convertidas mantenham sua qualidade e layout originais. Seja para relatórios, apresentações ou outros documentos, nossa ferramenta oferece uma experiência suave que não requer downloads ou assinaturas. Converta PDFs em imagens de forma simples e segura diretamente do seu navegador.",
+      "contentone": "Esta ferramenta de conversão de PDF para JPG está disponível em vários idiomas, incluindo: ",
+      "contenttwo": "Você pode escolher o seu idioma preferido clicando nas opções de idioma ou usando o seletor de idioma fornecido abaixo."
     },
     "howToConvert": {
       "heading": "Como Converter PDF em Imagem?",
@@ -309,7 +317,9 @@
     "description": "Com o conversor de PDF para Word, você pode converter arquivos PDF em documentos Docx sem custo. Para converter um PDF em um documento Word editável, basta clicar no botão de conversão.",
     "onlineConvert": {
       "heading": "Conversão Online de PDF para Word Gratuita",
-      "content": "Este programa de conversão de PDF para Word permite converter qualquer tamanho de PDF para Word gratuitamente. Você pode converter dois arquivos PDF ao mesmo tempo; no entanto, se o arquivo tiver mais de 10 páginas, pode levar algum tempo. Tenha paciência."
+      "content": "Este programa de conversão de PDF para Word permite converter qualquer tamanho de PDF para Word gratuitamente. Você pode converter dois arquivos PDF ao mesmo tempo; no entanto, se o arquivo tiver mais de 10 páginas, pode levar algum tempo. Tenha paciência.",
+      "contentone": "Esta ferramenta de conversão de PDF para DOCX está disponível em vários idiomas, incluindo: ",
+      "contenttwo": "Você pode escolher seu idioma preferido clicando nas opções de idioma ou usando o seletor de idioma fornecido abaixo."
     },
     "howToConvert": {
       "heading": "Como Converter PDF para Word?",
@@ -377,7 +387,9 @@
     "description": "Você pode converter Doc|Docx para documentos PDF gratuitamente usando o conversor de Word para PDF. Com apenas um clique, converta um documento Word editável em um PDF pesquisável.",
     "onlineConvert": {
       "heading": "Conversão Online de Word para PDF Gratuita",
-      "content": "Este programa de conversão de Word para PDF permite converter Docx para PDF de qualquer tamanho gratuitamente. Você pode converter dois arquivos Docx ao mesmo tempo; no entanto, se o arquivo tiver mais de 10 páginas, pode levar algum tempo. Por favor, tenha paciência."
+      "content": "Este programa de conversão de Word para PDF permite converter Docx para PDF de qualquer tamanho gratuitamente. Você pode converter dois arquivos Docx ao mesmo tempo; no entanto, se o arquivo tiver mais de 10 páginas, pode levar algum tempo. Por favor, tenha paciência.",
+      "contentone": "Esta ferramenta de conversão de DOCX para PDF está disponível em vários idiomas, incluindo: ",
+      "contenttwo": "Você pode escolher seu idioma preferido clicando nas opções de idioma ou usando o seletor de idioma fornecido abaixo."
     },
     "howToConvert": {
       "heading": "Como Converter Word para PDF?",

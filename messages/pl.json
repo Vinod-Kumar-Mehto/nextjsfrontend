@@ -57,7 +57,9 @@
       "whatIs": {
         "heading": "Czym jest konwerter obrazów na tekst?",
         "contentone": "Narzędzie OCR to konwerter obrazów na tekst. Dzięki niemu możesz wyodrębniać tekst i znaki z obrazów i zdjęć. Jeśli chcesz wyodrębnić tekst z fotografii, wypróbuj nasz konwerter obrazów na tekst.",
-        "contenttwo": "Jeśli masz zeskanowaną książkę w formacie PDF i chcesz uczynić ją przeszukiwalną, nasza usługa konwersji PDF na Word lub Excel jest odpowiednia! Aby przekształcić obraz na tekst, wystarczy przesłać plik i przekonwertować obraz na tekst. Nasza usługa wyodrębnia tekst z Twoich fotografii za pomocą nowoczesnych algorytmów przetwarzania obrazów i technologii OCR i zapisuje go w dowolnym edytowalnym formacie."
+        "contenttwo": "Jeśli masz zeskanowaną książkę w formacie PDF i chcesz uczynić ją przeszukiwalną, nasza usługa konwersji PDF na Word lub Excel jest odpowiednia! Aby przekształcić obraz na tekst, wystarczy przesłać plik i przekonwertować obraz na tekst. Nasza usługa wyodrębnia tekst z Twoich fotografii za pomocą nowoczesnych algorytmów przetwarzania obrazów i technologii OCR i zapisuje go w dowolnym edytowalnym formacie.",
+        "contentthree": "To narzędzie jest dostępne w różnych językach, w tym: ",
+        "contentfour": "Możesz wybrać preferowany język, klikając na opcje językowe lub korzystając z poniższego selektora języków."
       },
       "howItWorks": {
         "heading": "Jak działa nasz konwerter obrazów na tekst?",
@@ -129,7 +131,9 @@
     "description": "Możesz bezpłatnie konwertować pliki JPG na dokumenty PDF za pomocą konwertera obrazów na PDF. Wystarczy jeden klik, aby przekonwertować obraz na PDF.",
     "onlineConvert": {
       "heading": "Online Konwersja Obrazów na PDF za Darmo",
-      "content": "Online Konwerter Obrazów na PDF to wszechstronne narzędzie, które bez wysiłku konwertuje obrazy dowolnego rozmiaru na dokumenty PDF bez opłat. Niezależnie od tego, czy masz fotografie, grafiki, czy zeskanowane dokumenty, to narzędzie skutecznie przekształca je na format PDF. Możesz konwertować do czterech obrazów na pliki PDF jednocześnie, co upraszcza Twoje zadania. Ciesz się łatwością konwersji wielu obrazów na PDF. Nasz konwerter zapewnia dokładność i zachowuje jakość Twoich obrazów w wynikowych plikach PDF, co czyni go idealnym do użytku osobistego, akademickiego lub profesjonalnego, dzięki prostemu i przyjaznemu interfejsowi."
+      "content": "Online Konwerter Obrazów na PDF to wszechstronne narzędzie, które bez wysiłku konwertuje obrazy dowolnego rozmiaru na dokumenty PDF bez opłat. Niezależnie od tego, czy masz fotografie, grafiki, czy zeskanowane dokumenty, to narzędzie skutecznie przekształca je na format PDF. Możesz konwertować do czterech obrazów na pliki PDF jednocześnie, co upraszcza Twoje zadania. Ciesz się łatwością konwersji wielu obrazów na PDF. Nasz konwerter zapewnia dokładność i zachowuje jakość Twoich obrazów w wynikowych plikach PDF, co czyni go idealnym do użytku osobistego, akademickiego lub profesjonalnego, dzięki prostemu i przyjaznemu interfejsowi.",
+      "contentone": "To narzędzie do konwersji JPG na PDF jest dostępne w różnych językach, w tym: ",
+      "contenttwo": "Możesz wybrać preferowany język, klikając opcje językowe lub używając poniższego selektora języka."
     },
     "howToConvert": {
       "heading": "Jak przekonwertować obraz na PDF?",
@@ -185,7 +189,9 @@
     "description": "Możesz bezpłatnie konwertować PDF na plik Excel za pomocą konwertera PDF na Excel. Wystarczy kliknąć, aby przekonwertować PDF na edytowalny plik Excel.",
     "onlineConvert": {
       "heading": "Online Konwersja PDF na Excel za Darmo",
-      "content": "Ten program do konwersji PDF konwertuje PDF na Excel. To narzędzie pozwala na konwersję PDF o rozmiarze do 5 MB na Excel bez opłat. Możesz konwertować jeden plik PDF naraz, jednak jeśli plik ma więcej niż 10 stron, może to potrwać chwilę. Bądź cierpliwy."
+      "content": "Ten program do konwersji PDF konwertuje PDF na Excel. To narzędzie pozwala na konwersję PDF o rozmiarze do 5 MB na Excel bez opłat. Możesz konwertować jeden plik PDF naraz, jednak jeśli plik ma więcej niż 10 stron, może to potrwać chwilę. Bądź cierpliwy.",
+      "contentone": "To narzędzie do konwersji PDF na Excel jest dostępne w różnych językach, w tym:",
+      "contenttwo": "Możesz wybrać preferowany język, klikając na opcje językowe lub używając podanego poniżej selektora języka."
     },
     "howToConvert": {
       "heading": "Jak przekonwertować PDF na Excel?",
@@ -245,7 +251,9 @@
     "description": "Za pomocą konwertera PDF na Obraz możesz bezpłatnie konwertować PDF na JPG jednym kliknięciem.",
     "onlineConvert": {
       "heading": "Online Konwersja PDF na Obraz za Darmo",
-      "content": "Ten darmowy konwerter PDF na obraz szybko konwertuje dokumenty PDF na zdjęcia o dowolnym rozmiarze. Możesz konwertować dwa pliki PDF jednocześnie, jednak większe pliki z więcej niż dziesięcioma stronami mogą wymagać więcej czasu. Skupiamy się na dokładności i wydajności, zapewniając, że Twoje przekonwertowane zdjęcia zachowają swoją oryginalną jakość i układ. Niezależnie od tego, czy konwertujesz raporty, prezentacje, czy inne dokumenty, nasze narzędzie oferuje płynne doświadczenie, które nie wymaga pobierania ani subskrypcji. Konwertuj PDF na obrazy łatwo i bezpiecznie z poziomu przeglądarki."
+      "content": "Ten darmowy konwerter PDF na obraz szybko konwertuje dokumenty PDF na zdjęcia o dowolnym rozmiarze. Możesz konwertować dwa pliki PDF jednocześnie, jednak większe pliki z więcej niż dziesięcioma stronami mogą wymagać więcej czasu. Skupiamy się na dokładności i wydajności, zapewniając, że Twoje przekonwertowane zdjęcia zachowają swoją oryginalną jakość i układ. Niezależnie od tego, czy konwertujesz raporty, prezentacje, czy inne dokumenty, nasze narzędzie oferuje płynne doświadczenie, które nie wymaga pobierania ani subskrypcji. Konwertuj PDF na obrazy łatwo i bezpiecznie z poziomu przeglądarki.",
+      "contentone": "To narzędzie do konwersji PDF na JPG jest dostępne w różnych językach, w tym: ",
+      "contenttwo": "Możesz wybrać preferowany język, klikając opcje językowe lub korzystając z poniższego selektora języków."
     },
     "howToConvert": {
       "heading": "Jak przekonwertować PDF na Obraz?",
@@ -309,7 +317,9 @@
     "description": "Za pomocą konwertera PDF na Word możesz bezpłatnie konwertować pliki PDF na dokumenty Docx. Aby przekonwertować PDF na edytowalny dokument Word, wystarczy kliknąć przycisk konwertowania.",
     "onlineConvert": {
       "heading": "Online Konwersja PDF na Word za Darmo",
-      "content": "Ten program konwertujący PDF na Word pozwala na konwersję dowolnych plików PDF na Word za darmo. Możesz konwertować dwa pliki PDF jednocześnie, jednak jeśli plik ma więcej niż 10 stron, może to zająć trochę czasu. Bądź cierpliwy."
+      "content": "Ten program konwertujący PDF na Word pozwala na konwersję dowolnych plików PDF na Word za darmo. Możesz konwertować dwa pliki PDF jednocześnie, jednak jeśli plik ma więcej niż 10 stron, może to zająć trochę czasu. Bądź cierpliwy.",
+      "contentone": "To narzędzie do konwersji PDF na DOCX jest dostępne w różnych językach, w tym: ",
+      "contenttwo": "Możesz wybrać preferowany język, klikając opcje językowe lub używając poniższego selektora języków."
     },
     "howToConvert": {
       "heading": "Jak przekonwertować PDF na Word?",
@@ -378,7 +388,9 @@
     "description": "Za pomocą konwertera Word na PDF możesz bezpłatnie konwertować dokumenty Doc|Docx na pliki PDF. Wystarczy jeden klik, aby przekonwertować edytowalny dokument Word na przeszukiwalny PDF.",
     "onlineConvert": {
       "heading": "Online Konwersja Word na PDF za Darmo",
-      "content": "Ten program konwertujący Word na PDF pozwala na konwersję dowolnych plików Docx na PDF za darmo. Możesz konwertować dwa pliki Docx jednocześnie, jednak jeśli plik ma więcej niż 10 stron, może to zająć trochę czasu. Proszę o cierpliwość."
+      "content": "Ten program konwertujący Word na PDF pozwala na konwersję dowolnych plików Docx na PDF za darmo. Możesz konwertować dwa pliki Docx jednocześnie, jednak jeśli plik ma więcej niż 10 stron, może to zająć trochę czasu. Proszę o cierpliwość.",
+      "contentone": "To narzędzie do konwersji z DOCX na PDF jest dostępne w różnych językach, w tym: ",
+      "contenttwo": "Możesz wybrać preferowany język, klikając opcje językowe lub korzystając z poniższego selektora języków."
     },
     "howToConvert": {
       "heading": "Jak przekonwertować Word na PDF?",

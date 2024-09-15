@@ -83,6 +83,54 @@ const Wordtopdf = async () => {
         <div className={styles.textcontentdiv}>
           <h2 className={styles.textheading1}>{t("onlineConvert.heading")}</h2>
           <p className={styles.textcontentpara}>{t("onlineConvert.content")}</p>
+          <br />
+          <p className={styles.textcontentpara}>
+            {t("onlineConvert.contentone")}
+            <span className={styles.seolink}>
+              <Link href="https://www.imageocr.info/de/wordtopdf">German</Link>
+            </span>
+            ,
+            <span className={styles.seolink}>
+              <Link href="https://www.imageocr.info/es/wordtopdf">Spanish</Link>
+            </span>
+            ,
+            <span className={styles.seolink}>
+              <Link href="https://www.imageocr.info/fr/wordtopdf">French</Link>
+            </span>
+            <br />,
+            <span className={styles.seolink}>
+              <Link href="https://www.imageocr.info/it/wordtopdf">Italian</Link>
+            </span>
+            ,
+            <span className={styles.seolink}>
+              <Link href="https://www.imageocr.info/ja/wordtopdf">
+                Japanese
+              </Link>
+            </span>
+            ,
+            <span className={styles.seolink}>
+              <Link href="https://www.imageocr.info/ko/wordtopdf">Korean</Link>
+            </span>
+            ,
+            <span className={styles.seolink}>
+              <Link href="https://www.imageocr.info/pl/wordtopdf">Polish</Link>
+            </span>
+            ,
+            <span className={styles.seolink}>
+              <Link href="https://www.imageocr.info/pt/wordtopdf">
+                Portuguese
+              </Link>
+            </span>
+            ,
+            <span className={styles.seolink}>
+              <Link href="https://www.imageocr.info/ru/wordtopdf">Russian</Link>
+            </span>
+            ,
+            <span className={styles.seolink}>
+              <Link href="https://www.imageocr.info/zh/wordtopdf">Chinese</Link>
+            </span>
+            {t("onlineConvert.contenttwo")}
+          </p>
         </div>
         <div className={styles.textcontentdiv}>
           <h2 className={styles.textheading1}>{t("howToConvert.heading")} </h2>

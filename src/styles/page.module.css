@@ -409,6 +409,21 @@
   }
 }
 
+.seolink {
+  margin-right: 7px;
+  font-size: large;
+  color: #0070f3;
+}
+
+.seolink a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.seolink a:hover {
+  text-decoration: none;
+}
+
 .textContent {
   display: flex;
   flex-direction: column;
