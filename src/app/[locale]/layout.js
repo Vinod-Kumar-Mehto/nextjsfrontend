@@ -18,6 +18,10 @@ export default async function RootLayout({ children, params }) {
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8040030284338511"
           crossorigin="anonymous"
         ></script>
+        <meta
+          name="google-adsense-account"
+          content="ca-pub-8040030284338511"
+        ></meta>
       </head>
       <body className={inter.className}>
         <NextIntlClientProvider messages={messages}>
