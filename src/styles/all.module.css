@@ -515,7 +515,7 @@
   .textcontentpara,
   .textcontentparali {
     font-size: small;
-    overflow-wrap: anywhere;
+    flex-wrap: wrap;
   }
   .textcontentpara a {
     font-size: small;
