@@ -515,6 +515,10 @@
   .textcontentpara,
   .textcontentparali {
     font-size: small;
+    overflow-wrap: anywhere;
+  }
+  .textcontentpara a {
+    font-size: small;
   }
   .pdffiledetails2,
   .pdffiledetails1 {
