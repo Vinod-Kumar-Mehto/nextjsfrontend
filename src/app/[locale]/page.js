@@ -30,6 +30,9 @@ export async function generateMetadata({ params }) {
       t("keyWords.eightk"),
       t("keyWords.ninek"),
       t("keyWords.tenk"),
+      t("keyWords.elevenk"),
+      t("keyWords.twelevek"),
+      t("keyWords.thirteenk"),
     ],
     robots: {
       index: true,

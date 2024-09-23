@@ -123,7 +123,10 @@
       "sevenk": "ocr",
       "eightk": "free ocr",
       "ninek": "ocr software",
-      "tenk": "optical character recognition"
+      "tenk": "optical character recognition",
+      "elevenk": "image to text free",
+      "twelevek": "convert image to text free",
+      "thirteenk": "how to convert image to text"
     }
   },
 
@@ -181,7 +184,14 @@
       "twok": "jpeg to pdf",
       "threek": "jpg to pdf",
       "fourk": "image to pdf",
-      "fivek": "jpg to pdf converter"
+      "fivek": "jpg to pdf converter",
+      "sixk": "how to add image to pdf",
+      "sevenk": "image to pdf free",
+      "eightk": "turn image to pdf",
+      "ninek": "image to pdf online",
+      "tenk": "converting jpg to pdf",
+      "elevenk": "convert multiple jpg to pdf",
+      "twelevek": "jpg to pdf converter online"
     }
   },
 
@@ -244,7 +254,11 @@
       "twok": "pdf to excel",
       "threek": "pdf to excel converter",
       "fourk": "pdf to csv",
-      "fivek": "convert pdf to excel"
+      "fivek": "convert pdf to excel",
+      "sixk": "pdf to excel spreadsheet",
+      "sevenk": "pdf to excel converter free",
+      "eightk": "free convert pdf to excel",
+      "ninek": "how to convert a pdf to excel"
     }
   },
 
@@ -312,7 +326,14 @@
       "twok": "pdf to image converter",
       "threek": "pdf to jpg",
       "fourk": "pdf to images",
-      "fivek": "convert pdf to image"
+      "fivek": "convert pdf to image",
+      "sixk": "python pdf to image",
+      "sevenk": "pdf to image converter free",
+      "eightk": "pdf to image online",
+      "ninek": "convert pdf to image files",
+      "tenk": "pdf to jpg converter free",
+      "elevenk": "convert a pdf to jpg",
+      "twelevek": "free convert pdf to jpg"
     }
   },
 
@@ -384,7 +405,13 @@
       "threek": "pdf to word converter",
       "fourk": "convert pdf to word",
       "fivek": "pdf to docx converter",
-      "sixk": "pdf to doc"
+      "sixk": "pdf to doc",
+      "sevenk": "pdf to word document",
+      "eightk": "convert from pdf to word",
+      "ninek": "convert pdf to word online",
+      "tenk": "change pdf to word",
+      "elevenk": "free convert pdf to word",
+      "twelevek": "free pdf to docx"
     }
   },
 
@@ -450,7 +477,14 @@
       "threek": "doc to pdf",
       "fourk": "convert word to pdf",
       "fivek": "word to pdf converter",
-      "sixk": "word converter to pdf"
+      "sixk": "word converter to pdf",
+      "sevenk": "convert from word to pdf",
+      "eightk": "online word to pdf converter",
+      "ninek": "word to pdf converter online free",
+      "tenk": "change word to pdf",
+      "elevenk": "docx to pdf converter",
+      "twelevek": "converting docx to pdf",
+      "thirteenk": "docx to pdf online"
     }
   },
 

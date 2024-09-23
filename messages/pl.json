@@ -122,7 +122,10 @@
       "sevenk": "ocr",
       "eightk": "darmowe ocr",
       "ninek": "oprogramowanie ocr",
-      "tenk": "optyczne rozpoznawanie znaków"
+      "tenk": "optyczne rozpoznawanie znaków",
+      "elevenk": "obraz na tekst za darmo",
+      "twelevek": "konwertuj obraz na tekst za darmo",
+      "thirteenk": "jak przekonwertować obraz na tekst"
     }
   },
 
@@ -180,7 +183,14 @@
       "twok": "jpeg do pdf",
       "threek": "jpg do pdf",
       "fourk": "obraz do pdf",
-      "fivek": "konwerter jpg do pdf"
+      "fivek": "konwerter jpg do pdf",
+      "sixk": "dodaj obraz do pdf",
+      "sevenk": "obraz do pdf za darmo",
+      "eightk": "przekonwertuj obraz na pdf",
+      "ninek": "obraz na pdf online",
+      "tenk": "konwersja jpg na pdf",
+      "elevenk": "konwertuj wiele jpg na pdf",
+      "twelevek": "konwerter jpg na pdf online"
     }
   },
 
@@ -242,7 +252,11 @@
       "twok": "pdf do excel",
       "threek": "konwerter pdf do excel",
       "fourk": "pdf do csv",
-      "fivek": "konwertuj pdf do excel"
+      "fivek": "konwertuj pdf do excel",
+      "sixk": "pdf do arkusza kalkulacyjnego excel",
+      "sevenk": "darmowy konwerter pdf do excel",
+      "eightk": "darmowe konwertowanie pdf do excel",
+      "ninek": "jak przekonwertować pdf na excel"
     }
   },
 
@@ -308,7 +322,14 @@
       "twok": "konwerter pdf na obraz",
       "threek": "pdf na jpg",
       "fourk": "pdf na obrazy",
-      "fivek": "konwertuj pdf na obraz"
+      "fivek": "konwertuj pdf na obraz",
+      "sixk": "python pdf na obraz",
+      "sevenk": "bezpłatny konwerter pdf na obraz",
+      "eightk": "pdf na obraz online",
+      "ninek": "konwertuj pdf na pliki obrazów",
+      "tenk": "bezpłatny konwerter pdf na jpg",
+      "elevenk": "konwertuj pdf na jpg",
+      "twelevek": "bezpłatna konwersja pdf na jpg"
     }
   },
 
@@ -379,7 +400,13 @@
       "threek": "konwerter pdf na word",
       "fourk": "konwertuj pdf na word",
       "fivek": "konwerter pdf na docx",
-      "sixk": "pdf na doc"
+      "sixk": "pdf na doc",
+      "sevenk": "pdf na dokument Word",
+      "eightk": "konwertuj z pdf na Word",
+      "ninek": "konwertuj pdf na Word online",
+      "tenk": "zmień pdf na Word",
+      "elevenk": "bezpłatnie konwertuj pdf na Word",
+      "twelevek": "bezpłatnie pdf na docx"
     }
   },
 
@@ -444,7 +471,14 @@
       "threek": "doc na pdf",
       "fourk": "konwertuj word na pdf",
       "fivek": "konwerter word na pdf",
-      "sixk": "konwerter word na pdf"
+      "sixk": "konwerter word na pdf",
+      "sevenk": "konwertuj z Worda na PDF",
+      "eightk": "internetowy konwerter Word na PDF",
+      "ninek": "darmowy internetowy konwerter Word na PDF",
+      "tenk": "zmień Word na PDF",
+      "elevenk": "konwerter DOCX na PDF",
+      "twelevek": "konwersja DOCX na PDF",
+      "thirteenk": "DOCX na PDF online"
     }
   },
 

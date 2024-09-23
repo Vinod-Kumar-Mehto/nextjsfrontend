@@ -123,7 +123,10 @@
       "sevenk": "OCR",
       "eightk": "무료 OCR",
       "ninek": "OCR 소프트웨어",
-      "tenk": "광학 문자 인식"
+      "tenk": "광학 문자 인식",
+      "elevenk": "이미지를 텍스트로 무료 변환",
+      "twelevek": "이미지를 텍스트로 변환 무료",
+      "thirteenk": "이미지를 텍스트로 변환하는 방법"
     }
   },
 
@@ -181,7 +184,14 @@
       "twok": "jpeg에서 pdf로",
       "threek": "jpg에서 pdf로",
       "fourk": "이미지에서 pdf로",
-      "fivek": "jpg에서 pdf로 변환기"
+      "fivek": "jpg에서 pdf로 변환기",
+      "sixk": "PDF에 이미지 추가",
+      "sevenk": "이미지를 PDF로 무료 변환",
+      "eightk": "이미지를 PDF로 변환",
+      "ninek": "온라인 이미지 PDF 변환",
+      "tenk": "JPG를 PDF로 변환",
+      "elevenk": "여러 JPG를 PDF로 변환",
+      "twelevek": "온라인 JPG to PDF 변환기"
     }
   },
 
@@ -243,7 +253,11 @@
       "twok": "pdf에서 excel로",
       "threek": "pdf에서 excel 변환기",
       "fourk": "pdf에서 csv로",
-      "fivek": "pdf를 excel로 변환"
+      "fivek": "pdf를 excel로 변환",
+      "sixk": "PDF를 엑셀 스프레드시트로",
+      "sevenk": "무료 PDF에서 엑셀 변환기",
+      "eightk": "무료로 PDF를 엑셀로 변환",
+      "ninek": "PDF를 엑셀로 변환하는 방법"
     }
   },
 
@@ -311,7 +325,14 @@
       "twok": "pdf에서 이미지 변환기",
       "threek": "pdf에서 jpg",
       "fourk": "pdf에서 이미지",
-      "fivek": "pdf를 이미지로 변환"
+      "fivek": "pdf를 이미지로 변환",
+      "sixk": "python pdf를 이미지로",
+      "sevenk": "pdf를 이미지로 변환하는 무료 변환기",
+      "eightk": "pdf를 이미지로 온라인 변환",
+      "ninek": "pdf를 이미지 파일로 변환",
+      "tenk": "pdf를 jpg로 변환하는 무료 변환기",
+      "elevenk": "pdf를 jpg로 변환하기",
+      "twelevek": "pdf를 jpg로 무료 변환"
     }
   },
 
@@ -382,7 +403,13 @@
       "threek": "pdf에서 word로 변환기",
       "fourk": "pdf를 word로 변환",
       "fivek": "pdf에서 docx로 변환기",
-      "sixk": "pdf를 doc로 변환"
+      "sixk": "pdf를 doc로 변환",
+      "sevenk": "PDF를 Word 문서로 변환",
+      "eightk": "PDF에서 Word로 변환",
+      "ninek": "PDF를 온라인으로 Word로 변환",
+      "tenk": "PDF를 Word로 변경",
+      "elevenk": "무료로 PDF를 Word로 변환",
+      "twelevek": "무료 PDF를 DOCX로 변환"
     }
   },
 
@@ -447,7 +474,14 @@
       "threek": "doc에서 pdf로",
       "fourk": "word를 pdf로 변환",
       "fivek": "word에서 pdf로 변환기",
-      "sixk": "word를 pdf로 변환하는 도구"
+      "sixk": "word를 pdf로 변환하는 도구",
+      "sevenk": "Word에서 PDF로 변환",
+      "eightk": "온라인 Word에서 PDF 변환기",
+      "ninek": "무료 온라인 Word에서 PDF 변환기",
+      "tenk": "Word를 PDF로 변경",
+      "elevenk": "DOCX에서 PDF 변환기",
+      "twelevek": "DOCX를 PDF로 변환 중",
+      "thirteenk": "온라인 DOCX에서 PDF로"
     }
   },
 

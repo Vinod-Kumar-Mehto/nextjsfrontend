@@ -2,6 +2,7 @@
 
 import Link from "next/link";
 import styles from "@/styles/footer.module.css";
+import { FaLinkedin } from "react-icons/fa";
 import { useEffect, useTransition } from "react";
 import { useRouter } from "next/navigation";
 import { useLocale } from "next-intl";
@@ -66,7 +67,14 @@ const Footer = () => {
         </li>
       </ul>
       <div className={styles.footerlanguage}>
-        <label htmlFor={styles.languageselect}>{t("languageLabel")}: </label>
+        <span className={styles.linkedinIcon}>
+          <a href="https://www.linkedin.com/company/imageocr">
+            <FaLinkedin size={24} />
+          </a>
+        </span>
+        <label className={styles.languageselectfont}>
+          {t("languageLabel")}:{" "}
+        </label>
         <select
           defaultValue={localActive}
           id={styles.languageselect}

@@ -122,7 +122,10 @@
       "sevenk": "ocr",
       "eightk": "ocr gratuito",
       "ninek": "software ocr",
-      "tenk": "riconoscimento ottico dei caratteri"
+      "tenk": "riconoscimento ottico dei caratteri",
+      "elevenk": "immagine in testo gratis",
+      "twelevek": "converti immagine in testo gratis",
+      "thirteenk": "come convertire immagine in testo"
     }
   },
 
@@ -180,7 +183,14 @@
       "twok": "jpeg in pdf",
       "threek": "jpg in pdf",
       "fourk": "immagine in pdf",
-      "fivek": "convertitore jpg in pdf"
+      "fivek": "convertitore jpg in pdf",
+      "sixk": "aggiungere immagine a pdf",
+      "sevenk": "immagine in pdf gratis",
+      "eightk": "convertire immagine in pdf",
+      "ninek": "immagine in pdf online",
+      "tenk": "converto jpg in pdf",
+      "elevenk": "convertire più jpg in pdf",
+      "twelevek": "convertitore jpg in pdf online"
     }
   },
 
@@ -243,7 +253,11 @@
       "twok": "pdf in excel",
       "threek": "convertitore pdf in excel",
       "fourk": "pdf in csv",
-      "fivek": "converti pdf in excel"
+      "fivek": "converti pdf in excel",
+      "sixk": "pdf in foglio di calcolo excel",
+      "sevenk": "convertitore pdf in excel gratuito",
+      "eightk": "converti pdf in excel gratuitamente",
+      "ninek": "come convertire un pdf in excel"
     }
   },
 
@@ -309,7 +323,14 @@
       "twok": "convertitore pdf in immagine",
       "threek": "pdf in jpg",
       "fourk": "pdf in immagini",
-      "fivek": "converti pdf in immagine"
+      "fivek": "converti pdf in immagine",
+      "sixk": "python pdf in immagine",
+      "sevenk": "convertitore pdf in immagine gratuito",
+      "eightk": "pdf in immagine online",
+      "ninek": "convertire pdf in file immagine",
+      "tenk": "convertitore pdf in jpg gratuito",
+      "elevenk": "convertire un pdf in jpg",
+      "twelevek": "convertire pdf in jpg gratuitamente"
     }
   },
 
@@ -379,7 +400,13 @@
       "threek": "convertitore pdf in word",
       "fourk": "converti pdf in word",
       "fivek": "convertitore pdf in docx",
-      "sixk": "pdf in doc"
+      "sixk": "pdf in doc",
+      "sevenk": "pdf in documento Word",
+      "eightk": "convertire da pdf a Word",
+      "ninek": "convertire pdf in Word online",
+      "tenk": "cambiare pdf in Word",
+      "elevenk": "convertire pdf in Word gratis",
+      "twelevek": "pdf in docx gratis"
     }
   },
 
@@ -444,7 +471,14 @@
       "threek": "doc in pdf",
       "fourk": "converti word in pdf",
       "fivek": "convertitore word in pdf",
-      "sixk": "convertitore di word in pdf"
+      "sixk": "convertitore di word in pdf",
+      "sevenk": "convertire da Word a PDF",
+      "eightk": "convertitore online da Word a PDF",
+      "ninek": "convertitore da Word a PDF online gratuito",
+      "tenk": "cambiare da Word a PDF",
+      "elevenk": "convertitore da DOCX a PDF",
+      "twelevek": "conversione da DOCX a PDF",
+      "thirteenk": "DOCX a PDF online"
     }
   },
 

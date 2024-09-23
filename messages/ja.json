@@ -123,7 +123,10 @@
       "sevenk": "OCR",
       "eightk": "無料OCR",
       "ninek": "OCRソフトウェア",
-      "tenk": "光学式文字認識"
+      "tenk": "光学式文字認識",
+      "elevenk": "画像からテキストへの変換（無料）",
+      "twelevek": "画像をテキストに変換（無料）",
+      "thirteenk": "画像をテキストに変換する方法"
     }
   },
 
@@ -180,7 +183,14 @@
       "twok": "jpegからpdf",
       "threek": "jpgからpdf",
       "fourk": "画像からpdf",
-      "fivek": "jpgからpdf変換ツール"
+      "fivek": "jpgからpdf変換ツール",
+      "sixk": "PDFに画像を追加",
+      "sevenk": "画像をPDFに無料で",
+      "eightk": "画像をPDFに変換",
+      "ninek": "オンラインで画像をPDFに",
+      "tenk": "JPGをPDFに変換",
+      "elevenk": "複数のJPGをPDFに変換",
+      "twelevek": "オンラインJPGからPDFへの変換"
     }
   },
 
@@ -242,7 +252,11 @@
       "twok": "pdfからexcel",
       "threek": "pdfからexcel変換ツール",
       "fourk": "pdfからcsv",
-      "fivek": "pdfをexcelに変換"
+      "fivek": "pdfをexcelに変換",
+      "sixk": "PDFをExcelスプレッドシートに",
+      "sevenk": "無料PDFからExcelコンバーター",
+      "eightk": "無料でPDFをExcelに変換",
+      "ninek": "PDFをExcelに変換する方法"
     }
   },
 
@@ -310,7 +324,14 @@
       "twok": "pdfから画像変換ツール",
       "threek": "pdfからjpg",
       "fourk": "pdfから画像",
-      "fivek": "pdfを画像に変換"
+      "fivek": "pdfを画像に変換",
+      "sixk": "python pdfを画像に",
+      "sevenk": "pdfから画像への無料コンバーター",
+      "eightk": "pdfを画像にオンラインで",
+      "ninek": "pdfを画像ファイルに変換",
+      "tenk": "pdfからjpgへの無料コンバーター",
+      "elevenk": "pdfをjpgに変換",
+      "twelevek": "pdfをjpgに無料で変換"
     }
   },
 
@@ -381,7 +402,13 @@
       "threek": "pdfからword変換ツール",
       "fourk": "pdfをwordに変換",
       "fivek": "pdfからdocx変換ツール",
-      "sixk": "pdfからdoc"
+      "sixk": "pdfからdoc",
+      "sevenk": "PDFをWord文書に変換",
+      "eightk": "PDFからWordに変換",
+      "ninek": "PDFをオンラインでWordに変換",
+      "tenk": "PDFをWordに変更",
+      "elevenk": "無料でPDFをWordに変換",
+      "twelevek": "無料でPDFをDOCXに変換"
     }
   },
 
@@ -446,7 +473,14 @@
       "threek": "docからpdf",
       "fourk": "wordをpdfに変換",
       "fivek": "wordからpdf変換ツール",
-      "sixk": "wordをpdfに変換するツール"
+      "sixk": "wordをpdfに変換するツール",
+      "sevenk": "WordからPDFに変換する",
+      "eightk": "オンラインWordからPDFへの変換ツール",
+      "ninek": "無料のオンラインWordからPDFへの変換ツール",
+      "tenk": "WordをPDFに変更する",
+      "elevenk": "DOCXからPDFへの変換ツール",
+      "twelevek": "DOCXをPDFに変換中",
+      "thirteenk": "オンラインでDOCXをPDFにする"
     }
   },
 

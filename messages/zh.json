@@ -123,7 +123,10 @@
       "sevenk": "OCR",
       "eightk": "免费OCR",
       "ninek": "OCR软件",
-      "tenk": "光学字符识别"
+      "tenk": "光学字符识别",
+      "elevenk": "免费图片转文字",
+      "twelevek": "免费将图片转换为文字",
+      "thirteenk": "如何将图片转换为文字"
     }
   },
 
@@ -182,7 +185,14 @@
       "twok": "jpeg转pdf",
       "threek": "jpg转pdf",
       "fourk": "图像转pdf",
-      "fivek": "jpg转pdf转换器"
+      "fivek": "jpg转pdf转换器",
+      "sixk": "将图像添加到pdf",
+      "sevenk": "免费将图像转换为pdf",
+      "eightk": "将图像转换为pdf",
+      "ninek": "在线将图像转换为pdf",
+      "tenk": "将jpg转换为pdf",
+      "elevenk": "将多个jpg转换为pdf",
+      "twelevek": "在线jpg转pdf转换器"
     }
   },
 
@@ -245,7 +255,11 @@
       "twok": "pdf转excel",
       "threek": "pdf转excel转换器",
       "fourk": "pdf转csv",
-      "fivek": "将pdf转换为excel"
+      "fivek": "将pdf转换为excel",
+      "sixk": "pdf 转换为 excel 电子表格",
+      "sevenk": "免费 pdf 转 excel 转换器",
+      "eightk": "免费将 pdf 转换为 excel",
+      "ninek": "如何将 pdf 转换为 excel"
     }
   },
 
@@ -312,7 +326,14 @@
       "twok": "pdf转图片转换器",
       "threek": "pdf转jpg",
       "fourk": "pdf转图片",
-      "fivek": "将pdf转换为图片"
+      "fivek": "将pdf转换为图片",
+      "sixk": "python pdf 转图片",
+      "sevenk": "免费的 pdf 转图片转换器",
+      "eightk": "在线 pdf 转图片",
+      "ninek": "将 pdf 转换为图像文件",
+      "tenk": "免费的 pdf 转 jpg 转换器",
+      "elevenk": "将 pdf 转换为 jpg",
+      "twelevek": "免费将 pdf 转换为 jpg"
     }
   },
 
@@ -383,7 +404,13 @@
       "threek": "pdf转word转换器",
       "fourk": "将pdf转换为word",
       "fivek": "pdf转docx转换器",
-      "sixk": "pdf转doc"
+      "sixk": "pdf转doc",
+      "sevenk": "将PDF转换为Word文档",
+      "eightk": "从PDF转换为Word",
+      "ninek": "在线将PDF转换为Word",
+      "tenk": "将PDF更改为Word",
+      "elevenk": "免费将PDF转换为Word",
+      "twelevek": "免费将PDF转换为DOCX"
     }
   },
 
@@ -448,7 +475,14 @@
       "threek": "doc转pdf",
       "fourk": "将word转换为pdf",
       "fivek": "word转pdf转换器",
-      "sixk": "word转pdf工具"
+      "sixk": "word转pdf工具",
+      "sevenk": "从Word转换为PDF",
+      "eightk": "在线Word转PDF转换器",
+      "ninek": "免费在线Word转PDF转换器",
+      "tenk": "将Word转换为PDF",
+      "elevenk": "DOCX转PDF转换器",
+      "twelevek": "将DOCX转换为PDF",
+      "thirteenk": "在线DOCX转PDF"
     }
   },
 

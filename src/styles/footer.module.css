@@ -4,7 +4,7 @@
   justify-content: space-between;
   align-items: center;
   padding: 10px; /* Reduced padding for mobile compatibility */
-  background-color: hsl(273, 26%, 84%);
+  background-color: hsl(270, 31%, 95%);
   position: relative;
   width: 100%;
   box-shadow: -2px -2px 5px 2px rgb(132, 133, 133);
@@ -57,6 +57,23 @@
   margin-top: 45px;
   font-size: large;
 }
+.languageselectfont {
+  font-weight: bolder;
+  font-size: larger;
+  margin-left: 30px;
+}
+.footerlanguage {
+  display: flex;
+  align-items: center; /* Aligns items vertically centered */
+  gap: 10px; /* Space between dropdown and icon */
+  margin-top: 1rem; /* Adjust spacing above */
+}
+
+.linkedinIcon {
+  display: flex;
+  color: #0077b5; /* LinkedIn color */
+  text-decoration: none;
+}
 
 @media (max-width: 600px) {
   .footer {
@@ -82,5 +99,20 @@
   }
   .footerlanguage select {
     font-size: medium;
+  }
+
+  .footerlanguage {
+    flex-direction: column; /* Stack on smaller screens */
+    align-items: center; /* Align to the left */
+  }
+
+  .languageselectfont {
+    font-weight: bold;
+    font-size: small;
+    margin-left: 0px;
+  }
+
+  .linkedinIcon {
+    margin-top: 0.5rem; /* Add space between dropdown and icon on small screens */
   }
 }

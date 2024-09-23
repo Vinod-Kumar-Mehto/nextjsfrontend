@@ -4,11 +4,11 @@
   align-items: center;
   padding: 21px 1.5rem;
   height: 60px;
-  background-color: rgba(202, 15, 187, 0.2);
+  background-color: rgba(182, 114, 176, 0.2);
   z-index: 10; /* Ensure the navbar is on top */
   position: relative;
   width: 100%;
-  box-shadow: -5px 2px 10px 1px rgb(166, 29, 197);
+  box-shadow: -5px 2px 10px 1px rgb(167, 122, 177);
 }
 
 .logo {
