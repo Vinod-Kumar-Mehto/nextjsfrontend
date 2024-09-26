@@ -2,7 +2,7 @@
 import React, { useCallback, useState, useEffect } from "react";
 import { toast } from "react-toastify";
 import { v4 as uuidv4 } from "uuid";
-import { createWorker } from "tesseract.js";
+import axios from "axios";
 import { FcDownload, FcLock, FcCopyright } from "react-icons/fc";
 import { RiDeleteBin5Line } from "react-icons/ri";
 import { VscDebugRestart } from "react-icons/vsc";
@@ -17,98 +17,11 @@ const ImgToText = () => {
   const [isProcessing, setIsProcessing] = useState(false);
   const [show, setShow] = useState(true);
   const t = useTranslations("imgtotext");
-  const [lang, setLang] = useState([
-    {
-      id: 0,
-      langType: "eng",
-    },
-    {
-      id: 1,
-      langType: "eng",
-    },
-    {
-      id: 2,
-      langType: "eng",
-    },
-    {
-      id: 3,
-      langType: "eng",
-    },
-  ]);
 
   const imageTextResult = selectedImage.length !== 0 && show;
   const convertShow = isProcessing === false && textResult.length !== 0;
-  const languages = [
-    { value: "eng", name: "English" },
-    { value: "deu", name: "German" },
-    { value: "fra", name: "French" },
-    { value: "ita", name: "Italian" },
-    { value: "spa", name: "Spanish" },
-    { value: "por", name: "Portuguese" },
-    { value: "nld", name: "Dutch" },
-    { value: "dan", name: "Danish" },
-    { value: "fin", name: "Finnish" },
-    { value: "nor", name: "Norwegian" },
-    { value: "pol", name: "Polish" },
-    { value: "swe", name: "Swedish" },
-    { value: "tur", name: "Turkish" },
-    { value: "ell", name: "Greek" },
-    { value: "hin", name: "Hindi" },
-    { value: "jpn", name: "Japanese" },
-    { value: "kor", name: "Korean" },
-    { value: "chi_sim", name: "Chinese" },
-    { value: "rus", name: "Russian" },
-    { value: "ara", name: "Arabic" },
-    { value: "heb", name: "Hebrew" },
-    { value: "tha", name: "Thai" },
-    { value: "vie", name: "Vietnamese" },
-    { value: "ind", name: "Indonesian" },
-    { value: "mal", name: "Malay" },
-    { value: "swa", name: "Swahili" },
-    { value: "tam", name: "Tamil" },
-    { value: "tel", name: "Telugu" },
-    { value: "urd", name: "Urdu" },
-    { value: "ukr", name: "Ukrainian" },
-    { value: "bul", name: "Bulgarian" },
-    { value: "hun", name: "Hungarian" },
-    { value: "ces", name: "Czech" },
-    { value: "slk", name: "Slovak" },
-    { value: "ron", name: "Romanian" },
-  ];
 
   let doubleClicks = true;
-
-  const setLanguage = useCallback(
-    (e, id) => {
-      try {
-        e.currentTarget.parentNode.parentNode.children[2].disabled = true;
-        const settingLang = lang.map((L) => {
-          if (L.id !== id) {
-            return L;
-          } else {
-            return {
-              ...L,
-              langType: e.target.value,
-            };
-          }
-        });
-        setLang(settingLang);
-      } catch (er) {
-        toast.error(`🚀${t("componentTrans.error")}🚀`, {
-          position: "top-center",
-          autoClose: 3000,
-          hideProgressBar: false,
-          closeOnClick: true,
-          pauseOnHover: true,
-          draggable: true,
-          progress: undefined,
-          theme: "light",
-        });
-        setSelectedImage([]);
-      }
-    },
-    [lang]
-  );
 
   const handleRemove = (id) => {
     const result = selectedImage.filter((data) => data.id !== id);
@@ -141,15 +54,47 @@ const ImgToText = () => {
       if (selectedImage) {
         setIsProcessing(true);
 
+        const formData = new FormData();
         for (let i = 0; i < selectedImage.length; i++) {
-          const worker = await createWorker(lang[i].langType);
-          const ret = await worker.recognize(selectedImage[i].fileImg);
+          console.log(`Appending image: ${selectedImage[i].allFile.name}`);
+          formData.append("file", selectedImage[i].allFile); // Ensure this matches the backend
+        }
+
+        // Log the FormData object (might need to convert to a more readable format)
+        for (const [key, value] of formData.entries()) {
+          console.log(`${key}: ${value.name || value}`);
+        }
+
+        const response = await axios.post(
+          `${process.env.NEXT_PUBLIC_PORT}/convertimagetotext`,
+          formData,
+          {
+            responseType: "json", // Change from blob to json
+          }
+        );
+        const extractedText = response.data.results;
+        extractedText.forEach((item, i) => {
+          const recognizedTextArray = Array.isArray(item.recognized_text)
+            ? item.recognized_text
+            : [item.recognized_text];
+
+          // Format the recognized text into lines without concatenation
+          const formattedText = recognizedTextArray
+            .flatMap((subArray) => {
+              // If subArray is itself an array, return each item separately
+              if (Array.isArray(subArray)) {
+                return subArray.map((text) => text.toString().trim()); // Convert to string and trim each entry
+              }
+              return text.toString().trim(); // Return it directly if it's a string
+            })
+            .filter((line) => line.length > 0) // Remove empty lines
+            .join("\n"); // Join all lines with newline character
 
           setTextResult((preValue) => {
             return [
               ...preValue,
               {
-                convertText: ret.data.text,
+                convertText: formattedText,
                 id: uuidv4(),
                 images: selectedImage[i].fileImg,
                 filename: selectedImage[i].filename,
@@ -157,8 +102,7 @@ const ImgToText = () => {
               },
             ];
           });
-          await worker.terminate();
-        }
+        });
         setIsProcessing(false);
         setShow(false);
       }
@@ -242,6 +186,7 @@ const ImgToText = () => {
                 filetype: e.target.files[i].type,
                 filesize: e.target.files[i].size / (1024 * 1024),
                 fileImg: URL.createObjectURL(e.target.files[i]),
+                allFile: e.target.files[i],
                 id: uuidv4(),
               },
             ];
@@ -264,6 +209,7 @@ const ImgToText = () => {
               filetype: blob.type,
               filesize: blob.size / (1024 * 1024),
               fileImg: URL.createObjectURL(blob),
+              allFile: blob,
               id: uuidv4(),
             },
           ]);
@@ -421,25 +367,7 @@ const ImgToText = () => {
                           </p>
                         </div>
                       </div>
-                      <div>
-                        <span>
-                          {" "}
-                          <p className={styles.lanpara}>
-                            {t("componentTrans.selectLang")}
-                          </p>
-                        </span>
-
-                        <select
-                          onChange={(e) => setLanguage(e, index)}
-                          className={styles.select}
-                        >
-                          {languages.map((language) => (
-                            <option key={language.value} value={language.value}>
-                              {language.name}
-                            </option>
-                          ))}
-                        </select>
-                      </div>
+                      <div className={styles.select}></div>
                       <button
                         disabled={isProcessing ? "disabled" : ""}
                         onClick={() => handleRemove(img.id)}
@@ -507,7 +435,7 @@ const ImgToText = () => {
                       </div>
                       <textarea
                         className={styles.textareaa}
-                        value={res.convertText.trim().replace(/\s+/g, " ")}
+                        value={res.convertText}
                         onChange={(e) => setText(res.convertText)}
                       ></textarea>
                       <br />

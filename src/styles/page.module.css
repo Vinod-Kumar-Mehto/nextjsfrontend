@@ -247,8 +247,6 @@
   width: 120px;
   height: 22px;
   margin-left: 160px;
-  cursor: pointer;
-  font-weight: bold;
 }
 
 .textareaa {
@@ -498,7 +496,6 @@
 
   .select {
     width: 70px;
-    font-weight: bold;
     margin-left: 140px;
   }
   .lanpara {
