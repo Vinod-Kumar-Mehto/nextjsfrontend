@@ -56,13 +56,7 @@ const ImgToText = () => {
 
         const formData = new FormData();
         for (let i = 0; i < selectedImage.length; i++) {
-          console.log(`Appending image: ${selectedImage[i].allFile.name}`);
           formData.append("file", selectedImage[i].allFile); // Ensure this matches the backend
-        }
-
-        // Log the FormData object (might need to convert to a more readable format)
-        for (const [key, value] of formData.entries()) {
-          console.log(`${key}: ${value.name || value}`);
         }
 
         const response = await axios.post(
