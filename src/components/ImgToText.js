@@ -69,6 +69,9 @@ const ImgToText = () => {
           `${process.env.NEXT_PUBLIC_PORT}/convertimagetotext`,
           formData,
           {
+            headers: {
+              "Content-Type": "multipart/form-data",
+            },
             responseType: "json", // Change from blob to json
           }
         );
