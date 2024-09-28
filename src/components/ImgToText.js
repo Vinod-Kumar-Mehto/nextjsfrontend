@@ -81,19 +81,8 @@ const ImgToText = () => {
           const recognizedTextArray = Array.isArray(item.recognized_text)
             ? item.recognized_text
             : [item.recognized_text];
-
           // Format the recognized text into lines without concatenation
-          const formattedText = recognizedTextArray
-            .flatMap((subArray) => {
-              // If subArray is itself an array, return each item separately
-              if (Array.isArray(subArray)) {
-                return subArray.map((text) => text.toString().trim()); // Convert to string and trim each entry
-              }
-              return text.toString().trim(); // Return it directly if it's a string
-            })
-            .filter((line) => line.length > 0) // Remove empty lines
-            .join("\n"); // Join all lines with newline character
-
+          const formattedText = recognizedTextArray;
           setTextResult((preValue) => {
             return [
               ...preValue,
