@@ -13,7 +13,6 @@ import { useTranslations } from "next-intl";
 const ImgToText = () => {
   const [selectedImage, setSelectedImage] = useState([]);
   const [textResult, setTextResult] = useState([]);
-  const [text, setText] = useState("");
   const [isProcessing, setIsProcessing] = useState(false);
   const [show, setShow] = useState(true);
   const t = useTranslations("imgtotext");
@@ -22,6 +21,14 @@ const ImgToText = () => {
   const convertShow = isProcessing === false && textResult.length !== 0;
 
   let doubleClicks = true;
+
+  const handleTextChange = (id, newText) => {
+    setTextResult((prevTextResult) =>
+      prevTextResult.map((item) =>
+        item.id === id ? { ...item, convertText: newText } : item
+      )
+    );
+  };
 
   const handleRemove = (id) => {
     const result = selectedImage.filter((data) => data.id !== id);
@@ -433,7 +440,9 @@ const ImgToText = () => {
                       <textarea
                         className={styles.textareaa}
                         value={res.convertText}
-                        onChange={(e) => setText(res.convertText)}
+                        onChange={(e) =>
+                          handleTextChange(res.id, e.target.value)
+                        }
                       ></textarea>
                       <br />
                       <div className={styles.buttonDCtext}>
