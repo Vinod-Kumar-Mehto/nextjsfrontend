@@ -417,7 +417,7 @@
 @media (max-width: 1200px) {
   .pdfdragfilearea1,
   .pdfdragfilearea2 {
-    border: 2px dashed #7b2cbf;
+    border: 2px groove #7b2cbf;
     border-radius: 40px;
     margin: 10px 0 0px;
     padding: 10px 2px;
