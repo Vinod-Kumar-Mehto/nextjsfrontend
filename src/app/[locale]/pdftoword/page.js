@@ -105,7 +105,7 @@ const PdfToword = async () => {
             <span className={styles.seolink}>
               <Link href="https://www.imageocr.info/fr/pdftoword">French</Link>
             </span>
-            <br />,
+            ,
             <span className={styles.seolink}>
               <Link href="https://www.imageocr.info/it/pdftoword">Italian</Link>
             </span>

@@ -21,6 +21,8 @@
   justify-content: center;
   align-items: center;
   position: relative;
+  font-size: large;
+  text-align: center;
 }
 
 .pdfuploadfilescontainer,
@@ -360,10 +362,15 @@
   color: #660fb1;
 }
 
+.textcontentpara a {
+  overflow-wrap: anywhere;
+}
+
 .textcontentpara,
 .textcontentparali {
   margin-bottom: 16px;
   line-height: 1.6;
+  font-size: 18px;
 }
 
 .textcontentul {
@@ -511,11 +518,14 @@
     margin: 0 5px 20px 5px;
     font-size: small;
   }
+  .pdfbrowsefiles {
+    font-size: medium;
+  }
 
   .textcontentpara,
   .textcontentparali {
     font-size: small;
-    overflow-wrap: anywhere;
+    overflow-wrap: break-word;
   }
   .textcontentpara a {
     font-size: small;

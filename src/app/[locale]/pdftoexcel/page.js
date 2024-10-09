@@ -102,7 +102,7 @@ const Pdftoexcel = async () => {
             <span className={styles.seolink}>
               <Link href="https://www.imageocr.info/fr/pdftoexcel">French</Link>
             </span>
-            <br />,
+            ,
             <span className={styles.seolink}>
               <Link href="https://www.imageocr.info/it/pdftoexcel">
                 Italian

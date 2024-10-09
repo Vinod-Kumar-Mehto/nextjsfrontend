@@ -120,6 +120,10 @@
   margin-left: 2px;
 }
 
+.heading {
+  font-size: large;
+}
+
 .defaultfileinput1 {
   opacity: 0;
 }
@@ -451,6 +455,11 @@
 .textcontentpara {
   margin-bottom: 16px;
   line-height: 1.6;
+  font-size: 18px;
+}
+
+.textcontentpara a {
+  overflow-wrap: anywhere;
 }
 
 .textcontentul {
@@ -553,6 +562,7 @@
   .containerheading {
     text-align: center;
     font-size: medium;
+    margin-top: -9px;
   }
 
   .containerheading4,
@@ -566,7 +576,10 @@
     font-size: small;
     margin-left: 5px;
   }
-
+  .textcontentpara a {
+    overflow-wrap: break-word;
+    font-size: small;
+  }
   .filedetails1,
   .filedetails2 {
     flex-direction: row;

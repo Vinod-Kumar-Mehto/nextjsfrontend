@@ -127,7 +127,7 @@ const ImageToText = async () => {
             <span className={styles.seolink}>
               <Link href="https://www.imageocr.info/ja">Japanese</Link>
             </span>
-            <br />,
+            ,
             <span className={styles.seolink}>
               <Link href="https://www.imageocr.info/ko">Korean</Link>
             </span>

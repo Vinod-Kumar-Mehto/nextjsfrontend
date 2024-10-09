@@ -106,7 +106,7 @@ const Imagetopdf = async () => {
             <span className={styles.seolink}>
               <Link href="https://www.imageocr.info/fr/imagetopdf">French</Link>
             </span>
-            <br />,
+            ,
             <span className={styles.seolink}>
               <Link href="https://www.imageocr.info/it/imagetopdf">
                 Italian
