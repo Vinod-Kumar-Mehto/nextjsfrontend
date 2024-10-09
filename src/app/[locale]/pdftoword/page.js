@@ -1,6 +1,11 @@
 import styles from "@/styles/all.module.css";
 import PdfToWord from "@/components/PdfToWord";
 import feature from "@/assets/images/feature.png";
+import free2 from "@/assets/images/free2.svg";
+import ocr from "@/assets/images/ocr.svg";
+import multiplefiles from "@/assets/images/files.svg";
+import multiplepages from "@/assets/images/multiplepages.svg";
+import security from "@/assets/images/security.svg";
 import Image from "next/image";
 import { getTranslations } from "next-intl/server";
 import Link from "next/link";
@@ -202,30 +207,43 @@ const PdfToword = async () => {
             <h3 className={styles.textheading3}>
               {t("keyFeatures.features.titleF")}
             </h3>
+            <Image alt="free" className={styles.img} src={free2} />
             <p className={styles.textcontentpara}>
               {t("keyFeatures.features.descriptionF")}
             </p>
             <h3 className={styles.textheading3}>
               {t("keyFeatures.features.titleS1")}
             </h3>
+            <Image
+              alt="multiplefiles"
+              className={styles.img}
+              src={multiplefiles}
+            />
             <p className={styles.textcontentpara}>
               {t("keyFeatures.features.descriptionS1")}
             </p>
             <h3 className={styles.textheading3}>
               {t("keyFeatures.features.titleS2")}
             </h3>
+            <Image
+              alt="multiplepages"
+              className={styles.img}
+              src={multiplepages}
+            />
             <p className={styles.textcontentpara}>
               {t("keyFeatures.features.descriptionS2")}
             </p>
             <h3 className={styles.textheading3}>
               {t("keyFeatures.features.titleS3")}
             </h3>
+            <Image alt="secure" className={styles.img} src={security} />
             <p className={styles.textcontentpara}>
               {t("keyFeatures.features.descriptionS3")}
             </p>
             <h3 className={styles.textheading3}>
               {t("keyFeatures.features.titleO")}
             </h3>
+            <Image alt="OCR" className={styles.img} src={ocr} />
             <p className={styles.textcontentpara}>
               {t("keyFeatures.features.descriptionO")}
             </p>

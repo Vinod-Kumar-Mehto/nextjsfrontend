@@ -2,6 +2,12 @@ import styles from "@/styles/all.module.css";
 import PdfToExcel from "@/components/PdfToExcel";
 import Image from "next/image";
 import feature from "@/assets/images/feature.png";
+import free2 from "@/assets/images/free2.svg";
+import batch from "@/assets/images/batch.svg";
+import ocr from "@/assets/images/ocr.svg";
+import data from "@/assets/images/data.svg";
+import mlanguage from "@/assets/images/mlanguage.svg";
+import drag from "@/assets/images/drag.svg";
 import { getTranslations } from "next-intl/server";
 import Link from "next/link";
 
@@ -203,12 +209,14 @@ const Pdftoexcel = async () => {
             <h3 className={styles.textheading3}>
               {t("keyFeatures.features.titleF")}{" "}
             </h3>
+            <Image alt="Free access" className={styles.img} src={free2} />
             <p className={styles.textcontentpara}>
               {t("keyFeatures.features.descriptionF")}
             </p>
             <h3 className={styles.textheading3}>
               {t("keyFeatures.features.titleB")}
             </h3>
+            <Image alt="Batch Conversion" className={styles.img} src={batch} />
             <p className={styles.textcontentpara}>
               {t("keyFeatures.features.descriptionB")}{" "}
             </p>
@@ -216,10 +224,48 @@ const Pdftoexcel = async () => {
             <h3 className={styles.textheading3}>
               {t("keyFeatures.features.titleE")}
             </h3>
+            <Image
+              alt="Enhanced Functionality with OCR"
+              className={styles.img}
+              src={ocr}
+            />
             <p className={styles.textcontentpara}>
               {t("keyFeatures.features.descriptiononeE")}
               <br />
               {t("keyFeatures.features.descriptiontwoE")}
+            </p>
+            <h3 className={styles.textheading3}>
+              {t("keyFeatures.features.titleA")}
+            </h3>
+            <Image
+              alt="Accurate Data Preservation"
+              className={styles.img}
+              src={data}
+            />
+            <p className={styles.textcontentpara}>
+              {t("keyFeatures.features.descriptionA")}
+            </p>
+            <h3 className={styles.textheading3}>
+              {t("keyFeatures.features.titleM")}
+            </h3>
+            <Image
+              alt="Multi-Language Support"
+              className={styles.img}
+              src={mlanguage}
+            />
+            <p className={styles.textcontentpara}>
+              {t("keyFeatures.features.descriptionM")}
+            </p>
+            <h3 className={styles.textheading3}>
+              {t("keyFeatures.features.titleD")}
+            </h3>
+            <Image
+              alt="Drag and Drop Functionality"
+              className={styles.img}
+              src={drag}
+            />
+            <p className={styles.textcontentpara}>
+              {t("keyFeatures.features.descriptionD")}
             </p>
           </div>
         </div>

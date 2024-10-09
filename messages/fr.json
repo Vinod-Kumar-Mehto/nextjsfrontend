@@ -80,7 +80,7 @@
           "descriptionone": "Cet outil est disponible gratuitement pour tout le monde.",
 
           "titletwo": "Supporte Plusieurs Formats de Fichiers",
-          "descriptiontwo": "Ce convertisseur d'image en texte prend en charge plusieurs formats d'image comme JPG, PNG, JPEG, GIF et WEBP.",
+          "descriptiontwo": "Ce convertisseur d'image en texte prend en charge plusieurs formats d'image comme JPG, PNG, JPEG, GIF.",
 
           "titlethree": "Images à Basse Résolution",
           "descriptionthree": "Si vous avez des images de faible qualité, ne vous inquiétez pas. L'extracteur de texte à partir d'image peut extraire rapidement le texte de photos floues et de faible résolution. Les images de livres, les œuvres manuscrites et les captures d'écran peuvent être pâles et difficiles à lire. Cependant, notre programme peut extraire des données de telles photos avec une grande précision."
@@ -155,7 +155,13 @@
         "titleM": "Support Multi-Format",
         "descriptionM": "Notre outil prend en charge une large gamme de formats d'image, permettant aux utilisateurs de convertir JPEG, PNG, GIF en un document PDF. Cette flexibilité répond à divers besoins, qu'il s'agisse de documents professionnels, de projets personnels ou de fins d'archivage.",
         "titleU": "Interface Conviviale",
-        "descriptionU": "Notre outil possède une interface intuitive qui rend la conversion d'images en PDF simple et conviviale, même pour ceux avec peu d'expertise technique."
+        "descriptionU": "Notre outil possède une interface intuitive qui rend la conversion d'images en PDF simple et conviviale, même pour ceux avec peu d'expertise technique.",
+        "titleH": "Sortie de Haute Qualité",
+        "descriptionH": "Notre convertisseur garantit une sortie de haute qualité, préservant la résolution et la clarté originales de l'image dans le PDF final. Vous ne perdrez aucun détail pendant le processus de conversion, assurant que vos images soient magnifiques dans leur nouveau format. Cette fonctionnalité est particulièrement bénéfique pour les professionnels ayant besoin de présentations nettes et claires ou pour quiconque souhaitant maintenir l'intégrité de ses photographies. Avec notre outil, vous pouvez convertir vos images en PDF en toute confiance, sachant qu'elles auront l'air aussi bien que les originales.",
+        "titleD": "Design Adapté aux Mobiles",
+        "descriptionD": "Convertissez des images en PDF à tout moment et partout grâce à notre design adapté aux mobiles ! Notre outil est optimisé pour les smartphones et les tablettes, garantissant que vous pouvez facilement télécharger et convertir vos images en déplacement. Cette fonctionnalité est parfaite pour les professionnels occupés ou toute personne ayant besoin de convertir rapidement des images depuis ses appareils. Avec toutes les fonctionnalités accessibles sur mobile, vous pouvez gérer vos tâches de conversion sans effort, sans être lié à votre ordinateur. Profitez de la commodité de convertir des images en PDF directement depuis votre poche !",
+        "titleB": "Capacité de Conversion par Lots",
+        "descriptionB": "Gagnez du temps en utilisant notre fonctionnalité de conversion par lots, qui vous permet de convertir plusieurs images en documents PDF simultanément. Cela est particulièrement utile pour compiler des rapports, des présentations ou des projets personnels où vous souhaitez rassembler plusieurs images dans un fichier organisé. Téléchargez simplement toutes vos images en une seule fois, et notre outil s'occupera du reste, vous fournissant un PDF cohérent prêt à être partagé ou imprimé. Profitez d'un flux de travail plus efficace sans le tracas de convertir des images une par une !"
       }
     },
 
@@ -226,7 +232,14 @@
 
         "titleE": "Fonctionnalité Améliorée avec OCR",
         "descriptiononeE": "Convertissez les PDF scannés en fichiers Excel modifiables avec prise en charge OCR, vous permettant de manipuler et d'utiliser les données plus efficacement.",
-        "descriptiontwoE": "Ces fonctionnalités soulignent la polyvalence et la sécurité de notre convertisseur PDF, en faisant un choix fiable pour tous vos besoins de conversion de documents."
+        "descriptiontwoE": "Ces fonctionnalités soulignent la polyvalence et la sécurité de notre convertisseur PDF, en faisant un choix fiable pour tous vos besoins de conversion de documents.",
+
+        "titleA": "Préservation Précise des Données",
+        "descriptionA": "Notre convertisseur de PDF en Excel garantit que tous les tableaux, colonnes et données sont préservés avec précision lors de la conversion. Fini le temps passé à reformater ou à corriger des erreurs : vos données resteront exactement telles qu'elles étaient dans le PDF d'origine. Grâce à cette fonctionnalité, vous pouvez être sûr que votre fichier Excel correspondra à la structure et à l'intégrité du PDF, facilitant ainsi l'analyse et la gestion de vos données. Profitez de transitions de données sans faille sans perte de qualité ni de précision lors de la conversion de PDF en Excel !",
+        "titleM": "Support Multilingue",
+        "descriptionM": "Notre convertisseur prend en charge les PDF dans plusieurs langues, garantissant une conversion précise peu importe la langue du document. Cette fonctionnalité facilite aux utilisateurs du monde entier la conversion de leurs documents sans se soucier des barrières linguistiques. Que votre PDF soit en anglais, espagnol, français ou dans toute autre langue, notre convertisseur le traite efficacement tout en préservant tout le texte et le format.",
+        "titleD": "Fonctionnalité Glisser-Déposer",
+        "descriptionD": "Téléchargez rapidement et facilement vos PDF grâce à notre fonctionnalité de glisser-déposer. Plus besoin de cliquer à travers plusieurs étapes ou de chercher vos fichiers : il vous suffit de faire glisser votre fichier dans le convertisseur et de commencer le processus instantanément. Cette fonctionnalité rend encore plus pratique le démarrage de votre conversion de PDF en Excel en un seul mouvement rapide, accélérant votre flux de travail et vous faisant gagner du temps."
       }
     },
 
@@ -295,7 +308,13 @@
         "descriptionS2": "Notre convertisseur PDF en image peut convertir des PDF jusqu'à 5 Mo, assurant une flexibilité pour divers types de documents. Bien que les fichiers plus volumineux puissent prendre plus de temps, nous privilégions des conversions précises et de haute qualité.",
 
         "titleS3": "Sécurité et Confidentialité",
-        "descriptionS3": "Nous privilégions la sécurité et la confidentialité de vos données pendant le processus de conversion. Des protocoles de cryptage avancés garantissent que vos informations sensibles restent sécurisées et privées."
+        "descriptionS3": "Nous privilégions la sécurité et la confidentialité de vos données pendant le processus de conversion. Des protocoles de cryptage avancés garantissent que vos informations sensibles restent sécurisées et privées.",
+
+        "titleS4": "Conversion de haute qualité",
+        "descriptionS4": "Nous ne faisons pas que convertir vos PDF ; nous veillons à ce que les images soient nettes et claires. Chaque détail, du texte aux graphiques, est préservé en haute résolution, ce qui rend notre outil parfait pour la conversion de documents avec des images, des graphiques ou des mises en page détaillées. Que vous ayez besoin de ces images pour une présentation, une impression ou simplement comme référence, vous pouvez compter sur des résultats de haute qualité à chaque fois.",
+
+        "titleS5": "Rapide et fiable",
+        "descriptionS5": "Personne n'aime attendre que des fichiers se convertissent. C'est pourquoi notre convertisseur PDF en JPG est conçu pour être rapide. Même avec des fichiers volumineux, vous ne serez pas obligé d'attendre longtemps. Nous privilégions une conversion rapide sans sacrifier la qualité, afin que vous puissiez convertir vos fichiers et continuer votre journée."
       }
     },
 
@@ -437,13 +456,16 @@
       "headinghref": "Nos autres outils",
       "features": {
         "titleU": "Interface Conviviale",
-        "descriptionU": "Profitez d'une interface claire et intuitive qui simplifie le processus de conversion pour les utilisateurs de tous niveaux de compétence.",
+        "descriptionU": "Notre convertisseur de Word en PDF est conçu avec vous à l'esprit ! L'interface conviviale rend l'ensemble du processus de conversion très simple, quel que soit votre niveau de compétence. Vous n'avez pas besoin d'être un expert en technologie pour naviguer, il vous suffit de quelques clics simples et le tour est joué. Que vous soyez un professionnel occupé ayant besoin de convertir des documents rapidement ou un étudiant travaillant sur un projet, notre mise en page intuitive vous aide à vous concentrer sur la réalisation de votre tâche. Profitez d'une expérience fluide avec tout clairement disposé, afin que vous puissiez convertir vos fichiers sans tracas !",
 
-        "titleS": "Support pour Plusieurs Fichiers PDF",
-        "descriptionS": "Convertissez des documents Word scannés en PDFs consultables, améliorant ainsi l'utilisabilité et l'accessibilité du contenu textuel. Ces fonctionnalités font de notre convertisseur Docx un outil fiable pour les utilisateurs ayant besoin de convertir plusieurs documents efficacement et en toute sécurité.",
+        "titleS": "Support pour Plusieurs Fichiers Docx",
+        "descriptionS": "Vous avez une pile de documents Word à convertir ? Pas de problème ! Notre convertisseur prend en charge le traitement par lot, vous permettant de transformer plusieurs fichiers en PDFs consultables en une seule fois. Cette fonctionnalité est un véritable changement de jeu pour quiconque doit gérer de grands volumes de documents—pensez aux rapports, aux essais ou à toute autre paperasse importante. De plus, la conversion en PDFs consultables signifie que vous pourrez facilement trouver et accéder au texte plus tard. C'est efficace et sécurisé, vous permettant de traiter vos tâches sans stress. Gagnez du temps et optimisez votre flux de travail avec cet outil pratique !",
 
-        "titleM": "Support Multilingue",
-        "descriptionM": "Prend en charge plusieurs langues dans les documents d'entrée et de sortie, garantissant la compatibilité et la précision pour divers besoins linguistiques."
+        "titleM": "Sécurisé et Privé",
+        "descriptionM": "Nous prenons votre vie privée très au sérieux ! Notre convertisseur de Word en PDF garantit que vos documents sont traités de manière sécurisée, afin que vous puissiez convertir vos fichiers sans craindre des violations de données ou un accès non autorisé. Nous utilisons le cryptage pour protéger vos informations et nous ne stockons vos fichiers plus longtemps que nécessaire. Une fois la conversion terminée, vos documents sont supprimés de nos serveurs, garantissant que votre vie privée est respectée. Ayez confiance en utilisant notre outil pour tous vos documents sensibles, sachant que la sécurité est notre priorité absolue !",
+
+        "titleF": "Vitesse de Conversion Rapide",
+        "descriptionF": "Nous savons que votre temps est précieux, c'est pourquoi notre convertisseur de Word en PDF est conçu pour la rapidité ! Vous pouvez vous attendre à des conversions rapides, que vous traitiez un seul document ou plusieurs fichiers à la fois. Il vous suffit de télécharger votre fichier Word, de cliquer pour convertir et voilà—votre PDF est prêt en un rien de temps ! Ce processus efficace signifie que vous pouvez continuer à travailler sans retard, ce qui le rend parfait pour les professionnels occupés ou toute personne ayant un emploi du temps serré. Profitez de conversions rapides et sans tracas pour vous concentrer sur ce qui compte vraiment !"
       }
     },
 

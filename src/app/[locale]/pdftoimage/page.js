@@ -2,6 +2,12 @@ import styles from "@/styles/all.module.css";
 import PdfToImage from "@/components/PdfToImage";
 import Image from "next/image";
 import feature from "@/assets/images/feature.png";
+import freeprice from "@/assets/images/freeprice.svg";
+import multiplefiles from "@/assets/images/files.svg";
+import multiplepages from "@/assets/images/multiplepages.svg";
+import security from "@/assets/images/security.svg";
+import quality from "@/assets/images/quality.svg";
+import fast from "@/assets/images/fast.svg";
 import { getTranslations } from "next-intl/server";
 import Link from "next/link";
 
@@ -200,24 +206,26 @@ const PdfToimage = async () => {
             className={styles.featureimg}
             alt="featureimage"
           />
-
           <h2 className={styles.textheading1}>{t("keyFeatures.heading")}</h2>
           <div className={styles.textcontentdiv}>
             <h3 className={styles.textheading3}>
               {t("keyFeatures.features.titleF")}{" "}
             </h3>
+            <Image alt="free" className={styles.img} src={freeprice} />
             <p className={styles.textcontentpara}>
               {t("keyFeatures.features.descriptionF")}
             </p>
             <h3 className={styles.textheading3}>
               {t("keyFeatures.features.titleS1")}
             </h3>
+            <Image alt="multiple" className={styles.img} src={multiplefiles} />
             <p className={styles.textcontentpara}>
               {t("keyFeatures.features.descriptionS1")}
             </p>
             <h3 className={styles.textheading3}>
               {t("keyFeatures.features.titleS2")}
             </h3>
+            <Image alt="pages" className={styles.img} src={multiplepages} />
             <p className={styles.textcontentpara}>
               {t("keyFeatures.features.descriptionS2")}
             </p>
@@ -225,8 +233,23 @@ const PdfToimage = async () => {
             <h3 className={styles.textheading3}>
               {t("keyFeatures.features.titleS3")}
             </h3>
+            <Image alt="secure" className={styles.img} src={security} />
             <p className={styles.textcontentpara}>
               {t("keyFeatures.features.descriptionS3")}
+            </p>
+            <h3 className={styles.textheading3}>
+              {t("keyFeatures.features.titleS4")}
+            </h3>
+            <Image alt="high quality" className={styles.img} src={quality} />
+            <p className={styles.textcontentpara}>
+              {t("keyFeatures.features.descriptionS4")}
+            </p>
+            <h3 className={styles.textheading3}>
+              {t("keyFeatures.features.titleS5")}
+            </h3>
+            <Image alt="reliable" className={styles.img} src={fast} />
+            <p className={styles.textcontentpara}>
+              {t("keyFeatures.features.descriptionS5")}
             </p>
           </div>
         </div>

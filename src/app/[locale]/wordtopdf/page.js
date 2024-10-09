@@ -1,6 +1,11 @@
 import styles from "@/styles/all.module.css";
 import WordToPdf from "@/components/WordToPdf";
 import feature from "@/assets/images/feature.png";
+import multipledoc from "@/assets/images/multipledoc.svg";
+import speed from "@/assets/images/speed.svg";
+import goodinterface from "@/assets/images/interface.svg";
+import security from "@/assets/images/security.svg";
+
 import Image from "next/image";
 import { getTranslations } from "next-intl/server";
 import Link from "next/link";
@@ -201,12 +206,22 @@ const Wordtopdf = async () => {
             <h3 className={styles.textheading3}>
               {t("keyFeatures.features.titleU")}{" "}
             </h3>
+            <Image
+              alt="user-friendly"
+              className={styles.img}
+              src={goodinterface}
+            />
             <p className={styles.textcontentpara}>
               {t("keyFeatures.features.descriptionU")}
             </p>
             <h3 className={styles.textheading3}>
               {t("keyFeatures.features.titleS")}
             </h3>
+            <Image
+              alt="multiple-docx"
+              className={styles.img}
+              src={multipledoc}
+            />
             <p className={styles.textcontentpara}>
               {t("keyFeatures.features.descriptionS")}
             </p>
@@ -214,8 +229,16 @@ const Wordtopdf = async () => {
             <h3 className={styles.textheading3}>
               {t("keyFeatures.features.titleM")}
             </h3>
+            <Image alt="secure" className={styles.img} src={security} />
             <p className={styles.textcontentpara}>
               {t("keyFeatures.features.descriptionM")}
+            </p>
+            <h3 className={styles.textheading3}>
+              {t("keyFeatures.features.titleF")}
+            </h3>
+            <Image alt="fast and reliable" className={styles.img} src={speed} />
+            <p className={styles.textcontentpara}>
+              {t("keyFeatures.features.descriptionF")}
             </p>
           </div>
         </div>

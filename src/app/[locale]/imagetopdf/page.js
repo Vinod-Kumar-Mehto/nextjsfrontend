@@ -2,6 +2,12 @@ import styles from "@/styles/all.module.css";
 import ImageToPdf from "@/components/ImageToPdf";
 import Image from "next/image";
 import feature from "@/assets/images/feature.png";
+import format from "@/assets/images/format.svg";
+import batch from "@/assets/images/batch.svg";
+import mobile from "@/assets/images/mobile.svg";
+import goodinterface from "@/assets/images/interface.svg";
+import quality from "@/assets/images/quality.svg";
+
 import { getTranslations } from "next-intl/server";
 import Link from "next/link";
 
@@ -207,14 +213,53 @@ const Imagetopdf = async () => {
             <h3 className={styles.textheading3}>
               {t("mainBenefits.benefits.titleM")}
             </h3>
+            <Image alt="Multi-format" className={styles.img} src={format} />
             <p className={styles.textcontentpara}>
               {t("mainBenefits.benefits.descriptionM")}
             </p>
             <h3 className={styles.textheading3}>
               {t("mainBenefits.benefits.titleU")}
             </h3>
+            <Image
+              alt="User-Friendly Interface"
+              className={styles.img}
+              src={goodinterface}
+            />
             <p className={styles.textcontentpara}>
               {t("mainBenefits.benefits.descriptionU")}
+            </p>
+            <h3 className={styles.textheading3}>
+              {t("mainBenefits.benefits.titleH")}
+            </h3>
+            <Image
+              alt="High-Quality Output"
+              className={styles.img}
+              src={quality}
+            />
+            <p className={styles.textcontentpara}>
+              {t("mainBenefits.benefits.descriptionH")}
+            </p>
+            <h3 className={styles.textheading3}>
+              {t("mainBenefits.benefits.titleD")}
+            </h3>
+            <Image
+              alt="Mobile-Friendly Design"
+              className={styles.img}
+              src={mobile}
+            />
+            <p className={styles.textcontentpara}>
+              {t("mainBenefits.benefits.descriptionD")}
+            </p>
+            <h3 className={styles.textheading3}>
+              {t("mainBenefits.benefits.titleB")}
+            </h3>
+            <Image
+              alt="Batch Conversion Capability"
+              className={styles.img}
+              src={batch}
+            />
+            <p className={styles.textcontentpara}>
+              {t("mainBenefits.benefits.descriptionB")}
             </p>
           </div>
         </div>
