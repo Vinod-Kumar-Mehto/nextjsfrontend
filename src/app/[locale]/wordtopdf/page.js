@@ -48,8 +48,8 @@ export async function generateMetadata({ params }) {
     alternates: {
       canonical: canonicalURL,
       languages: {
-        "x-default": `${baseURL}/en/wordtopdf`,
-        en: `${baseURL}/en/wordtopdf`,
+        "x-default": `${baseURL}/wordtopdf`,
+        en: `${baseURL}/wordtopdf`,
         de: `${baseURL}/de/wordtopdf`,
         es: `${baseURL}/es/wordtopdf`,
         fr: `${baseURL}/fr/wordtopdf`,

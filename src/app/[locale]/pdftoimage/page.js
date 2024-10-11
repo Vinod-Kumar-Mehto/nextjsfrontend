@@ -48,8 +48,8 @@ export async function generateMetadata({ params }) {
     alternates: {
       canonical: canonicalURL,
       languages: {
-        "x-default": `${baseURL}/en/pdftoimage`,
-        en: `${baseURL}/en/pdftoimage`,
+        "x-default": `${baseURL}/pdftoimage`,
+        en: `${baseURL}/pdftoimage`,
         de: `${baseURL}/de/pdftoimage`,
         es: `${baseURL}/es/pdftoimage`,
         fr: `${baseURL}/fr/pdftoimage`,

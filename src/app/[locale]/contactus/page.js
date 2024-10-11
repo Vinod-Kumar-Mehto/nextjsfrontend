@@ -24,8 +24,8 @@ export async function generateMetadata({ params }) {
     alternates: {
       canonical: canonicalURL,
       languages: {
-        "x-default": `${baseURL}/en/contactus`,
-        en: `${baseURL}/en/contactus`,
+        "x-default": `${baseURL}/contactus`,
+        en: `${baseURL}/contactus`,
         de: `${baseURL}/de/contactus`,
         es: `${baseURL}/es/contactus`,
         fr: `${baseURL}/fr/contactus`,

@@ -24,8 +24,8 @@ export async function generateMetadata({ params }) {
     alternates: {
       canonical: canonicalURL,
       languages: {
-        "x-default": `${baseURL}/en/termsncondition`,
-        en: `${baseURL}/en/termsncondition`,
+        "x-default": `${baseURL}/termsncondition`,
+        en: `${baseURL}/termsncondition`,
         de: `${baseURL}/de/termsncondition`,
         es: `${baseURL}/es/termsncondition`,
         fr: `${baseURL}/fr/termsncondition`,

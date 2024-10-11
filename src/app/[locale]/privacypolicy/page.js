@@ -24,8 +24,8 @@ export async function generateMetadata({ params }) {
     alternates: {
       canonical: canonicalURL,
       languages: {
-        "x-default": `${baseURL}/en/privacypolicy`,
-        en: `${baseURL}/en/privacypolicy`,
+        "x-default": `${baseURL}/privacypolicy`,
+        en: `${baseURL}/privacypolicy`,
         de: `${baseURL}/de/privacypolicy`,
         es: `${baseURL}/es/privacypolicy`,
         fr: `${baseURL}/fr/privacypolicy`,

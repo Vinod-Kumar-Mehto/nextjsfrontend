@@ -45,8 +45,8 @@ export async function generateMetadata({ params }) {
     alternates: {
       canonical: canonicalURL,
       languages: {
-        "x-default": `${baseURL}/en/pdftoexcel`,
-        en: `${baseURL}/en/pdftoexcel`,
+        "x-default": `${baseURL}/pdftoexcel`,
+        en: `${baseURL}/pdftoexcel`,
         de: `${baseURL}/de/pdftoexcel`,
         es: `${baseURL}/es/pdftoexcel`,
         fr: `${baseURL}/fr/pdftoexcel`,
