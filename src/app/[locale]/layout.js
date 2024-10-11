@@ -13,7 +13,6 @@ export default async function RootLayout({ children, params }) {
   return (
     <html lang={params.locale}>
       <head>
-        <title>Imageocr: A Site about OCR Technology</title>
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
