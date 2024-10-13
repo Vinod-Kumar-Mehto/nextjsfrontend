@@ -87,7 +87,7 @@
     top: 58px; /* Adjusted for the 60px height of .navbar plus 20px margin */
     width: 39%;
     height: 35%;
-    background-color: #b3b7d5; /* Blue background color */
+    background-color: white; /* Blue background color */
     text-align: center;
     flex-direction: column;
     transition: 0.7s;
