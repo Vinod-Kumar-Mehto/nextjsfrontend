@@ -604,7 +604,17 @@
   },
   "contactus": {
     "title": "Kontaktieren Sie uns",
-    "description": "Bei Fragen oder Feedback können Sie uns jederzeit per E-Mail unter **imageocrcontact@gmail.com** kontaktieren. Wir schätzen Ihre Anfragen und bemühen uns, Ihnen umgehend Unterstützung bei unseren Diensten, Dokumenten-Konvertierungen oder technischen Fragen zu bieten. Ob Sie Verbesserungsvorschläge haben oder Klarstellungen zu unseren Funktionen benötigen, unser engagiertes Support-Team steht Ihnen gerne zur Verfügung. Zögern Sie nicht, uns jederzeit zu kontaktieren.",
+    "description": "Für Fragen oder Feedback können Sie uns jederzeit kontaktieren. Wir schätzen Ihre Anfragen und bemühen uns, zeitnah Unterstützung in Bezug auf unsere Dienstleistungen, Dokumentkonvertierungen oder jegliche technische Unterstützung zu bieten, die Sie benötigen. Ob Sie Verbesserungsvorschläge haben oder eine Klärung zu unseren Funktionen wünschen, zögern Sie nicht, uns jederzeit zu kontaktieren.",
+    "placeholder": {
+      "name": "Name",
+      "email": "E-Mail",
+      "message": "Nachricht",
+      "send": "Senden"
+    },
+    "componentTrans": {
+      "error": "Nachricht konnte nicht gesendet werden",
+      "success": "E-Mails wurden erfolgreich gesendet!"
+    },
     "metadata": {
       "title": "Kontaktieren Sie uns",
       "description": "Kontaktieren Sie uns bei Fragen zu diesem Konverter."

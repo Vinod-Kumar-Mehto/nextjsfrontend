@@ -10,21 +10,10 @@ const inter = Inter({ subsets: ["latin"] });
 
 export default async function RootLayout({ children, params }) {
   const messages = await getMessages();
+
   return (
     <html lang={params.locale}>
       <head>
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{
-            __html: JSON.stringify({
-              "@context": "https://schema.org",
-              "@type": "WebSite",
-              name: "ImageOCR",
-              alternateName: "ImageOCR (All in Converter)",
-              url: "https://www.imageocr.info",
-            }),
-          }}
-        />
         <script
           async
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8040030284338511"

@@ -1,5 +1,6 @@
 import styles from "@/app/[locale]/contactus/page.module.css";
 import { getTranslations } from "next-intl/server";
+import Contactus from "@/components/Contactus";
 
 export async function generateMetadata({ params }) {
   const t = await getTranslations("contactus");
@@ -67,13 +68,8 @@ const ContactUS = async () => {
             <br />
             <br />
           </p>
-          <a
-            href="mailto:imageocrcontact@gmail.com"
-            className={styles.contactemail}
-          >
-            Imageocrcontact@gmail.com
-          </a>
         </div>
+        <Contactus />
       </div>
     </>
   );

@@ -608,7 +608,17 @@
   },
   "contactus": {
     "title": "Skontaktuj się z nami",
-    "description": "W przypadku pytań lub opinii prosimy o kontakt e-mailowy pod adresem **imageocrcontact@gmail.com**. Cenimy Twoje zapytania i staramy się zapewnić szybką pomoc w zakresie naszych usług, konwersji dokumentów lub wszelkiego wsparcia technicznego, którego możesz potrzebować. Jeśli masz sugestie dotyczące ulepszeń lub potrzebujesz wyjaśnień dotyczących naszych funkcji, nasz dedykowany zespół wsparcia jest tutaj, aby Ci pomóc. Skontaktuj się z nami w dowolnym momencie.",
+    "description": "W przypadku pytań lub uwag, prosimy o kontakt. Cenimy sobie Twoje zapytania i staramy się zapewniać szybką pomoc dotyczącą naszych usług, konwersji dokumentów lub jakiejkolwiek pomocy technicznej, której możesz potrzebować. Jeśli masz sugestie dotyczące ulepszeń lub potrzebujesz wyjaśnień dotyczących naszych funkcji, nie wahaj się z nami skontaktować w dowolnym momencie.",
+    "placeholder": {
+      "name": "Imię",
+      "email": "E-mail",
+      "message": "Wiadomość",
+      "send": "Wyślij"
+    },
+    "componentTrans": {
+      "error": "Nie udało się wysłać wiadomości",
+      "success": "E-maile zostały pomyślnie wysłane!"
+    },
     "metadata": {
       "title": "Skontaktuj się z nami",
       "description": "Skontaktuj się z nami w przypadku jakichkolwiek pytań dotyczących tego konwertera."

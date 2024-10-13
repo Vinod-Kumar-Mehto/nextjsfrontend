@@ -9,31 +9,22 @@
 }
 
 .contactussection {
-  margin-bottom: 30px;
+  margin-bottom: 20px;
 }
 
 .contactuscontainer .contactheading1 {
   color: #660fb1;
   font-size: 2em;
   margin-top: 20px;
+  align-self: center;
+  margin-bottom: 70px;
 }
 
 .contactussection .contactparagraph {
-  font-size: 1em;
+  font-size: 18px;
   line-height: 1.6;
   margin-top: 20px;
   align-self: center;
-}
-
-.contactemail {
-  font-size: 1em;
-  color: #660fb1;
-  text-decoration: none;
-  margin-top: 10px;
-}
-
-.contactemail:hover {
-  text-decoration: underline;
 }
 
 /* Responsive Design */
@@ -49,8 +40,6 @@
   .contactussection .contactparagraph {
     font-size: 0.9em;
   }
-
-  .contactemail {
-    font-size: 0.9em;
-  }
 }
+
+/* styles/ContactForm.module.css */

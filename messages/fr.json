@@ -611,7 +611,17 @@
   },
   "contactus": {
     "title": "Contactez-nous",
-    "description": "Pour toute question ou retour, veuillez nous contacter par e-mail à **imageocrcontact@gmail.com**. Nous attachons une grande importance à vos demandes et nous nous efforçons de vous fournir une assistance rapide concernant nos services, les conversions de documents ou tout support technique dont vous pourriez avoir besoin. Que vous ayez des suggestions d'amélioration ou des demandes de clarification sur nos fonctionnalités, notre équipe de support dédiée est là pour vous aider. N'hésitez pas à nous contacter à tout moment.",
+    "description": "Pour toute question ou commentaire, n'hésitez pas à nous contacter. Nous apprécions vos demandes et nous efforçons de fournir une assistance rapide concernant nos services, la conversion de documents ou tout support technique dont vous pourriez avoir besoin. Que vous ayez des suggestions d'amélioration ou besoin de clarifications sur nos fonctionnalités, n'hésitez pas à nous contacter à tout moment.",
+    "placeholder": {
+      "name": "Nom",
+      "email": "E-mail",
+      "message": "Message",
+      "send": "Envoyer"
+    },
+    "componentTrans": {
+      "error": "Échec de l'envoi du message",
+      "success": "E-mails envoyés avec succès !"
+    },
     "metadata": {
       "title": "Contactez-nous",
       "description": "Contactez-nous pour toute question concernant ce convertisseur."

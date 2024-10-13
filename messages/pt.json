@@ -607,7 +607,17 @@
   },
   "contactus": {
     "title": "Entre em Contato Conosco",
-    "description": "Para quaisquer dúvidas ou feedback, por favor, entre em contato conosco por e-mail através de **imageocrcontact@gmail.com**. Valorizamos suas consultas e nos esforçamos para fornecer assistência rápida em relação aos nossos serviços, conversões de documentos ou qualquer suporte técnico que você possa precisar. Se você tiver sugestões de melhorias ou precisar de esclarecimentos sobre nossas funcionalidades, nossa equipe de suporte dedicada está aqui para ajudar. Sinta-se à vontade para nos contatar a qualquer momento.",
+    "description": "Para qualquer dúvida ou feedback, não hesite em nos contatar. Valorizamos suas perguntas e nos esforçamos para fornecer assistência rápida em relação aos nossos serviços, conversões de documentos ou qualquer suporte técnico que você possa precisar. Seja para sugestões de melhorias ou esclarecimentos sobre nossos recursos, sinta-se à vontade para nos contatar a qualquer momento.",
+    "placeholder": {
+      "name": "Nome",
+      "email": "E-mail",
+      "message": "Mensagem",
+      "send": "Enviar"
+    },
+    "componentTrans": {
+      "error": "Nie udało się wysłać wiadomości",
+      "success": "E-maile zostały pomyślnie wysłane!"
+    },
     "metadata": {
       "title": "Entre em Contato Conosco",
       "description": "Entre em contato conosco com qualquer dúvida sobre este conversor."
