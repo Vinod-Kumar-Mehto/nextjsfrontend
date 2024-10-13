@@ -1,7 +1,7 @@
 // app/api/send-email/route.js
 
 import nodemailer from "nodemailer";
-import NextResponse from "next";
+import NextResponse from "next/server";
 
 export async function GET(req) {
   return NextResponse.json(
