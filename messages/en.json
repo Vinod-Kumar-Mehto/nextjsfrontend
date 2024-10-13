@@ -623,7 +623,7 @@
     },
     "componentTrans": {
       "error": "Failed to send Message",
-      "success": "Emails sent successfully!"
+      "success": "Message sent successfully!"
     },
     "metadata": {
       "title": "Contact Us",

@@ -613,7 +613,7 @@
     },
     "componentTrans": {
       "error": "Nachricht konnte nicht gesendet werden",
-      "success": "E-Mails wurden erfolgreich gesendet!"
+      "success": "Nachricht erfolgreich gesendet!"
     },
     "metadata": {
       "title": "Kontaktieren Sie uns",

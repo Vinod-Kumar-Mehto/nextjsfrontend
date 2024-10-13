@@ -621,7 +621,7 @@
     },
     "componentTrans": {
       "error": "消息发送失败",
-      "success": "电子邮件发送成功！"
+      "success": "消息成功发送！"
     },
     "metadata": {
       "title": "联系我们",

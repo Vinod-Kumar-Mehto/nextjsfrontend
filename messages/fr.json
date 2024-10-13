@@ -620,7 +620,7 @@
     },
     "componentTrans": {
       "error": "Échec de l'envoi du message",
-      "success": "E-mails envoyés avec succès !"
+      "success": "Message envoyé avec succès !"
     },
     "metadata": {
       "title": "Contactez-nous",

@@ -616,7 +616,7 @@
     },
     "componentTrans": {
       "error": "Nie udało się wysłać wiadomości",
-      "success": "E-maile zostały pomyślnie wysłane!"
+      "success": "Mensagem enviada com sucesso!"
     },
     "metadata": {
       "title": "Entre em Contato Conosco",

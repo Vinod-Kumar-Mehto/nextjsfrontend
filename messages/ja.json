@@ -619,7 +619,7 @@
     },
     "componentTrans": {
       "error": "メッセージの送信に失敗しました",
-      "success": "メールが正常に送信されました！"
+      "success": "メッセージが正常に送信されました！"
     },
     "metadata": {
       "title": "お問い合わせ",

@@ -617,7 +617,7 @@
     },
     "componentTrans": {
       "error": "Invio del messaggio non riuscito",
-      "success": "Email inviate con successo!"
+      "success": "Messaggio inviato con successo!"
     },
     "metadata": {
       "title": "Contattaci",
